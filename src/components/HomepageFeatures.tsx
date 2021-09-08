@@ -2,6 +2,12 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
+type FeatureItem = {
+  title: string;
+  Svg: React.FunctionComponent<React.SVGProps<SVGSVGElement> & {alt?: string}>;
+  description: JSX.Element;
+};
+
 const FeatureList = [
   {
     title: 'Easy to Use',
@@ -35,7 +41,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
