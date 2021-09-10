@@ -22,6 +22,11 @@ jobs:
         run: yarn typecheck
       - name: Build website
         run: yarn build
+      - name: Upload build artifacts to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-artifact
+          path: build
 
   deploy:
     runs-on: ubuntu-latest
