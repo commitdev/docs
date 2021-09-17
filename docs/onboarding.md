@@ -1,4 +1,4 @@
-# Onboarding (post onboarding and pre-pilot)
+# Onboarding
 
 1. From day 1 to your HOP Demo, go through [the checklist](https://docs.google.com/spreadsheets/d/1dxoh2oAhdQcSoLtJyEj2ovm9wUlwMLjnUYncso-vSMw/edit#gid=0) with your EPX Coordinator
 2. After your HOP Demo, your EPX Coordinator will navigate you to this guide through your EPX channel
@@ -16,14 +16,8 @@ Once you've completed your HOP Demo, your EPX coordinator will ask you to:
 - Decide on what you want to work on:
   - Another HOP, continue the HOP project
   - Create a blog article for "Code + Tell" -- teach someone something in 5-10 minutes and it'll be posted as an article on `commit.dev/blog`
-  - Create a blog article on soft skills/project management/team leadership/management skills
-  - WIP Open Source Sundays (talk about an open source project, compare it against alternatives)
-  - WIP Already with an SP, found an OS project you wanted to contribute to and contribute to that (ie. typesense -- alternative to algolia)
   - [Platform](https://github.com/commitdev/helix#platform-wiki) (An internal Commit sponsored application used to help match engineers with startups)
-  - [Zero](https://github.com/commitdev/zero#contributing-to-zero) (An open source Commit sponsored project used to help startup engineers set up their infrastructure)
-- Help contribute something to EP Journey Guide?
-
-  - Create a Github Project Board (see this [example how-to recording](https://github.com/commitdev/epcg#:~:text=example%20how-to%20recording))
+- Create a Github Project Board (see this [example how-to recording](https://github.com/commitdev/epcg#:~:text=example%20how-to%20recording))
   - Use your first AND last name (ie. Simon Ho) to as the name of your project board
   - Pull in your first issue to work on from the chosen project
   - Assign yourself the issue

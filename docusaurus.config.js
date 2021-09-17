@@ -13,7 +13,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -39,7 +38,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'about-commit',
+            docId: 'onboarding',
             position: 'left',
             label: 'Engineering Partner Program',
           },
