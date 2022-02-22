@@ -1,3 +1,9 @@
+---
+title: Onboarding
+sidebar_label: Onboarding
+sidebar_position: 1
+---
+
 # Onboarding
 
 1. From day 1 to your HOP Demo, go through [the checklist](https://docs.google.com/spreadsheets/d/1dxoh2oAhdQcSoLtJyEj2ovm9wUlwMLjnUYncso-vSMw/edit#gid=0) with your EPX Coordinator

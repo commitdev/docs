@@ -22,6 +22,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/commitdev/epjourney/edit/main/website/',
+          path: 'docs',
+          routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -33,12 +35,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
       navbar: {
         title: 'EP Journey',
         items: [
           {
-            type: 'doc',
-            docId: 'onboarding',
+            href: `/about/overview`,
             position: 'left',
             label: 'Engineering Partner Program',
           },
@@ -46,9 +50,32 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       footer: {
         style: 'dark',
+        logo: {
+          height: 20,
+          src: "https://commit.dev/wp-content/uploads/2021/05/commit-logo.svg",
+
+        },
         links: [
           {
-            title: 'More',
+            // title: 'Commit',
+            items: [
+              {
+                label: 'Commit',
+                href: 'https://commit.dev',
+              },
+            ],
+          },
+          {
+            // title: 'EP Journey',
+            items: [
+              {
+                label: 'Commit Platform',
+                href: 'https://app.commit.dev',
+              },
+            ],
+          },
+          {
+            // title: 'EP Journey',
             items: [
               {
                 label: 'GitHub',
@@ -63,4 +90,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
     }),
+  stylesheets:  [
+    // loading fonts
+    'https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Montserrat:wght@400;600;700;800&display=swap',
+  ]
 });
