@@ -21,7 +21,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/commitdev/epjourney/edit/main/website/',
+          editUrl: 'https://github.com/commitdev/epjourney/edit/main/',
           path: 'docs',
           routeBasePath: '/',
         },
@@ -40,11 +40,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       navbar: {
         title: 'EP Journey',
+        // Top navigation bar's shortcut to places OR External Links
         items: [
+          // Example of shortcut to doc
           {
-            href: `/about/overview`,
+            href: `/eps/onboarding`,
             position: 'left',
             label: 'Engineering Partner Program',
+          },
+          // Example of external link
+          {
+            href: 'https://github.com/commitdev/epjourney',
+            position: 'left',
+            label: 'Github',
           },
         ],
       },

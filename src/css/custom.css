@@ -27,6 +27,8 @@
   --ifm-navbar-sidebar-width: 15rem;
   --ifm-alert-padding-vertical: 1rem;
   --ifm-alert-padding-horizontal: 1rem;
+  /** To force the doc's sidebar to a specific width */
+  /* --doc-sidebar-width: 250px !important; */
 }
 
 html[data-theme='dark'] {
@@ -84,6 +86,13 @@ html{
   font-weight: 400;
 }
 
+/** Fixed nav bar **/
+/* Forcing Title to be same width as sidebar */
+.navbar--fixed-top .navbar__brand {
+
+  min-width: var(--doc-sidebar-width);
+  margin-right: 0;
+}
 /** Small screen hamburger menu slideout background **/
 .navbar-sidebar--show .navbar-sidebar {
   background-color: var(--ifm-code-background);

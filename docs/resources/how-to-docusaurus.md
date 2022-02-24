@@ -58,17 +58,19 @@ my text here
 ```
 quick brown fox jumps over the lazy dog
 :::
+
 :::tip
 quick brown fox jumps over the lazy dog
 :::
-quick brown fox jumps over the lazy dog
-:::
+
 :::info
 quick brown fox jumps over the lazy dog
 :::
+
 :::caution
 quick brown fox jumps over the lazy dog
 :::
+
 :::danger
 quick brown fox jumps over the lazy dog
 :::
