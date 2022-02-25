@@ -38,7 +38,7 @@ html[data-theme='dark'] {
   --ifm-background-color: linear-gradient(90deg, rgba(15, 16, 17, 1) 0%, rgba(1, 2, 66, 1) 100%);
   --ifm-color-info: rgba(255, 166, 0, 0.4);
   --ifm-menu-color-active: #ff6ab9; 
-  --ifm-navbar-link-hover-color: #ff6ab9; 
+  --ifm-navbar-link-hover-color: #ff3ea7; 
   --ifm-link-color: #ff6ab9; 
   --ifm-code-background: rgba(140,140,140,0.5);
 }
