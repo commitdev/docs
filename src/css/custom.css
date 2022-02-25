@@ -137,6 +137,13 @@ html{
   --ifm-alert-color: var(--ifm-color-gray-900);
   --ifm-alert-foreground-color: var(--ifm-color-gray-900);
 }
+/* alert - tip */
+.alert--tip{
+  --ifm-alert-background-color: rgb(0, 176, 230);
+  --ifm-alert-border-color: rgb(18, 198, 255); /* light blue of blue gradient */
+  --ifm-alert-color: var(--ifm-color-gray-900);
+  --ifm-alert-foreground-color: var(--ifm-color-gray-900);
+}
 /* alert - info */
 .alert--info{
   --ifm-alert-background-color: rgb(146, 159, 185);
