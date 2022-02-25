@@ -132,16 +132,14 @@ html{
 
 /* alert - note */
 .alert--secondary{
-  --ifm-alert-background-color: rgb(179, 237, 255);
-
+  --ifm-alert-background-color: rgb(128, 225, 255);
   --ifm-alert-border-color: rgb(18, 198, 255); /* bright blue of blue gradient */
-
   --ifm-alert-color: var(--ifm-color-gray-900);
   --ifm-alert-foreground-color: var(--ifm-color-gray-900);
 }
 /* alert - info */
 .alert--info{
-  --ifm-alert-background-color: rgb(162, 173, 195); 
+  --ifm-alert-background-color: rgb(146, 159, 185); 
   --ifm-alert-border-color: rgb(122, 138, 169); /*blue-grey */ 
   --ifm-alert-color: var(--ifm-color-gray-900);
   --ra-admonition-icon-color: var(--ifm-color-gray-900);
