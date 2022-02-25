@@ -6,20 +6,20 @@
 
  /* You can override the default Infima variables here. */
  :root {
-  --ifm-color-primary-dark: rgb(33, 175, 144); /* TiffNote - these colours are for alerts. */
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary-dark: rgb(97, 132, 201); /* darker blue of blue gradient - 58% on scale */
+  --ifm-color-primary-darker: rgb(65, 107, 190); /* darker blue of blue gradient at 50% */
+  --ifm-color-primary-darkest: rgb(52, 85, 152); /* darker blue of blue gradient at 40% */
+  --ifm-color-primary-light: rgb(122, 151, 209); /* darker blue of blue gradient at 65% */
+  --ifm-color-primary-lighter: rgb(141, 166, 216); /* darker blue of blue gradient at 70% */
+  --ifm-color-primary-lightest: rgb(160, 181, 222); /* darker blue of blue gradient at 75% */
   --ifm-navbar-link-hover-color: rgb(33, 175, 144);
   --ifm-code-font-size: 95%;
   --ifm-footer-padding-vertical: 20px;
   --ifm-footer-padding-horizontal: 10px;
   --ifm-footer-background-color: transparent;
   /* --ifm-color-secondary: rgb(255, 106, 185); */
-  --ifm-button-cta-background: linear-gradient(294.55deg, #F2BD6D 17.88%, #F17F84 65.95%, #FF3EA7 93.96%);
-  --ifm--hero--text-background-gradient: linear-gradient(234.45deg, #12C6FF 0%, #6184C9 68.23%);
+  --ifm-button-cta-background: linear-gradient(294.55deg, #F2BD6D 17.88%, #F17F84 65.95%, #FF3EA7 93.96%); /* yellow-pink gradient */
+  --ifm--hero--text-background-gradient: linear-gradient(234.45deg, #12C6FF 0%, #6184C9 68.23%); /* blue gradient */
   --ifm-landing-page-inverse-font-color: #333;
   --ifm-color-dark-active: rgba(5, 6, 55, 1);
   --ifm-color-light-active: #edc281;
@@ -32,14 +32,14 @@
 }
 
 html[data-theme='dark'] {
-  --ifm-color-primary: #ff6ab9; 
+  --ifm-color-primary: #ff6ab9; /* pink accent */
   --ifm-font-color-base-inverse: white;
   --ifm-navbar-background-color: transparent;
   --ifm-background-color: linear-gradient(90deg, rgba(15, 16, 17, 1) 0%, rgba(1, 2, 66, 1) 100%);
   --ifm-color-info: rgba(255, 166, 0, 0.4);
-  --ifm-menu-color-active: #ff6ab9; 
-  --ifm-navbar-link-hover-color: #ff3ea7; 
-  --ifm-link-color: #ff6ab9; 
+  --ifm-menu-color-active: #ff6ab9; /* pink accent */
+  --ifm-navbar-link-hover-color: #ff6ab9; /* pink accent */
+  --ifm-link-color: #ff6ab9; /* pink accent */
   --ifm-code-background: rgba(140,140,140,0.5);
 }
 
@@ -132,9 +132,9 @@ html{
 
 /* alert - note */
 .alert--secondary{
-  --ifm-alert-background-color: rgb(200, 212, 226);
+  --ifm-alert-background-color: rgb(122, 138, 169); /* blue-grey */
 
-  --ifm-alert-border-color: rgb(159, 166, 173);
+  --ifm-alert-border-color: rgb(122, 138, 169); /* blue-grey */
 
   --ifm-alert-color: var(--ifm-color-gray-900);
   --ifm-alert-foreground-color: var(--ifm-color-gray-900);
