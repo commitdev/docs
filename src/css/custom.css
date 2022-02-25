@@ -6,12 +6,13 @@
 
  /* You can override the default Infima variables here. */
  :root {
-  --ifm-color-primary-dark: rgb(97, 132, 201); /* darker blue of blue gradient - 58% on scale */
-  --ifm-color-primary-darker: rgb(65, 107, 190); /* darker blue of blue gradient at 50% */
-  --ifm-color-primary-darkest: rgb(52, 85, 152); /* darker blue of blue gradient at 40% */
-  --ifm-color-primary-light: rgb(122, 151, 209); /* darker blue of blue gradient at 65% */
-  --ifm-color-primary-lighter: rgb(141, 166, 216); /* darker blue of blue gradient at 70% */
-  --ifm-color-primary-lightest: rgb(160, 181, 222); /* darker blue of blue gradient at 75% */
+  --ifm-color-primary: rgb(97, 132, 201); /* darker blue of blue gradient */
+  --ifm-color-primary-dark: rgb(75, 115, 193); 
+  --ifm-color-primary-darker: rgb(65, 106, 189); 
+  --ifm-color-primary-darkest: rgb(53, 89, 155); 
+  --ifm-color-primary-light: rgb(122, 151, 209); 
+  --ifm-color-primary-lighter: rgb(119, 149, 209); 
+  --ifm-color-primary-lightest: rgb(164, 184, 224); 
   --ifm-navbar-link-hover-color: rgb(33, 175, 144);
   --ifm-code-font-size: 95%;
   --ifm-footer-padding-vertical: 20px;
@@ -46,7 +47,7 @@ html[data-theme='dark'] {
 html[data-theme='light'] {
   --ifm-heading-color: navy;
   --ifm-font-color-base-inverse: navy;
-  --ifm-color-secondary: #6184C9;
+  --ifm-color-secondary: #6184C9; /* dark blue of blue gradient */
   --ifm-background-color: #fefefe;
 }
 html[data-theme='light'] .navbar--fixed-top, html[data-theme='light'] .navbar-sidebar__brand{
