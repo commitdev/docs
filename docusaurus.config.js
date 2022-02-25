@@ -39,19 +39,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         defaultMode: 'dark',
       },
       navbar: {
-        title: 'EP Journey',
+        title: 'Commit Docs',
         // Top navigation bar's shortcut to places OR External Links
         items: [
           // Example of shortcut to doc
           {
             href: `/eps/onboarding`,
-            position: 'left',
-            label: 'Engineering Partner Program',
+            position: 'right',
+            label: 'The EP Guide',
           },
           // Example of external link
           {
             href: 'https://github.com/commitdev/epjourney',
-            position: 'left',
+            position: 'right',
             label: 'Github',
           },
         ],
