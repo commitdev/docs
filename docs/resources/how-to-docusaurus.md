@@ -59,11 +59,13 @@ my text here
 quick brown fox jumps over the lazy dog
 :::
 
-:::tip
+:::info
 quick brown fox jumps over the lazy dog
 :::
 
-:::info
+Note that the following additional admonitions have not been styled in Commit colours, so shouldn't be used. 
+
+:::tip
 quick brown fox jumps over the lazy dog
 :::
 
