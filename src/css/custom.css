@@ -47,8 +47,12 @@ html[data-theme='dark'] {
 html[data-theme='light'] {
   --ifm-heading-color: black;
   --ifm-font-color-base-inverse: black;
+  --ifm-navbar-background-color: transparent;
   --ifm-color-secondary: #12c6ff; /* light blue of blue gradient */
   --ifm-background-color: #fefefe;
+  --ifm-menu-color-active: #ff6ab9; /* pink accent */
+  --ifm-navbar-link-hover-color: #ff6ab9; /* pink accent */
+  --ifm-link-color: #ff6ab9; /* pink accent */
 }
 html[data-theme='light'] .navbar--fixed-top, html[data-theme='light'] .navbar-sidebar__brand{
   background: linear-gradient(90deg, rgba(15, 16, 17, 0.3) 0%, rgba(1, 2, 66, 0.4) 100%);
