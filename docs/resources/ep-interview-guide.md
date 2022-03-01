@@ -4,7 +4,9 @@ sidebar_label: Interview Guide for EPs
 sidebar_position: 1
 ---
 
-:::info Congrats! You have accepted an SP’s interview request and have scheduled an interview. Here is a general overview of SP interviews, what you can expect, and some general tips on preparing for your interview. :::
+:::info 
+Congrats! You have accepted an SP’s interview request and have scheduled an interview. Here is a general overview of SP interviews, what you can expect, and some general tips on preparing for your interview.
+:::
 
 ## What you can expect
 
@@ -92,8 +94,7 @@ Want more practice? Here’s a [comprehensive list of behavioural interview ques
 ## During the interview
 
 - Arrive at your Zoom interview on time but not too early. We recommend entering your Zoom interview 2-3 mins before your scheduled interview. 
-  - What happens if the interviewer doesn’t show up? 
-    - If it’s been 5-10mins past the interview time and no one from the SP team has showed up, please email the SP about this matter  
+  - What happens if the interviewer doesn’t show up? If it’s been 5-10mins past the interview time and no one from the SP team has showed up, please email the SP about this matter  
 - Go in with a positive attitude, warmth, and smile! This may seem obvious, but in a virtual interview, body language can be harder to read.  
   - SPs are not only looking for someone who can code, but a core team member who can also lead, build team culture and are excited with what they are working on. 
 
