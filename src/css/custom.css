@@ -45,9 +45,9 @@ html[data-theme='dark'] {
 }
 
 html[data-theme='light'] {
-  --ifm-heading-color: navy;
-  --ifm-font-color-base-inverse: navy;
-  --ifm-color-secondary: #6184C9; /* dark blue of blue gradient */
+  --ifm-heading-color: black;
+  --ifm-font-color-base-inverse: black;
+  --ifm-color-secondary: #12c6ff; /* light blue of blue gradient */
   --ifm-background-color: #fefefe;
 }
 html[data-theme='light'] .navbar--fixed-top, html[data-theme='light'] .navbar-sidebar__brand{
