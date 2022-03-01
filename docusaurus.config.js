@@ -40,7 +40,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       navbar: {
         title: 'Commit Docs',
-        style: 'dark',
         // Top navigation bar's shortcut to places OR External Links
         items: [
           // Example of shortcut to doc
