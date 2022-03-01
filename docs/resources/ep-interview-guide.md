@@ -4,9 +4,7 @@ sidebar_label: Interview Guide for EPs
 sidebar_position: 1
 ---
 
-:::info
-Congrats! You have accepted an SP’s interview request and have scheduled an interview. Here is a general overview of SP interviews, what you can expect, and some general tips on preparing for your interview.
-:::
+:::info Congrats! You have accepted an SP’s interview request and have scheduled an interview. Here is a general overview of SP interviews, what you can expect, and some general tips on preparing for your interview.:::
 
 ## What you can expect
 
