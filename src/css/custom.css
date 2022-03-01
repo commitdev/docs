@@ -48,7 +48,7 @@ html[data-theme='light'] {
   --ifm-heading-color: black;
   --ifm-font-color-base-inverse: black;
   --ifm-navbar-background-color: transparent;
-  /*--ifm-color-secondary: #12c6ff; /* light blue of blue gradient */ */
+  /*--ifm-color-secondary: #12c6ff;  */
   --ifm-background-color: #fefefe;
   --ifm-menu-color-active: #ff6ab9; /* pink accent */
   --ifm-navbar-link-hover-color: #ff6ab9; /* pink accent */
