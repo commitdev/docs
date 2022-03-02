@@ -1,7 +1,7 @@
 ---
 title: Docusaurus Guide
 sidebar_label: Docusaurus Guide
-sidebar_position: 1
+sidebar_position: 10
 ---
 
 ## Important files
