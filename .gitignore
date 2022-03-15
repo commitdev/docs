@@ -21,3 +21,5 @@ yarn-error.log*
 
 # The CI pipeline uses yarn.lock
 package-lock.json
+
+.env

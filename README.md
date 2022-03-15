@@ -1,3 +1,3 @@
-# epjourney
+# Commit Docs
 
-Everything related to the EP Journey.
+Everything related to the Commit Docs

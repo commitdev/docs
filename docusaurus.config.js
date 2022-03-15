@@ -1,12 +1,29 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const algolia = {
+  // The application ID provided by Algolia
+  appId: '6CK8999JQP',
+  // Public API key: it is safe to commit it
+  apiKey: '522cf2e708650054ec5e231b389669df',
+  indexName: 'March',
+  // Optional: see doc section below
+  contextualSearch: false,
+  // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+  externalUrlRegex: 'external\\.com|domain\\.com',
+  // Optional: Algolia search parameters
+  searchParameters: {},
+  // Optional: path for search page that enabled by default (`false` to disable it)
+  searchPagePath: 'search',
+  //... other Algolia params
+};
+
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'EP JOURNEY',
+  title: 'Commit Docs',
   tagline: 'Doing what’s right for the engineer',
-  url: 'https://epjourney.commit.dev',
+  url: 'https://docs.commit.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -18,10 +35,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        googleAnalytics: {
+          trackingID: 'G-R241YEH02F',
+          anonymizeIP: false,
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/commitdev/epjourney/edit/main/',
+          editUrl: 'https://github.com/commitdev/docs/edit/main/',
           path: 'docs',
           routeBasePath: '/',
         },
@@ -35,6 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia,
       colorMode: {
         defaultMode: 'dark',
       },
@@ -50,7 +72,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           // Example of external link
           {
-            href: 'https://github.com/commitdev/epjourney',
+            href: 'https://github.com/commitdev/docs',
             position: 'right',
             label: 'Github',
           },
@@ -87,7 +109,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/commitdev/epjourney',
+                href: 'https://github.com/commitdev/docs',
               },
             ],
           },
