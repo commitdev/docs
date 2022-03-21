@@ -8,11 +8,11 @@ March 21, 2022
 
 ## About us & this privacy policy
 
-We’re Commit*. Our key operating principle is “do what’s best for the engineer” and that extends to how we handle your information. 
-- * We are incorporated as Commit Solutions Inc. in British Columbia, Canada.
+We’re Commit. Our key operating principle is “do what’s best for the engineer” and that extends to how we handle your information. 
+- We are incorporated as Commit Solutions Inc. in British Columbia, Canada.
 
-This is our Privacy Policy and it applies to how & when we collect, use, store, and share your information on our websites and apps* where we offer and provide our products. 
-- * Our website is https://commit.dev and we have other websites and apps on our domains, which include commit.dev and getzero.dev. 
+This is our Privacy Policy and it applies to how & when we collect, use, store, and share your information on our websites and apps where we offer and provide our products. 
+- Our website is https://commit.dev and we have other websites and apps on our domains, which include commit.dev and getzero.dev. 
 
 We have tried to write this Privacy Policy in plain language to make it easy to understand and less painful to read. 
 - We’re aiming for “approachable”, but this could also come across as “casual” and we don’t want you to think that we take a casual approach to handling your information.
@@ -35,17 +35,17 @@ Some of that information may directly identify you (e.g., your email address) or
 - There are certain instances where we apply an even higher standard for your personal information, e.g., if you’re one of our employees and we have to ask for and store your Social Insurance Number.
 
 Depending on where you live (or where you are a citizen), there may be applicable legislation that defines “personal information” or “personal data” differently and/or more specifically. That legislation may also outline specific legal rights that you have with respect to that information. 
-- If that’s you and you would like to exercise one of those rights, [contact us] (https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us).
+- If that’s you and you would like to exercise one of those rights, [contact us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us).
 
 ## How & when do we collect your information?
 
 We collect your information:
 - when you give it to us directly, including in-product or in a job application;
 - when you interact with us, including on social media platforms and via email;
-- automatically through our websites and apps*; and
+- automatically through our websites and apps; and
 - from other people/service providers, including through integrations with other service providers.
 
-* We use cookies and third-party web analytics for automatic collection of information about you, including:
+We use cookies and third-party web analytics for automatic collection of information about you, including:
 - Google Analytics; and 
 - other metrics tools from time to time, on an experimental basis.
 
@@ -57,7 +57,7 @@ We use your information when we provide our products to you.
 
 We use your information together with other users’ information to make decisions when developing and improving our products. We are still experimenting and iterating. Tracking how you use our products helps us immensely in confirming what works and what to build next.
 
-We use your information to contact you. If you would like us to stop contacting you, you can use the “unsubscribe” link at the bottom of our emails to let us know (or contact us [link to section]).
+We use your information to contact you. If you would like us to stop contacting you, you can use the “unsubscribe” link at the bottom of our emails to let us know (or [contact us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us)).
 
 ## When do we share your information outside of Commit?
 
@@ -67,11 +67,11 @@ We share your information with others when we provide our products to you – we
 
 We also share your information with other service providers that we use to provide our products and do business. Here’s a table of the big ones: 
 
-|Service provider |Example of use |Link to their security creds |
+|Service provider|Example of use|Link to their security creds|
 |--|--|--|
-| AWS | hosting | https://aws.amazon.com/security/ |
+|AWS|hosting| https://aws.amazon.com/security/ |
 |Google Workspace|internal business things, like email and document storage|https://workspace.google.com/intl/en_ca/security/|
-|Humi|human resources |https://www.humi.ca/security|
+|Humi|human resources|https://www.humi.ca/security|
 |Airtable|internal database|https://www.airtable.com/security\
 |Hubspot|CRM, marketing, operations|https://legal.hubspot.com/security|
 |HelloSign|sending documents for signatures|https://www.hellosign.com/trust/security|
