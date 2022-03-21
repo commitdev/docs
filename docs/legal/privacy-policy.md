@@ -20,7 +20,7 @@ We have tried to write this Privacy Policy in plain language to make it easy to 
 
 We have also tried to be blunt about where we’re at as a startup. We’re not going to promise to be perfect, but we can promise to be thoughtful, transparent, and accountable. 
 - If you need to know more about who we are or what we’re doing or why we need certain information, take a look first at [Commit Docs](https://docs.commit.dev). 
-- If what you’re looking for isn’t there, you can ask us through GitHub or by [contacting us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us).
+- If what you’re looking for isn’t there, you can ask us through GitHub or by [contacting us](#how-can-you-contact-us).
 
 If you decide not to share your information with us, you won’t be able to use our products and will want to steer clear of digitally visiting and interacting with us. That’s too bad, but also okay - we know that we’re not for everyone. 
 
@@ -35,7 +35,7 @@ Some of that information may directly identify you (e.g., your email address) or
 - There are certain instances where we apply an even higher standard for your personal information, e.g., if you’re one of our employees and we have to ask for and store your Social Insurance Number.
 
 Depending on where you live (or where you are a citizen), there may be applicable legislation that defines “personal information” or “personal data” differently and/or more specifically. That legislation may also outline specific legal rights that you have with respect to that information. 
-- If that’s you and you would like to exercise one of those rights, [contact us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us).
+- If that’s you and you would like to exercise one of those rights, [contact us](#how-can-you-contact-us).
 
 ## How & when do we collect your information?
 
@@ -57,7 +57,7 @@ We use your information when we provide our products to you.
 
 We use your information together with other users’ information to make decisions when developing and improving our products. We are still experimenting and iterating. Tracking how you use our products helps us immensely in confirming what works and what to build next.
 
-We use your information to contact you. If you would like us to stop contacting you, you can use the “unsubscribe” link at the bottom of our emails to let us know (or [contact us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us)).
+We use your information to contact you. If you would like us to stop contacting you, you can use the “unsubscribe” link at the bottom of our emails to let us know (or [contact us](#how-can-you-contact-us)).
 
 ## When do we share your information outside of Commit?
 
@@ -99,7 +99,7 @@ We don’t want to keep your information for any longer than we need it - we sho
 
 When we need to update this Privacy Policy, we’ll post the updated policy here with a new effective date at the top of the page. We may also announce the update through other channels, such as our website or platform. 
 - If you keep using our products or providing information to us after the effective date of an updated policy, then we're going to assume that you’re cool with the updates. 
-- If you’re not actually okay with what we’ve changed, you should stop using our products. You can also ask us to delete your information by [contacting us](https://docs.commit.dev/legal/privacy-policy#how-can-you-contact-us).
+- If you’re not actually okay with what we’ve changed, you should stop using our products. You can also ask us to delete your information by [contacting us](#how-can-you-contact-us).
 
 ## How can you contact us?
 
