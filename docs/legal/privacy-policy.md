@@ -79,6 +79,7 @@ We also share your information with other service providers that we use to provi
 |Asana|internal project and task management|https://asana.com/security-standards|
 |Together|mentoring|https://help.togetherplatform.com/hc/en-us/articles/4401992420251-Security-Overview|
 
+
 We will also share your information with others:
 - when you specifically tell us to or you give us permission to share your information;
 - when the law says we have to; or
