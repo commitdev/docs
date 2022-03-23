@@ -39,6 +39,8 @@ Act responsibly and ethically. When participating in online conversation, do not
 
 Be careful about what personal information you share online. Do not publish, post, or release information that is considered confidential or top secret. This includes information on clients we work with as well. If you are unsure if something is public or not, ask the person who owns that information, be it a client or our internal team.
 
+``` image to be added ```
+
 ## Harassment and Zero Tolerance
 
 Commit does not allow harassment of any kind to or by our community members. Even though we are a remote company there are still many forms of harassment that can happen in the workplace. If you are being harassed (or even feel like you might be) you should bring it up with HR at hr@commit.dev.
