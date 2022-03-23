@@ -4,7 +4,7 @@ sidebar_label: Privacy Policy
 sidebar_position: 1
 ---
 
-Last updated: March 21, 2022
+Last updated: March 22, 2022
 
 ## About us & this privacy policy
 
