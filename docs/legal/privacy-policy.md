@@ -4,15 +4,15 @@ sidebar_label: Privacy Policy
 sidebar_position: 1
 ---
 
-March 21, 2022
+Last updated: March 21, 2022
 
 ## About us & this privacy policy
 
-We’re Commit. Our key operating principle is “do what’s best for the engineer” and that extends to how we handle your information. 
+We’re Commit. Our key operating principle is “do what’s right for the engineer” and that extends to how we handle your information. 
 - We are incorporated as Commit Solutions Inc. in British Columbia, Canada.
 
 This is our Privacy Policy and it applies to how & when we collect, use, store, and share your information on our websites and apps where we offer and provide our products. 
-- Our website is https://commit.dev and we have other websites and apps on our domains, which include commit.dev and getzero.dev. 
+- Our website is https://commit.dev, our app is https://app.commit.dev, and we have other websites and apps on our domains, which include commit.dev and getzero.dev. 
 
 We have tried to write this Privacy Policy in plain language to make it easy to understand and less painful to read. 
 - We’re aiming for “approachable”, but this could also come across as “casual” and we don’t want you to think that we take a casual approach to handling your information.
@@ -69,17 +69,16 @@ We also share your information with other service providers that we use to provi
 
 |Service provider|Example of use|Link to their security creds|
 |--|--|--|
-|AWS|hosting| https://aws.amazon.com/security/ |
-|Google Workspace|internal business things, like email and document storage|https://workspace.google.com/intl/en_ca/security/|
-|Humi|human resources|https://www.humi.ca/security|
-|Airtable|internal database|https://www.airtable.com/security\
+|AWS|Hosting| https://aws.amazon.com/security/ |
+|Google Workspace|Internal business things, like email and document storage|https://workspace.google.com/intl/en_ca/security/|
+|Humi|Human resources|https://www.humi.ca/security|
+|Airtable|Internal database|https://www.airtable.com/security\
 |Hubspot|CRM, marketing, operations|https://legal.hubspot.com/security|
-|HelloSign|sending documents for signatures|https://www.hellosign.com/trust/security|
-|Slack|communication|https://slack.com/security-practices|
-|Asana|internal project and task management|https://asana.com/security-standards|
-|Together|mentoring|https://help.togetherplatform.com/hc/en-us/articles/4401992420251-Security-Overview|
-
-
+|HelloSign|Sending documents for signatures|https://www.hellosign.com/trust/security|
+|Slack|Communication|https://slack.com/security-practices|
+|Asana|Internal project and task management|https://asana.com/security-standards|
+|Together|Mentoring|https://help.togetherplatform.com/hc/en-us/articles/4401992420251-Security-Overview|  
+  
 We will also share your information with others:
 - when you specifically tell us to or you give us permission to share your information;
 - when the law says we have to; or
