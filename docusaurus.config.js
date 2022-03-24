@@ -28,8 +28,8 @@ const algolia = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'commitdev', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -66,9 +66,9 @@ const algolia = {
         items: [
           // Example of shortcut to doc
           {
-            href: `/eps/onboarding`,
+            href: '/eps/ep-expectations',
             position: 'right',
-            label: 'The EP Guide',
+            label: 'EP Expectations',
           },
           // Example of external link
           {
@@ -96,7 +96,7 @@ const algolia = {
             ],
           },
           {
-            // title: 'EP Journey',
+            // title: 'Commit Platform',
             items: [
               {
                 label: 'Commit Platform',
@@ -105,7 +105,7 @@ const algolia = {
             ],
           },
           {
-            // title: 'EP Journey',
+            // title: 'Github',
             items: [
               {
                 label: 'GitHub',
