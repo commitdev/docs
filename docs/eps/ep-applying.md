@@ -4,6 +4,46 @@ sidebar_label: Application Process
 sidebar_position: 2
 ---
 
-:::note
-This page needs to be updated! 
-:::
+Our internal ethos at Commit is learning, helping, and having fun. We are looking for senior software engineers who resonate with this.
+
+Learning to us means:
+- Writing high quality code
+- Thinking not only about code but about customers, the business and tech trade offs
+- Having a passion for different industries and sectors
+
+Helping to us means:
+- Being generous with your time 
+- Wanting to collaborate with others to make them better
+- Contributing to the Commit community 
+
+Having fun to us means:
+- Wanting to join a startup to support extraordinary growth
+- Taking work-life balance seriously and supporting others to do the same
+- Doing what you love! 
+
+Hear from our co-founders Greg and Beier about who is a good fit for Commit 
+
+```
+video to be embedded
+https://www.linkedin.com/company/commitdev/videos/native/urn:li:ugcPost:6769743587849707520/?viewAsMember=true 
+```
+
+And who is not the best for Commit if you are still unsure
+```
+video to be embedded
+https://www.linkedin.com/company/commitdev/videos/native/urn:li:ugcPost:6768641532577882112/?viewAsMember=true 
+```
+
+## Interview process
+
+We have a 3-step interview process at Commit that takes 7-10 days to complete based on your availability and schedule. All interviews are conducted over Zoom.
+
+So here are the 3 steps in a bit more detail:
+
+**Meet our Engineer Concierge:** This is a 30-minute conversation for you to learn more about the program and ask any questions that you have. We will be talking about your motivations for applying to the program, the values you hold as a software engineer, and the team dynamics that you like to work within.
+
+
+**The Tech Assessment:** This 60- to 90-minute conversation is led by a member of our staff engineering team. This conversation is premised on inquiry-based questions about actual projects you’ve worked on and includes a system design component.
+
+
+**Meet our CEO:** This 30-minute conversation is a chance for you to speak with our CEO, and ask him all the questions you have about joining Commit and working with a startup (or a few!)
