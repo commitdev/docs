@@ -40,10 +40,8 @@ We have a 3-step interview process at Commit that takes 7-10 days to complete ba
 
 So here are the 3 steps in a bit more detail:
 
-**Meet our Engineer Concierge:** This is a 30-minute conversation for you to learn more about the program and ask any questions that you have. We will be talking about your motivations for applying to the program, the values you hold as a software engineer, and the team dynamics that you like to work within.
+1. **Meet our Engineer Concierge:** This is a 30-minute conversation for you to learn more about the program and ask any questions that you have. We will be talking about your motivations for applying to the program, the values you hold as a software engineer, and the team dynamics that you like to work within.
 
+2. **The Tech Assessment:** This 60- to 90-minute conversation is led by a member of our staff engineering team. This conversation is premised on inquiry-based questions about actual projects you’ve worked on and includes a system design component.
 
-**The Tech Assessment:** This 60- to 90-minute conversation is led by a member of our staff engineering team. This conversation is premised on inquiry-based questions about actual projects you’ve worked on and includes a system design component.
-
-
-**Meet our CEO:** This 30-minute conversation is a chance for you to speak with our CEO, and ask him all the questions you have about joining Commit and working with a startup (or a few!)
+3. **Meet our CEO:** This 30-minute conversation is a chance for you to speak with our CEO, and ask him all the questions you have about joining Commit and working with a startup (or a few!)
