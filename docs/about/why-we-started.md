@@ -24,7 +24,7 @@ As my job shifted to management, I learned that I'm really passionate about help
 
 I built Commit to fix the career gap that I faced as a Startup Engineer.
 
-### Hear from Our Founders
+## Hear from Our Founders
 
 Our founders explain why they started Commit and how to know if you are a good fit for our Engineering Partner Program.
 
