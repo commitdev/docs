@@ -51,14 +51,14 @@ In Helix, once you click “Accept”, you’ll get two notifications:
 
 Sample Response:
 
-```
-Hi [NAME],
-
-I’m really looking forward to learning more about this opportunity and [STARTUP NAME]! Please feel free to find some time that works for you to connect using my Calendly link: [insert link]
-
-Take care,
-[Your name]
-``` 
+> Hi [NAME],
+> 
+> I’m really looking forward to learning more about this opportunity and [STARTUP NAME]! Please feel free to find some time that works for you to connect using my Calendly link: [insert link]
+> 
+> Take care,
+> 
+> [Your name]
+ 
 
 ## Step 4: Interview
 
