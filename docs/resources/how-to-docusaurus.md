@@ -76,3 +76,23 @@ quick brown fox jumps over the lazy dog
 :::danger
 quick brown fox jumps over the lazy dog
 :::
+
+## Images uploading and linking
+### For images we maintain/update/host along side with the Docs
+1. Navigate to your desired folder, click **Upload files**
+![Navigate to the desired upload folder](./image-upload-folder.png)
+
+2. Drag and drop your image into the upload box, commit the file to the repository, this step will take a little time as it uploads the image
+
+3. In the document you want the image now you can reference the image using its **relative path**
+
+```
+![Navigate to the desired upload folder](./image-upload-folder.png)
+```
+Note: Since its uploaded in the same folder we can reference same folder using `./` + image's file name
+
+### For images external
+We can just use markdown and supply the full path, good for referencing to someone else's image we don't want to maintain (eg. Airtable documentation diagram that they maintain)
+```
+![External Image](https://commit.dev/path-to-image.jpg)
+```
