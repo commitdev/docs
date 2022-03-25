@@ -1,7 +1,7 @@
 ---
 title: Equipment Guide
 sidebar_label: Equipment Guide
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Generally, most of our engineers use their own computers, however if you require a laptop, please email [accounting@commit.dev](mailto:accounting@commit.dev) and Commit can provide you with a Macbook! 
