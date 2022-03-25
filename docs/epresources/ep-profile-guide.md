@@ -1,6 +1,6 @@
 ---
 title: Creating and Editing Your Commit Platform Profile
-sidebar_label: Profile Guide
+sidebar_label: Platform Profile Guide
 sidebar_position: 5
 ---
 
