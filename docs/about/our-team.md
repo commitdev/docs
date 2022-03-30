@@ -23,3 +23,9 @@ We know we must stay committed to equality in these numbers, including and espec
 ```
 pics of all ST members with titles and fun facts to be added
 ```
+### Team: Finance and Operations
+#### Rolton
+
+> Manager
+> 
+Rolton is responsible for being the admin for everything.
