@@ -6,9 +6,7 @@ sidebar_position: 4
 
 Your first 2 weeks at Commit will fly by, believe us! The main emphasis in your first 2 weeks is matching you with Startup Partners (SPs), helping you with any interview nerves, and getting you working on your [Hackathon Onboarding Project (HOP)](/eps/ep-hop).
 
-```
-image to be added
-```
+![EP First 2 Weeks](./epfirst2weeks-image.png)
 
 To make sure nothing gets overlooked we have members of our Engineer Success Team there to support you. They will set up a private "EPX-[EP NAME]" channel on Slack so you will be able to ask any questions from Day 1. 
 
