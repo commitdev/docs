@@ -18,7 +18,7 @@ picture of Beier to be added
 
 👋 I'm Beier, CTO and co-founder at Commit.
 
-I’ve been a software engineer for 15 years. I’ve spent my career working at startups - I was the first engineer at Hootsuite and scaled that team to over 1000 engineers.
+I’ve been a software engineer for 16 years. I’ve spent my career working at startups - I was the first engineer at Hootsuite and helped scaling the team to over 1000 employees.
 
 As my job shifted to management, I learned that I'm really passionate about helping engineers learn and grow.
 
