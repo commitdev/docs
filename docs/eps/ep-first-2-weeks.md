@@ -177,7 +177,7 @@ On Day 3, you'll have the following meeting (Let the Engineer Success team know 
  - [ ] Learn about P2P (Peer 2 Peer)
 P2P is a place where you can get support from other engineers about technical and career related questions!
      
-	Follow the [onboarding instructions](https://docs.google.com/document/d/1QEfLiuPz7CF35WnVCxF7oBunCkT9mAy_83EdTVbCuhU/edit) to join the community!
+Follow the [onboarding instructions](https://docs.google.com/document/d/1QEfLiuPz7CF35WnVCxF7oBunCkT9mAy_83EdTVbCuhU/edit) to join the community!
 
 # Day 4
 
@@ -198,7 +198,7 @@ You may have received some SP opportunities from the Engineer Success team in yo
  - [ ] "What is Zero?" with Bill!
 Zero is an open source developer tool and is a fantastic tool for the SPs to create that foundational infrastructure along with FE and BE features needed to get their product started. Bill, Commit's Chief Architect, will be going over Zero and how you can leverage/mention Zero during your interviews with SPs
 
-	More information about Zero can be found [here](https://docs.google.com/document/d/1_XJfDw7Rsd-NLY6Hu8qh-T-xB-Y3HAoPgXye2_gE7c0/edit?usp=sharing)! 
+More information about Zero can be found [here](https://docs.google.com/document/d/1_XJfDw7Rsd-NLY6Hu8qh-T-xB-Y3HAoPgXye2_gE7c0/edit?usp=sharing)! 
     
 
  - [ ] Working Out Loud with Content and Marketing
