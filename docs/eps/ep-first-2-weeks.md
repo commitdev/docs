@@ -59,8 +59,7 @@ You should have an invite to the following meeting today (Let us know in your un
     
  - [ ] Update your LinkedIn Profile
 
- Update your LinkedIn to include Commit with your position being "Engineering Partner". Your LinkedIn profile will be shared with SPs
- when introductions are made during the matchmaking process.
+ Update your LinkedIn using [this guide](https://docs.google.com/document/d/1Fa9-vQwBXfgj19l5ftXQihua7f8zg-dIPzl12J7g2Xs/edit?usp=sharing)! Your LinkedIn profile will be shared with SPs when introductions are made during the matchmaking process.
 
     
  - [ ] Pin your EPX Channel in Slack
