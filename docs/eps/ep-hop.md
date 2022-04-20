@@ -11,17 +11,14 @@ As part of your first few weeks at Commit, we want to provide something that wil
 ### What's the benefit of a HOP?
 - We believe this will help you get to know the team, practice some coding skills and help us build a better experience for everyone at Commit. 
 - You may not have had the time, resources, or supportive community to start a project you're interested in. Your HOP gives you the space to do that!
-- You will demo your HOP 2 weeks after your start date. This is a great opportunity for you to get feedback from your peers in a supportive environment, and test the waters with presenting a technical idea in a safe space.
+- You will demo your HOP the Thursday after after your start date. This is a great opportunity for you to get feedback from your peers in a supportive environment, and test the waters with presenting a technical idea in a safe space.
 
 If you have any questions, get in touch with us in your EPX Slack Channel. Your Onboarding Partner (OP) has also completed a HOP so they are a great person to ask any questions!
 
 ## Timeline and Expectations
 
-You begin your HOP on Day 2 of your onboarding and present your HOP on Day 11.
+You begin your HOP on Day 2 (Thursday) of your onboarding and present your HOP on Day 7 (Thursday).
 
-**You should aim to have a project to demo by Day 6 of your onboarding. Why?**
-
-- There is a chance you may begin a pilot before Day 11! If this is the case, you want to make sure you have a demo you are proud to share with the community.
 
 Your demo will be no more than 10 minutes and should provide details about:
 
