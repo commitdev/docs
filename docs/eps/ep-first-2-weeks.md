@@ -167,7 +167,7 @@ On Day 3, you'll have the following meeting (Let the Engineer Success team know 
  
  - [King](https://blog.commit.dev/articles/personal-coaching-at-commit-part-ii-a-conversation-with-engineering-partner-king-choi)
 
- - [ ] Check out our partnership with [Together](https://success.commit.dev/hc/en-us/articles/4417348372635-Mentorship-at-Commit), your one stop shop for mentorship!
+ - [ ] Check out our partnership with [Together](https://docs.commit.dev/contribute/mentorship), your one stop shop for mentorship!
 You can sign up as a mentor, or as a mentee. Part of how we do what's right for the engineer is providing you with opportunities to learn and grow!
    [Sign up using your personal email here!](https://my.togetherplatform.com/signup?organizationId=eeJyrw40aXitpSZrR0Os)
 
@@ -227,7 +227,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
 
  - [ ] It's HOP Demo Day! Demo your HOP amongst a group of supportive
        engineers.
- - [ ] Revisit [Together](https://success.commit.dev/hc/en-us/articles/4417348372635-Mentorship-at-Commit), our mentorship platform, and get started with being a
+ - [ ] Revisit [Together](https://docs.commit.dev/contribute/mentorship), our mentorship platform, and get started with being a
        mentor/mentee!
 -   Set up a meeting with a mentor/mentee in the next 3 weeks.
     
