@@ -19,7 +19,7 @@ This guide may need to be updated! If you have questions, reach out to the Engin
 6. Free trial has some limitations with calendar syncing (sorry!)
  
 ### Step 1: Create a free Calendly account
-Use your Commit Google Account (firstname.lastname@commit.dev)
+Use your personal email
 
 ``` screenshot to be added ```
 
