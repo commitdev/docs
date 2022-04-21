@@ -106,10 +106,4 @@ Note: Apple users will need to log into their iCloud accounts and set an App Spe
 
 ``` screenshot to be added ```
 
-## Important note
 
-Calendly has a free trial period which affects syncing between 2+ calendars.
-
-**If you have a personal calendar you are trying to link with Calendly, this will no longer be functional when the free trial period ends.**
-
-- Pro tip: If you have an important event (doctors appointment, childcare, etc), put a HOLD block in your Commit calendar so you don't get any interview requests during that time!
