@@ -13,7 +13,7 @@ To make sure nothing gets overlooked we have members of our Engineer Success Tea
 To go along with their support, we have created an onboarding checklist for you with daily prompts. 
 
 
-# Day 1 (Part 1) - Admin Stuff
+## Day 1 (Part 1) - Admin Stuff
 
 We are so excited you are here! These checklist items will be your main tasks for the next 7 days as you get acquainted with all things Commit.
 
@@ -71,7 +71,7 @@ You should have an invite to the following meeting today (Let us know in your un
 
  Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with something to work on.
 
-# Day 1 (Part 2) - Tech Stuff
+## Day 1 (Part 2) - Tech Stuff
 
  - [ ] Setup Github + SSH Key
 
@@ -102,7 +102,7 @@ You should have an invite to the following meeting today (Let us know in your un
 -   Please be sure to upload a profile picture!
  -   The Engineer Success team will be reviewing your profile today and providing feedback to you tomorrow.
 
-# Day 2
+## Day 2
 
 You'll have the following meetings today: (Let the Engineer Success team know if you do not have the invites)
 
@@ -144,7 +144,7 @@ Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with some
 You'll use this link when you are setting up interviews with Startups.
  Follow these [guidelines](https://docs.commit.dev/epresources/ep-calendly-guide) when setting up your account.
 
-# Day 3
+## Day 3
 
 On Day 3, you'll have the following meeting (Let the Engineer Success team know if you didn't receive an invite):
 
@@ -180,7 +180,7 @@ P2P is a place where you can get support from other engineers about technical an
      
 Follow the [onboarding instructions](https://docs.google.com/document/d/1QEfLiuPz7CF35WnVCxF7oBunCkT9mAy_83EdTVbCuhU/edit) to join the community!
 
-# Day 4
+## Day 4
 
  - [ ] Work on your HOP
 
@@ -192,7 +192,7 @@ You may have received some SP opportunities from the Engineer Success team in yo
 
     Note: Please ensure you respond to the SPs in a timely manner (within 24 hrs)
 
-# Day 5
+## Day 5
 
 ﻿﻿﻿﻿You'll have the following meetings today: (Let the Engineer Success team know if you do not have the invite)
 
@@ -206,7 +206,7 @@ More information about Zero can be found [here](https://docs.google.com/document
 
 	Given Commit is a remote-first community, Working Out Loud (WOL) is key to the success for EPs. Our Content and Marketing team will be discussing the importance of WOL and the channels through we can use to WOL (ex. slack channels, your blog post, etc.)
     
-# Day 6
+## Day 6
 
  - [ ] Finalize any details about your HOP!
 
@@ -223,7 +223,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
 
     
 
-# Day 7
+## Day 7
 
  - [ ] It's HOP Demo Day! Demo your HOP amongst a group of supportive
        engineers.
