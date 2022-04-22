@@ -34,7 +34,7 @@ We really look forward to your demo, and we expect you to put it on your persona
 
 ### Past projects
 
-We have [a comprehensive list of past project pitches](https://drive.google.com/drive/u/1/folders/1xPY1nQUeTTlN_lfIDQwrYVde4zQx8_vf) for you to review. (*Note: the link is only viewable with a commit.dev email.*)
+We have [a comprehensive list of past project pitches](https://drive.google.com/drive/u/1/folders/1xPY1nQUeTTlN_lfIDQwrYVde4zQx8_vf) for you to review. (*Note: you may have to request access - sorry about that!*)
 
 ### Add your own Open Source Project
 
