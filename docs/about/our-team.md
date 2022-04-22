@@ -36,7 +36,7 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Daniel Ellul: Community and Events Manager
 #### Elaine Lam: Engineer Success Lead
 #### Janelle Stiehl: Account Manager
-#### Louisa Smith: Senior Customer Success Manager
+#### Louisa Smith: Senior Engineer Success Coordinator
 
 ### Team: Finance and Operations
 
@@ -58,7 +58,9 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Alex Roberts: Developer
 #### Anita Chen: Product Designer
 #### Bill Monkman: Chief Architect
+#### David Cheung: Developer
 #### Elina Goldin: Developer
+#### Helen Park: Head of Design
 #### Julie Huang: Developer
 #### Phong Thieu: Director of Engineering
 #### Pritesh Patel: Product Engineer
@@ -66,3 +68,5 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Simon Ho: Team Lead
 #### Timothy Wan: Developer
 
+### Team: Startup Partner Experience
+#### Megha Lad: Business Development Associate
