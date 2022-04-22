@@ -4,10 +4,6 @@ sidebar_label: Calendly Guide
 sidebar_position: 4
 ---
 
-:::note
-This guide may need to be updated! If you have questions, reach out to the Engineer Success team :) 
-:::
-
 ## How to Setup Calendly for Commit Interviews
 
 ### Tl;dr (but please read all the instructions!)
@@ -21,26 +17,26 @@ This guide may need to be updated! If you have questions, reach out to the Engin
 ### Step 1: Create a free Calendly account
 Use your personal email
 
-``` screenshot to be added ```
+![Step 1: Create a free Calendly account](./Calendly1.png)
 
 ### Step 2: Create your Calendly URL
 Follow the format calendly.com/firstnamelastname. Note that this might be taken already, and so you might want to try variations on your name (ie. my real URL is calendly.com/sarahfmarion)
 
-``` screenshot to be added ```
+![Step 2: Create your Calendly URL](./Calendly2.png)
 
 ### Step 3: Set your available hours.
 This will impact when startups can interview you. Feel free to keep the suggested hours, or modify them to accommodate child pickup/dropoff or other commitments!
 
-``` screenshot to be added ```
+![Step 3: Set your available hours](./Calendly3.png)
 
 ### Step 4: Disable the 15 minute meeting and 30 minute meeting 
 Click the gear icon and select ‘Delete’. The 60 minute meeting is what you’ll use when interviewing with startups!
 
-``` screenshot to be added ```
+![Step 4: Disable the 15 minute meeting and 30 minute meeting](./Calendly4.png)
 
 ### Step 5: Click in to edit the 60 Minute Meeting option
 
-``` screenshot to be added ```
+![Step 5: Click in to edit the 60 Minute Meeting option](./Calendly5.png)
 
 ### Step 6: Open up ‘What event is this?’ and edit accordingly:
 - Edit ‘Event Name’ to Commit Interview
@@ -53,7 +49,7 @@ Click the gear icon and select ‘Delete’. The 60 minute meeting is what you�
 - Change the event link to make it more descriptive (e.g., calendly.com/yourname/commit-interview)
 - Save & Close that section!
 
-``` screenshot to be added ```
+![Step 6: Open up ‘What event is this?’ and edit accordingly](./Calendly6.png)
 
 ### Step 7: Open up “When can people book this event?” and edit accordingly:
 - Change the Date Range so invitees can schedule **3 business days** (not calendar days!) into the future
@@ -62,12 +58,13 @@ Click the gear icon and select ‘Delete’. The 60 minute meeting is what you�
 - Add **15 minutes as a buffer before the event** so you have time prep and hype yourself up before interviews!
 - Save & Close that section!
 
-``` screenshot to be added ```
+![Step 7: Open up “When can people book this event?” and edit accordingly](./Calendly7.png)
+![Step 7: Open up “When can people book this event?” and edit accordingly](./Calendly7-1.png)
 
 Now, click to expand ‘Additional rules for your availability’ and **change start time increments so invitees can see available start times in increments of 15 minutes.
 **
 
-``` screenshot to be added ```
+![Step 7: Open up “When can people book this event?” and edit accordingly](./Calendly7-2.png)
 
 ### Step 8: Open up “Invitee Questions” in “Additional Options” and edit accordingly: 
 - Keep the existing Name and Email fields
@@ -78,12 +75,12 @@ Now, click to expand ‘Additional rules for your availability’ and **change s
   - 3) Do I need any software installed and/or open during the conversation?
 - Save & Close that section!
 
-``` screenshot to be added ```
+![Step 8: Open up “Invitee Questions” in “Additional Options” and edit accordingly](./Calendly8.png)
 
 ### Step 9: Click into ‘View Live Page” at the top of the page to confirm that your event type is ON and that all the changes took effect! 
 You should now have a Calendly booking page that looks like this!
 
-``` screenshot to be added ```
+![Step 9: Click into ‘View Live Page” at the top of the page to confirm that your event type is ON and that all the changes took effect!](./Calendly9.png)
 
 Hopefully your page has open time (mine doesn’t as I’m relatively booked up in the next 3 days!) If you don’t have any availability on your page, send Sarah Marion a note and we can troubleshoot.
 
@@ -93,17 +90,16 @@ No one wants to have an important appointment scheduled in their personal calend
 
 Note: This does not mean your SP interviews will get booked into your personal calendar(s).  These will still be booked into your Commit calendar, as seen below under the Add to Calendar section.
 
-``` screenshot to be added ```
+![Step 10: Add your personal calendar accounts to check for conflicts that may not be present in your Commit calendar](./Calendly10.png)
 
 Note: Apple users will need to log into their iCloud accounts and set an App Specific Password to allow Calendly access:
 
 1. Sign into appleid.apple.com with your Apple ID (email address) and password. Follow all multi-factor authentication steps if you have MFA enabled.
 2. Under the **Sign in and Security** heading, there will be a card for App Specific Passwords. Click the diamond with the dots to create a new app-specific password. You will be asked to give it a name (i.e. - Calendly for Commit). Take a screenshot too if you would like - this will be the only time you’ll be able to view the password.
 
-``` screenshot to be added ```
+![Sign In Security](./CalendlySignInSecurity.png)
 
 3. Copy and paste the generated password into Calendly, along with your Apple id email address. Your iCloud calendar is now connected!
 
-``` screenshot to be added ```
-
+![Sign In Security](./CalendlySignInSecurity1.png)
 
