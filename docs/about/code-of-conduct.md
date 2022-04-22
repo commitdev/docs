@@ -39,7 +39,7 @@ Act responsibly and ethically. When participating in online conversation, do not
 
 Be careful about what personal information you share online. Do not publish, post, or release information that is considered confidential or top secret. This includes information on clients we work with as well. If you are unsure if something is public or not, ask the person who owns that information, be it a client or our internal team.
 
-``` image to be added ```
+![Social Media](./socialmedia.jpg)
 
 ## Harassment and Zero Tolerance
 
