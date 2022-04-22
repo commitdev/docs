@@ -114,4 +114,4 @@ Want more practice? Here’s a [comprehensive list of behavioural interview ques
   - Reflecting on an interview is a key part of improvement. Interviewing is a skill and takes practice to really hone your craft. 
 - After reflecting on what went well and what didn’t go as expected, feel free to share these in your EPX channel - we are here to help support you and help you ace your interviews! 
 
-If you have any questions about anything related to SP interviews, drop them in your EPX channel or ask for a one-on-one coaching session with [Louisa](https://calendly.com/louisasmith)! 
+If you have any questions about anything related to SP interviews, drop them in your EPX channel or ask for a one-on-one coaching session with a member of the Engineer Success team!
