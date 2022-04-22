@@ -10,9 +10,7 @@ As mentioned, during your first 2 weeks at Commit, and when you return from any 
 
 Our matchmaking process takes you through 6 steps (depicted below) - Receive, Review, Connect, Interview, Match, and Begin Pilot. Let’s walk you through all of them in a bit more detail.
  
-```
-image1 to be added
-```
+![Matchmaking Process](./MatchmakingProcess.png)
 
 ## Step 1: Receive 
 As part of your onboarding process, you have been asked to [create a profile on the Platform](/epresources/ep-profile-guide), our community platform to allow us to kickstart the matchmaking process.
@@ -72,9 +70,6 @@ Check out [our Interview Guide for EPs](/epresources/ep-interview-guide) or [boo
 
 After your interview, you'll be prompted on Slack to share feedback in your EPX Slack channel.
 
-```
-image2 to be added
-```
 
 Things to consider when responding:
 - What went well?
