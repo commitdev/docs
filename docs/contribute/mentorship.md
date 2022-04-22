@@ -30,3 +30,6 @@ Don't think you're the best person to support them at this time? Not a problem -
 6. Together gives you prompts on how to structure your first 6 sessions, but feel free to make this your own to get maximum benefit!
 7. Reached the end of your time together? You can find a new mentor/mentee to connect with and start the learning all over again. 
 
+## Interested?
+
+Sign up [here!](https://my.togetherplatform.com/signup?organizationId=eeJyrw40aXitpSZrR0Os) 
