@@ -21,11 +21,48 @@ We know we must stay committed to equality in these numbers, including and espec
 ## Our people
 
 ```
-pics of all ST members with titles and fun facts to be added
+pics of all ST members with titles and fun facts to be added! The suspense... 
 ```
-### Team: Finance and Operations
-#### Rolton
 
-> Manager
-> 
-Rolton is responsible for being the admin for everything.
+### Team: Executives
+
+#### Greg Gunn: CEO
+#### Beier Cai: CTO
+#### Tiff Jung: COO
+
+### Team: Engineer Success
+
+#### Lauren Harcott: VP, Customer Success
+#### Daniel Ellul: Community and Events Manager
+#### Elaine Lam: Engineer Success Lead
+#### Janelle Stiehl: Account Manager
+#### Louisa Smith: Senior Customer Success Manager
+
+### Team: Finance and Operations
+
+#### Jaime Yulo: Senior Manager
+#### Renee Tung: Director
+#### Rolton Edwards: Manager
+
+### Team: Growth and Marketing
+
+#### Befii Dennis: Business Development Representative 
+#### Canberk Bal: Growth Coordinator
+#### Colin O'Hearn: VP, Growth
+#### Darya Niknamian: Director, Content
+#### Paris Amory: Marketing Coordinator
+#### Rammeya Jegatheeswaran: Growth Coordinator
+
+### Team: Internal Dev
+
+#### Alex Roberts: Developer
+#### Anita Chen: Product Designer
+#### Bill Monkman: Chief Architect
+#### Elina Goldin: Developer
+#### Julie Huang: Developer
+#### Phong Thieu: Director of Engineering
+#### Pritesh Patel: Product Engineer
+#### Ricky Lee: Developer
+#### Simon Ho: Team Lead
+#### Timothy Wan: Developer
+
