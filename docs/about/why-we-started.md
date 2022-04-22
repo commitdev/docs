@@ -12,9 +12,7 @@ This page needs to be updated!
 
 ### Beier Cai, CTO
 
-```
-picture of Beier to be added
-```
+![Beier](./BeierCaiHeadshot.png)
 
 👋 I'm Beier, CTO and co-founder at Commit.
 
