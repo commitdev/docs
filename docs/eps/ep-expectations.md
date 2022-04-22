@@ -78,9 +78,7 @@ After your first week with Commit, you’ll be added to the #ep-daily-check-in S
 
 Below is an example of what you could expect to post in this channel:
 
-```
-image1 to be added
-```
+![EP Expectation for Daily Check In](./EpExpectations-Matchmaking.png)
 
 ### Other Technical Contributions 
 
@@ -115,9 +113,7 @@ You’ll need to play an active role in the matchmaking process where you’re e
 
 The following is a typical Commit App message you could expect in your EPX Slack channel where you’d respond “Yes” or “No” in a timely manner. 
 
-```
-image2 to be added
-```
+![EP Expectation for Matchmaking](./ActiveRoleInMatchmaking.png)
 
 ### What’s expected of you in the Matchmaking process?
 
