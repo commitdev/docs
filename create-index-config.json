@@ -5,11 +5,21 @@
   ],
   "stop_urls": [],
   "selectors": {
-    "lvl0": "h1",
-    "lvl1": "h2",
-    "lvl2": "h3",
-    "lvl3": "h4",
-    "text": "p, li"
+    "lvl0":  {
+      "selector": ".menu__link--sublist.menu__link--active",
+      "global": true,
+      "default_value": "Documentation"
+    },
+    "lvl1":  {
+      "selector": ".theme-doc-sidebar-item-link-level-2 .menu__link--active",
+      "global": true,
+      "default_value": "Documentation"
+    },
+    "lvl2": "h1",
+    "lvl3": "h2",
+    "lvl4": "h3",
+    "lvl5": "h4",
+    "text": "p,  .markdown li"
   },
   "js_render": true
 }
