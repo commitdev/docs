@@ -1,7 +1,7 @@
 ---
 title: Mentorship
 sidebar_label: Mentorship
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 No matter where you might be in your professional career, mentorship can help you reframe problems, better understand a career move, and meet other like minded folks. Mentorship may have been a part of your career already - sharing knowledge with junior team members, code reviews, etc.
