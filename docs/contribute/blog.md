@@ -1,7 +1,7 @@
 ---
 title: Blog
 sidebar_label: Blog
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 We are always looking for individuals to contribute to [the blog](https://commit.dev/blog/) and we love technical content!
