@@ -1,7 +1,7 @@
 ---
 title: How We Work
 sidebar_label: How We Work
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 We are an employee-centric company and we believe that asynchronous work is the future of work. In order to achieve an efficient asynchronous working culture, it's important to us that all our engineers stay connected and are efficient and productive with their work. 
