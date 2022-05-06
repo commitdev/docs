@@ -1,7 +1,7 @@
 ---
 title: Our Support Team
 sidebar_label: Our Support Team
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 At Commit, we call our permanent staff the “Support Team”, as in we're the team that supports our Engineering Partners. 
