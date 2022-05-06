@@ -1,6 +1,6 @@
 ---
 title: Invite an SP
-sidebar_label: Invite an Engineer
+sidebar_label: Invite a Startup Partner
 sidebar_position: 5
 ---
 
