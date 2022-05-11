@@ -1,6 +1,6 @@
 ---
 title: Your First Week at Commit
-sidebar_label: Your First Week at commit
+sidebar_label: Your First Week at Commit
 sidebar_position: 4
 ---
 
