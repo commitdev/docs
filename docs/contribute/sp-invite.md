@@ -26,4 +26,4 @@ Fill out this [form](https://airtable.com/shrFuOwM2WIlsh351) to invite a Startup
 
 We will then jump in to figure out how we have them join our community. Even if they are not actively hiring, we are constantly growing our Startup Community.
 
-If you have any questions or concerns - email our Startup Partnerships team at megha.lad@commit.dev
+If you have any questions or concerns - email our Startup Partnerships team at startups@commit.dev
