@@ -1,10 +1,10 @@
 ---
-title: Your First 2 Weeks at Commit
-sidebar_label: Your First 2 Weeks
+title: Your First Week at Commit
+sidebar_label: Your First Week at commit
 sidebar_position: 4
 ---
 
-Your first 2 weeks at Commit will fly by, believe us! The main emphasis in your first 2 weeks is matching you with Startup Partners (SPs), helping you with any interview nerves, and getting you working on your [Hackathon Onboarding Project (HOP)](/eps/ep-hop).
+Your first week at Commit will fly by, believe us! The main emphasis in your first week is matching you with Startup Partners (SPs), helping you with any interview nerves, and getting you working on your [Hackathon Onboarding Project (HOP)](/eps/ep-hop).
 
 ![EP First 2 Weeks](./epfirst2weeks-image.png)
 
