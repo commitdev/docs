@@ -24,7 +24,7 @@ If you have any questions at all during your onboarding, you can direct them the
 **Expectations**:
 
 During your first week at Commit, your focus is on your [HOP Demo](https://docs.commit.dev/eps/ep-hop) and interviewing with Startup Partners (we call them SPs) to start your 3 month pilot. 
-You'll present your HOP Demo next Thursday (Day 7 of your Onboarding) to other EPs, graduates (we call them GPs) and interested community members! 
+You'll present your HOP Demo next Thursday (Day 7 of your Onboarding) to other Engineering Partners (EPs), graduates (GPs) and interested community members! 
 We've got a few of the most recent ones [recorded](https://www.youtube.com/playlist?list=PLQRTWrxEpL0SpjyzuIcvePs1LKyTP7pI3) for you to get an idea of what to expect when presenting your demo, and hopefully get you excited!
 
 Other expectations after your HOP Demo include:
@@ -43,6 +43,7 @@ You should have an invite to the following meeting today (Let us know in your un
 
 -------------------------------------
     
+ - [ ] Familiarize yourself with [EP Expectations](https://docs.commit.dev/eps/ep-expectations)  
 
  - [ ] Introduce yourself in the #general Slack channel
 
@@ -238,7 +239,6 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
     
 -   Contribute to our internal platform
     
-
-Engineer Success and/or the Content Team will reach out to you to do a “HOP Q&A” in the next week to learn more about your HOP and your experience with your demo! The content from this meeting will be used in our community (with your help and input)!
+-   Know an awesome startup you want to join our community? [Invite them!](https://docs.commit.dev/contribute/sp-invite) 
 
 We're looking forward to continuing to celebrate your accomplishments!! :)
