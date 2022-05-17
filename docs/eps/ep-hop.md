@@ -36,6 +36,8 @@ We really look forward to your demo, and we expect you to put it on your persona
 
 We have [a comprehensive list of past project pitches](https://drive.google.com/drive/u/1/folders/1xPY1nQUeTTlN_lfIDQwrYVde4zQx8_vf) for you to review. (*Note: you may have to request access - sorry about that!*)
 
+You can also view [a video playlist of some recent HOP Demos!](https://youtube.com/playlist?list=PLQRTWrxEpL0RJ281ZujVtGCEkDR7NLkmu)
+
 ### Add your own Open Source Project
 
 Add your own open-source project to this document and work with your Onboarding Buddy to come up with some good ways Commit can contribute. It can be anything you want to contribute back to, a tool you’ve used before or something that really interests you.
