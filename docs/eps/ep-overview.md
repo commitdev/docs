@@ -8,7 +8,7 @@ Commit is the remote-first developer community where senior software engineers g
 
 - **One tech interview** instead of 50
 - **A remote first environment**. We prioritize asynchronous communication so you where you live does not limit where you work
-- **Access to 70+ innovative pre-vetted startups**. Find out everything you want to know from what tech stack their using to how much funding they have received 
+- **Access to 70+ innovative pre-vetted startups**. Find out everything you want to know from what tech stack they're using to how much funding they have received 
 - **Community-led support**. Access to liked minded developers who you can turn to and collaborate with to solve problems
 - **Free [coaching](epresources/ep-coaching-guide) and [mentorship](contribute/mentorship)** to help grow your career
 - **An extended health plan** so you and your family are always taken care of
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=pIbkW6wMqrw
 Or reading a few articles:
 - [Andrew Lukonin](https://commit.dev/2021/10/14/committed-to-success-andrew-lukonin/) - Commit Engineer who joined 7 Generation Capital as Software Lead
 - [Djordje Vujatovic](https://commit.dev/2021/09/23/committed-to-success-djordje-vujatovic/) - Commit Engineer who joined Certn as a Software Engineer
-- [Lillian Liang](https://commit.dev/2020/08/14/committed-to-success-lillian-liang-plastiq-inc/) -Commit Engineer who joined Plastiq as a Software Engineer
+- [Lillian Liang](https://commit.dev/2020/08/14/committed-to-success-lillian-liang-plastiq-inc/) - Commit Engineer who joined Plastiq as a Software Engineer
 - [Clara Tsang](https://commit.dev/2020/03/25/committed-to-success-clara-tsang-software-engineer-at-procurify/) - Commit Engineer who joined Procurify as a Front End Developer 
 - [Hai Hoang](https://commit.dev/2020/03/31/hpsg234lc1x77d5pv7yaii6gsyc64a/) - Commit Engineer who joined Planworth as a Technical Lead
 
