@@ -8,9 +8,9 @@ Welcome to Commit!
 
 Here are some critical things for you to know as an Engineering Partner (EP):
 
-- You’re expected to respond within 24 hours to any communication directed at you over Slack or email during onboarding, matchmaking, in-between pilots, and when on a pilot.
+- You’re expected to respond within 24 hours to any communication directed at you over Slack or email during onboarding, matchmaking, in between pilots, and when on a pilot.
 - It’s mandatory that you make meaningful contributions in your Hackathon Onboarding Project (HOP), HOP blog, and other technical and community contributions while you’re with Commit (except when you’re on a pilot). 
-- Your attendance and participation at all onboarding meetings is mandatory. When you are not on a pilot, attending and participating in all All-Hand meetings and learning sessions is also mandatory; if you are on a pilot, attendance is highly encouraged. 
+- Your attendance and participation at all onboarding meetings is mandatory. When you are not on a pilot, attending and participating in all All-Hands meetings and learning sessions is also mandatory; if you are on a pilot, attendance is highly encouraged. 
 - Our goal is to match you with an SP within 14 days of your start date and the Engineer Success team will support you in making the best possible SP matches. It’s also up to you to actively participate in the matching process. We’ll be in touch often, but if the process is taking longer than expected, we’ll meet with you at the 30- and 60-day marks to gain a better understanding of any challenges or shifting interests/goals. 
 - If you’re having trouble following these guidelines or finding a Startup Partner that is interesting or exciting to you, we may have a conversation about whether Commit is the right fit for you at this moment.  
 
@@ -20,17 +20,17 @@ Below we’ve more fully outlined our expectations of you during your journey wi
 
 ### Communication is Essential
 
-Communication is at the heart of a successful relationship between an EP and Commit, so timely communication is expected throughout onboarding, matchmaking, the duration of a pilot, and in-between pilots. 
+Communication is at the heart of a successful relationship between an EP and Commit, so timely communication is expected throughout onboarding, matchmaking, the duration of a pilot, and in between pilots. 
 
 As an EP, you’re expected to be responsive to any Slack or email communication directed at you within 24 hours during weekdays. Weekends and holidays don’t count. 
 
 If personal or external issues arise that prevent you from being able to work at any point during your time with Commit, please reach out to the Engineer Success team via your EPX Slack channel so we can support you.
 
-### What Can You Expect if You Don’t Communicate in a Timely Manner?
+### What You Can Expect if You Don’t Communicate in a Timely Manner
 
 The Engineer Success team’s role is to remove blockers and work closely with you to ensure your success in the program. This is a partnership where mutual respect and communication are essential between you and the Engineer Success team. If we aren’t hearing from you, it will be difficult to support you.
 
-If you don’t respond when expected, the Engineer Success team will be in touch with you:
+If you don’t respond when expected, the Engineer Success team will be in touch with you in the following cadence:
 
 - After 24 hours, the team will reach out via Slack and email in an effort to get in touch with you. 
 - After 48 hours, we’ll send you a warning email. 
@@ -41,11 +41,11 @@ We understand that extenuating circumstances arise. If this is the case for you,
 
 ### Participation and Attendance Expectations 
 
-Attendance of onboarding sessions is mandatory no matter where in the Commit journey you are. If you are not on a pilot, attending and participating in all All-Hands meetings and learning sessions is mandatory. If something urgent comes up and you are unable to attend, please notify the team via your EPX Slack channel. If you are placed on a pilot, attendance is highly encouraged. 
+Attendance of onboarding sessions is mandatory no matter where in the Commit journey you are. If you are not on a pilot, attending and participating in all All-Hands meetings and learning sessions is mandatory. If something urgent comes up and you are unable to attend, please notify the team via your EPX Slack channel. If you are on a pilot, attendance is highly encouraged. 
 
 ### Making Meaningful Contributions
 
-As an EP, you’re expected to make meaningful technical and community contributions throughout your journey with Commit during onboarding, matchmaking, in-between pilots, and on your pilot. Within the [EP Expectations in Onboarding](#ep-expectations-in-onboarding) and [EP Expectations During Matchmaking](#ep-expectations-during-matchmaking) articles, you’ll find worthwhile opportunities to further explore an interest, hone a skill, and learn something new. Not making meaningful contributions could result in dismissal from the EP program.  
+As an EP, you’re expected to make meaningful technical and community contributions throughout your journey with Commit during onboarding, matchmaking, in between pilots, and on your pilot. Within the [EP Expectations in Onboarding](#ep-expectations-in-onboarding) and [EP Expectations During Matchmaking](#ep-expectations-during-matchmaking) articles, you’ll find worthwhile opportunities to further explore an interest, hone a skill, and learn something new. Not making meaningful contributions could result in dismissal from the EP program.  
 
 ### Collaboration within the Commit Community
 
@@ -55,7 +55,7 @@ Reaching out to the Commit community in the #dev Slack channel with questions an
 
 ### Technical Contribution: HOP
 
-You’re expected to complete your HOP by your sixth day at Commit and you will present it at the All-Hand Meeting two weeks after your start date. The Engineer Success team will check in on your HOP progress regularly to support you. 
+You’re expected to complete your HOP by your sixth day at Commit and you will present it at the All-Hands Meeting two weeks after your start date. The Engineer Success team will check in on your HOP progress regularly to support you. 
 
 ### Community Contributions 
 
@@ -68,7 +68,7 @@ The following are community contribution expectations:
  
 ### Participation and Attendance Expectations
 
-While you’re in onboarding, you are required to attend all onboarding sessions, All-Hand meetings, and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
+While you’re in onboarding, you are required to attend all onboarding sessions, All-Hands meetings, and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
 
 ## EP Expectations During Matchmaking
 
@@ -91,9 +91,9 @@ It’s expected that you work on one or more of the following while you’re in 
 
 ### Participation and Attendance Expectations
 
-While you’re in matchmaking, you are required to attend all All-Hand meetings and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
+While you’re in matchmaking, you are required to attend all All-Hands meetings and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
 
-### How Quickly Can You Expect to be Matched and Start a Pilot with a Startup Partner (SP)?
+### How Quickly You Can Expect to be Matched and Start a Pilot with a Startup Partner (SP)
 
 Our goal is to match you with an SP within 14 days of your start date. This gives you enough time to onboard and complete your HOP before getting started on exciting new work.
 
@@ -115,7 +115,7 @@ The following is a typical Commit App message you could expect in your EPX Slack
 
 ![EP Expectation for Matchmaking](./ActiveRoleInMatchmaking.png)
 
-### What’s expected of you in the Matchmaking process?
+### What’s Expected of You in the Matchmaking Process
 
 You and the Engineer Success team will work together to find you a great match that aligns with your goals and interests. Should the Engineer Success team experience challenges in finding you a match, you are expected to participate in a few ways including: 
 
@@ -130,7 +130,7 @@ As a Commit employee, you’re expected to respond to any communication from the
 
 Attendance of SP meetings, collaboration with the SP team, and meaningful contributions during your pilot are all essential for your long-term success. Building a strong professional relationship with the SP will help you, whether you continue on full-time after the pilot or not. 
 
-While you’re on a pilot, your attendance at Commit’s All-Hand meetings and learning sessions is not mandatory, but highly encouraged.
+While you’re on a pilot, your attendance at Commit’s All-Hands meetings and learning sessions is not mandatory, but highly encouraged.
 
 ### Is it Possible to be Dismissed from the EP Program?
 
