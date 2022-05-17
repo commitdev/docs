@@ -6,17 +6,17 @@ sidebar_position: 2
 
 Congrats! You have accepted an SP’s interview request and have scheduled an interview. Here is a general overview of SP interviews, what you can expect, and some general tips on preparing for your interview.
 
-## What you can expect
+## What You Can Expect
 
 Generally, we encourage SPs to conduct one 1hr interview with Commit EPs. The focus is to get to know the engineer's skillset and experiences and ensure a good fit for the startup. We share that Commit EPs do not expect a technical component in their interviews and are not actively going through technical interviews at other organizations. You can see a complete summary of what we communicate with SPs [here](https://www.notion.so/A-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454).
 
-### Times your interview process may deviate from the standard.
+### Times Your Interview Process May Deviate From The Standard.
 
 Some SPs may conduct more than one interview and/or ask you to complete a take-home coding assignment or do a technical interview. We understand this is not a standard process. When this arises, **it is up to the EP whether they would like to proceed or not**. The support team will support you in your decision as we understand that this deviates from the norm. However, please understand that choosing to push back on this may result in losing your candidacy.
 
 Commit accepts SPs with these requirements because we feel that choice is a good thing. These SPs would not work with Commit if we did not deviate from our standard interview process. 
 
-## Before the interview
+## Before The Interview
 
 ### Familiarize yourself with the following materials:
 
@@ -28,7 +28,7 @@ Commit accepts SPs with these requirements because we feel that choice is a good
 - Don’t have any related or relevant experience with their specific product? This is common!
   - You can speak to your specific interest with their product/market. Things to think about: Why do you find this an interesting industry? How will working in this industry/role help you achieve some of your professional goals? 
   
-**SP profile on Helix**
+**SP profile on The Platform**
 
 - Who is going to be on the call? Do you know anyone in common? What do you know about them? 
 - Take notes of anything you find on their profile that is interesting or relevant to your experience. 
@@ -39,11 +39,11 @@ Commit accepts SPs with these requirements because we feel that choice is a good
 - You will want to be prepared to share specific examples of how you have used/interacted with their tech stack.  
 - If you have minimal experience with their tech stack, be prepared to share examples of how you have learned technical skills quickly, as they will be looking to gauge how quickly you can ramp up. 
  
-**Your Helix profile and/or resume**
+**Your Platform Profile and/or Resume**
 
 - Do you have any previous work experience that would relate to the roles and responsibilities of this SP position? These can be transferable skills such as prior product management experience, leadership skills, building an MVP, etc. 
 
-### Prepare for potential questions
+### Prepare for Potential Questions
 
 **Identify your skills**
 
@@ -89,7 +89,7 @@ One helpful way to frame these questions is by using the STAR method (Situation,
  
 Want more practice? Here’s a [comprehensive list of behavioural interview questions to practice](https://resources.biginterview.com/blog/behavioral-interview-questions/).
 
-## During the interview
+## During the Interview
 
 - Arrive at your Zoom interview on time but not too early. We recommend entering your Zoom interview 2-3 mins before your scheduled interview. 
   - What happens if the interviewer doesn’t show up? If it’s been 5-10mins past the interview time and no one from the SP team has showed up, please email the SP about this matter  
@@ -105,7 +105,7 @@ Want more practice? Here’s a [comprehensive list of behavioural interview ques
   - We’re confident you are exceptional and a gift to a startup. 
 - Imagine that you are sitting beside the startup founder having coffee - this isn’t you under a microscope.
 
-## After the interview
+## After the Interview
 
 - Send your interviewers a [thank you email](https://www.algrim.co/264-thank-you-email-after-interview)
   - This doesn’t have to be long: 5-8 sentences should suffice.
