@@ -25,19 +25,20 @@ When joining the community, you will by default be added to these channels (list
 | #shoutouts | A way to recognize your peers in the community. | A great place to shout out specific community members and help them know how much they are appreciated! |
 | #wins | A place to call out wins in your day and share learnings with the community. | Where we celebrate wins of all shapes & sizes. |
 
+
 These channels will get you on your way to understand our community discussions more. However, you are not restricted to just these channels! We encourage our community to create sub channels to dive deeper into specific topics, languages and learnings.
 
 ## How to use the Slack Commit Community (along with some tips & tricks)
 
--   Public Channels (by default): As referenced in our Code of Conduct, we aim to promote Working Out Loud whenever possible. This promotes psychological safety in the community and will allow for more individuals to participate (and learn) from the conversations.
+-   **Public Channels (by default):** As referenced in our Code of Conduct, we aim to promote Working Out Loud whenever possible. This promotes psychological safety in the community and will allow for more individuals to participate (and learn) from the conversations.
     
--   Find Channels: Beside channels, click the + sign and select ‘Browse Channels’, from here, you will be able to search key works and join channels relevant to you.
+-   **Find Channels:** Beside channels, click the + sign and select ‘Browse Channels’, from here, you will be able to search key works and join channels relevant to you.
     
--   Direct Messages: We recognize that there are times when conversations can lead to 1:1 connections or small groups. Our Slack offers the option of directly messaging other members of the community.
+-   **Direct Messages:** We recognize that there are times when conversations can lead to 1:1 connections or small groups. Our Slack offers the option of directly messaging other members of the community.
     
--   Mute Channels: Want to stay in the channel but not get all the notifications? Slack allows you to mute specific channels to keep noise levels down; this can be done following these steps: Open the channel you'd like to mute > Click the channel name in the conversation header > Below the channel name, click the notifications menu >Select Mute channel.
+-   **Mute Channels:** Want to stay in the channel but not get all the notifications? Slack allows you to mute specific channels to keep noise levels down; this can be done following these steps: Open the channel you'd like to mute > Click the channel name in the conversation header > Below the channel name, click the notifications menu >Select Mute channel.
     
--   Turn off notifications from a thread: On the comment, select the 3 dots on the right that lead to ‘More Actions’, then select the first option in the drop down ‘turn off notifications for replies’.
+-   **Turn off notifications from a thread:** On the comment, select the 3 dots on the right that lead to ‘More Actions’, then select the first option in the drop down ‘turn off notifications for replies’.
  
 
 ## How to search for Slack channels and create your own
