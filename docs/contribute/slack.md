@@ -14,6 +14,7 @@ When joining the community, you will by default be added to these channels (list
 | ---------------- | --------------- | ------ |
 | #commit-mentors | A channel for mentorship conversations, resources,and  connections! | A channel to connect and communicate with mentors in our mentorship program. You can expect mentorship updates and news in this channel. Feel free to share any resources related to mentorship! |
 | #commit-news | Company-wide announcements from the Support Team. See: https://docs.commit.dev/ for internal Commit resources | This channel is for company updates, communications and announcements. All community members are included in this channel. Only Support Team (ST) members can post. |
+| #community-discussions | A place for general questions to the community. | All community discussions, and advice can be shared here. |
 | #community-help | All things community support. | Non-technical support from the Commit Community Management team, for technical support on the platform, use #platform-help |
 | #community-intros | A channel for all new members to introduce themselves to the community!    | Tell us where you’re from, what you’re masterful at, what you want to learn and why you’re most excited about joining the Commit Community! |
 | #community-suggestions | A channel to suggest ideas for new community events, workshops and other learning and development initiatives. | All community members are encouraged to contribute and continuously collaborate to improve to grow our community impact. |
