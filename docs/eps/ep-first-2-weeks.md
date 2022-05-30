@@ -195,18 +195,17 @@ You may have received some SP opportunities from the Engineer Success team in yo
 
 ## Day 5
 
-﻿﻿﻿﻿You'll have the following meetings today: (Let the Engineer Success team know if you do not have the invite)
+﻿﻿﻿﻿You'll have the following meeting today: (Let the Engineer Success team know if you do not have the invite)
 
  - [ ] "What is Zero?" with Bill!
 Zero is an open source developer tool and is a fantastic tool for the SPs to create that foundational infrastructure along with FE and BE features needed to get their product started. Bill, Commit's Chief Architect, will be going over Zero and how you can leverage/mention Zero during your interviews with SPs
 
 More information about Zero can be found [here](https://docs.google.com/document/d/1_XJfDw7Rsd-NLY6Hu8qh-T-xB-Y3HAoPgXye2_gE7c0/edit?usp=sharing)! 
     
+ - [ ] Work on your HOP
 
- - [ ] Working Out Loud with Content and Marketing
+Any technical question about your HOP? We want to familiarize you with asking questions in the #dev channel and P2P. These channels will be your main channels to ask questions during your time at Commit!
 
-	Given Commit is a remote-first community, Working Out Loud (WOL) is key to the success for EPs. Our Content and Marketing team will be discussing the importance of WOL and the channels through we can use to WOL (ex. slack channels, your blog post, etc.)
-    
 ## Day 6
 
  - [ ] Finalize any details about your HOP!
