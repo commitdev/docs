@@ -45,7 +45,7 @@ You should have an invite to the following meeting today (Let us know in your un
     
  - [ ] Familiarize yourself with [EP Expectations](https://docs.commit.dev/eps/ep-expectations)  
 
- - [ ] Introduce yourself in the #general Slack channel
+ - [ ] Introduce yourself in the [#community-intros](https://commitdev.slack.com/archives/C03FEARKZ3L) Slack channel
 
   Include a few bullets about yourself & your interests by answering these 4 questions:
  
