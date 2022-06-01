@@ -47,15 +47,15 @@ You should have an invite to the following meeting today (Let us know in your un
 
  - [ ] Introduce yourself in the [#community-intros](https://commitdev.slack.com/archives/C03FEARKZ3L) Slack channel
 
-  Include a few bullets about yourself & your interests by answering these 4 questions:
+  Include a few bullets about yourself & your interests by answering these  questions:
  
- -   Why did you join Commit?
+ -   Where are you from?
      
- -   What are you most excited to learn?
+ -   What are you masterful at/what can you teach others?
      
- -   What are you most excited to teach others?
+ -   What do you want to learn?
      
- -   What do you do for fun?
+ -   Why are you excited about joining the Commit Community?
 
     
  - [ ] Update your LinkedIn Profile
