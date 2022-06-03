@@ -20,8 +20,16 @@ Since introducing Sphere as a benefit, we've seen that those who commit at least
 
 ## How many hours of coaching is available to me monthly?
 
-Sphere credits are shared across the entire organization. Since sharing is caring, we ask that you use a maximum of 12 credits per month. That translates to 2 hours of coaching sessions which you can divide across the month as suits your schedule.
+Sphere credits are shared across the entire organization. Since sharing is caring, we ask that you use a **maximum of 12 credits per month**. That translates to 2 hours of coaching sessions which you can divide across the month as suits your schedule.
 Many folks will opt for a single 30 minute session each week, or two 1 hour sessions each month.   
+
+## What if I want to book additional sessions?
+Open the Sphere App and go to Settings.
+Hit “Ante-up” and choose the number of credits you need for your next session.
+Important: Make sure to book the session right away, as credits get added to a shared pool of credits.
+
+Example:
+_In May, Meghan booked 4x30-minute sessions with Jonas and Taraneh. She would like to book another 60-minute session with Jonas for May, but there are only 12 credits left in the shared Sphere account. To make sure other team members can also book their sessions this month, Meghan can ante-up 6-credits and instantly book her session with Jonas._
 
 At Commit, we believe in growth at all levels of leadership. We're excited for you to tap into this incredible resource!
 
