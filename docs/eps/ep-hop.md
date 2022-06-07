@@ -26,9 +26,9 @@ Your demo will be no more than 10 minutes and should provide details about:
 - Why you chose the tech stack you did to complete the project
 - Stretch goals/next steps
 - A demo of the project - we want to see how it works :) 
-We really look forward to your demo, and we expect you to put it on your personal GitHub account. If it’s not in production, then it’s not done :)
+We really look forward to your demo! 
 
-*Note: This is a learning exercise, not something that needs to be completed in the timeline. If you’ve worked on something, please demo it even if it’s not finished or polished! Sharing is caring.*
+*Note: This is a learning exercise, not something that needs to be fully completed in the timeline. If you’ve worked on something, please demo it even if it’s not finished or polished! Sharing is caring.*
 
 ## Ideas
 
@@ -38,7 +38,4 @@ We have [a comprehensive list of past project pitches](https://drive.google.com/
 
 You can also view [a video playlist of some recent HOP Demos!](https://youtube.com/playlist?list=PLQRTWrxEpL0RJ281ZujVtGCEkDR7NLkmu)
 
-### Add your own Open Source Project
-
-Add your own open-source project to this document and work with your Onboarding Buddy to come up with some good ways Commit can contribute. It can be anything you want to contribute back to, a tool you’ve used before or something that really interests you.
 
