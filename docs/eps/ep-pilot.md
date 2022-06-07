@@ -45,13 +45,14 @@ Topics to discuss in your 1:1 meeting will vary depending on your decision, but 
 - The status of next steps for your pilot (continuing on full-time, extending the pilot, or offboarding)
 - The company’s offboarding process (if you choose not to continue)
 - Initial salary negotiations
-- We can support you with this! Reach out to the Engineer Success team in your EPX Slack channel. 
+
+We can support you with your decision making process! Reach out to the Engineer Success team in your EPX Slack channel. 
 
 ## How do I decide if I want to join a start-up full-time after my pilot?
 
 There are 5 key factors you might consider when deciding to join an SP full-time after your pilot. You might not say yes to all of these things! What’s most important is that you feel confidence that spending the next chapter of your professional career at this company will bring you enjoyment and/or purpose.
 
-It feels simple, but asking yourself “what decision am I most likely to regret?'' can sometimes be the re-framing you need to make a decision!
+It feels simple, but asking yourself “what decision am I most likely to regret?" can sometimes be the re-framing you need to make a decision!
 
 ### Accomplishment:
 
@@ -71,7 +72,7 @@ Have there been days when I was thinking about a work problem in the shower so p
 
 ### Community:
 
-Am I excited and happy to go to work every morning and see my teammates. Do I believe in the mission, vision, and leadership of this team or company? 
+Am I excited and happy to go to work every morning and see my teammates? Do I believe in the mission, vision, and leadership of this team or company? 
 
 ## Returning to Commit after my pilot
 
@@ -96,7 +97,7 @@ Before you last day at your pilot, we would recommend you consider and complete 
 - Take note of any recurring tasks, meetings or reminders you played a key role in (daily, monthly, weekly, quarterly)
 - Is there any login information that might be important to transfer ownership of?
 - Take note of any priorities for the upcoming sprint(s) that you didn’t get to
-- Designate a key point of contact with whom your OOO will point people towards, and can field internal questions to. Ensure that they have context on the questions they might receive?
+- Designate a key point of contact with whom your OOO will point people towards, and can field internal questions to. Ensure that they have context on the questions they might receive.
 - Provide them your information to contact you in a true emergency
 - If there’s anyone you’d like to stay in touch with, get their contact information
 - Ask for and offer references and recommendations on LinkedIn
@@ -122,10 +123,10 @@ Before you last day at your pilot, we would recommend you consider and complete 
 - Respond to communication from us and SPs within 1 business day. 
 - Connect with other EPs to learn about what they're working on (you’ll be added to a daily check in channel on Slack)!
 - Reflect on what you’re looking for next and share with the Engineer Success team in your EPX Slack channel
-- What skills do I want to build in my next pilot?
-- What type of problems do I want to solve?
-- What didn’t work at my last pilot(s) that I want to avoid in the future?
-- What went well that I want to replicate? 
+- What skills do you want to build in your next pilot?
+- What type of problems do you want to solve?
+- What didn’t work at your last pilot(s) that you want to avoid in the future?
+- What went well that you want to replicate? 
 
 ## Resources
 
