@@ -92,11 +92,11 @@ You should have an invite to the following meeting today (Let us know in your un
  The Values Quiz is used to help the EPX team make more informed
  matches. Please take 20-30 mins to take [this survey](https://tally.so/r/mOlG73) by the end of the day. 
  This is an extra layer of context put on top of matches, not an input that will impact if you actually do get matched with a startup!
-  After completing your values quiz, your "values" finding will be summarized in your EPX-[name] channel. We encourage you to use these points as drivers to add to [your platform profile.](https://app.commit.dev/login?invite=mm)
+  After completing your values quiz, your "values" finding will be summarized in your EPX-[name] channel. We encourage you to use these points as drivers to add to [your platform profile.](https://app.commit.dev/)
 
     
 
- - [ ] Finish any incomplete sections of your [platform account/profile](https://app.commit.dev/login?invite=mm).
+ - [ ] Finish any incomplete sections of your [platform account/profile](https://app.commit.dev/).
 
 -   You can refer to our profile guide [here](https://docs.commit.dev/epresources/ep-profile-guide).
      
