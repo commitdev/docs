@@ -8,11 +8,11 @@ sidebar_position: 5
 
 - Create an account using the link provided in your onboarding.
 
-## Instructions for Editing Profile 
+## Instructions for Editing Your Profile 
 - Fill out all sections of **Community Profile** and **Matchmaking Profile**
 - **Note: Matchmaking Profile is only viewable to SPs, and Community Profile is viewable to all users.**
  
-## Sections of Commit Platform Profile
+## Sections of Your Commit Platform Profile
 
 ### Community Profile
 
