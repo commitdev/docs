@@ -55,26 +55,26 @@ Reaching out to the Commit community in the #dev Slack channel with questions an
 
 ### Technical Contribution: HOP
 
-You’re expected to complete your HOP by your sixth day at Commit and you will present it at the All-Hands Meeting two weeks after your start date. The Engineer Success team will check in on your HOP progress regularly to support you. 
+You’re expected to complete your HOP by your sixth day at Commit and you will present it at the HOP Demos Meeting the following Thursday after your start date. Your Onboarding Partner will check in on your HOP progress regularly to support you. 
 
 ### Community Contributions 
 
 It’s important that you contribute to your own learning and the Commit community throughout your journey here. 
 
-The following are community contribution expectations:
+The following are examples of community contributions:
 
-- **Blog post** - creating a blog post about your HOP experience with support from our Content team. This will be due at the end of your second week. 
+- **Blog post** - creating a blog post about your HOP experience with support from our Content team. 
 - **LinkedIn** - posting on LinkedIn once per week or creating a longer blog post every two weeks about how you’re spending your time and what you’re learning.
  
 ### Participation and Attendance Expectations
 
-While you’re in onboarding, you are required to attend all onboarding sessions, All-Hands meetings, and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
+While you’re in onboarding, you are required to attend all onboarding sessions, All-Hands meetings, and learning sessions. If something urgent comes up and you are unable to attend, please notify the Engineer Success team. 
 
 ## EP Expectations During Matchmaking
 
 ### Community Contributions
 
-After your first week with Commit, you’ll be added to the #ep-daily-check-in Slack channel where you’ll provide daily updates and share what you’re learning and your progress. It’s also an opportunity to identify if another EP is working on something you’d like to collaborate on and learn from one another.
+On your first dady with Commit, you’ll be added to the #ep-daily-check-in Slack channel where you’ll provide daily updates and share what you’re learning and your progress. It’s also an opportunity to identify if another EP is working on something you’d like to collaborate on and learn from one another.
 
 Below is an example of what you could expect to post in this channel:
 
@@ -91,7 +91,7 @@ It’s expected that you work on one or more of the following while you’re in 
 
 ### Participation and Attendance Expectations
 
-While you’re in matchmaking, you are required to attend all All-Hands meetings and learning sessions. If something urgent comes up and you are unable to attend, please notify the team. 
+While you’re in matchmaking, you are required to attend all All-Hands meetings and learning sessions. If something urgent comes up and you are unable to attend, please notify the Engineer Success team. 
 
 ### How Quickly You Can Expect to be Matched and Start a Pilot with a Startup Partner (SP)
 
