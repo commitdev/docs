@@ -4,8 +4,6 @@ sidebar_label: Matchmaking Process
 sidebar_position: 6
 ---
 
-Matchmaking process
-
 As mentioned, during your first 2 weeks at Commit, and when you return from any pilot(s) in the future, you will go through the matchmaking process. We will match you with a Startup Partner (SP) who is working on problems that excite you and will help you achieve your professional goals.
 
 Our matchmaking process takes you through 6 steps (depicted below) - Receive, Review, Connect, Interview, Match, and Begin Pilot. Let’s walk you through all of them in a bit more detail.
@@ -60,7 +58,7 @@ Sample Response:
 
 ## Step 4: Interview
 
-Whether you are an interview wizard or not, take a look at the [SP Guide to Interviewing Commit Candidates](https://www.notion.so/commitdev/Commit-s-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454). This guide provides additional insights into how our SPs will approach the interview with you. 
+We encourage you to take a look at the [SP Guide to Interviewing Commit Candidates](https://www.notion.so/commitdev/Commit-s-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454). This guide provides additional insights into how our SPs will approach the interview with you. 
 
 Need additional help preparing for your interview? 
 
@@ -82,7 +80,7 @@ Things to consider when responding:
 The SP typically shares with a member of our Engineer Success team that they want to move forward. A member of our Engineer Success team will let you know the news, and you can choose to accept, defer, or decline.
 
 - If you accept, a member of our Engineer Success team and the SP will work together to determine a start date.
-- If you defer, you'll want to make a decision within 72 hours
+- If you defer, you'll want to make a final decision to accept or decline within 72 hours
 - If you decline, you continue the matchmaking process.
 
 A member of our Engineer Success team and the SP will coordinate the paperwork, and will let you know when the paperwork is signed.
