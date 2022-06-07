@@ -92,7 +92,7 @@ You should have an invite to the following meeting today (Let us know in your un
  The Values Quiz is used to help the EPX team make more informed
  matches. Please take 20-30 mins to take [this survey](https://tally.so/r/mOlG73) by the end of the day. 
  This is an extra layer of context put on top of matches, not an input that will impact if you actually do get matched with a startup!
-  After completing your values quiz, your "values" finding will be summarized in your EPX-[name] channel. We encourage you to use these points as drivers to add to [your platform profile.](https://app.commit.dev/login)
+  After completing your values quiz, your "values" finding will be summarized in your EPX-[name] channel. We encourage you to use these points as drivers to add to [your platform profile.](https://app.commit.dev/login?invite=mm)
 
     
 
@@ -126,7 +126,7 @@ Complete your edits and send a message in your EPX Slack Channel once complete. 
 
     
 
- - [ ] If you didn't start yesterday, start working on your HOP Demo !
+ - [ ] Start working on your HOP Demo!
 
 Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with something to work on.
      
@@ -218,7 +218,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
     
 -   Test your setup beforehand - do you need to reinstall Zoom? What will you need to share? Will others be able to hear you clearly with your audio setup?
     
--   We've got a few of the most recent All Hands [recorded](https://www.youtube.com/playlist?list=PLQRTWrxEpL0SpjyzuIcvePs1LKyTP7pI3) for you to get an idea of what to expect!
+-   We've got a few of the most recent demos [recorded](https://www.youtube.com/playlist?list=PLQRTWrxEpL0SpjyzuIcvePs1LKyTP7pI3) for you to get an idea of what to expect!
     
 
     
@@ -234,10 +234,9 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
 
 **Not placed with an SP yet?**
 
+-   Continue working on your HOP or start a new HOP. While it's not mandatory, you are encouraged to present at future demos to share your progress and gain support and insights from our community! 
 -   Sharpen your development skills by taking a MOOC (massive open online course). If you choose this route, it's expected you'll work out loud and share your learning through blog and/or LinkedIn posts
-    
--   Contribute to our internal platform
-    
+        
 -   Know an awesome startup you want to join our community? [Invite them!](https://docs.commit.dev/contribute/sp-invite) 
 
 We're looking forward to continuing to celebrate your accomplishments!! :)
