@@ -33,8 +33,6 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 ### Team: Engineer Success
 
 #### Lauren Harcott: VP, Customer Success
-#### Daniel Ellul: Community and Events Manager
-#### Elaine Lam: Engineer Success Lead
 #### Janelle Stiehl: Account Manager
 #### Louisa Smith: Senior Engineer Success Coordinator
 
@@ -50,23 +48,19 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Canberk Bal: Growth Coordinator
 #### Colin O'Hearn: VP, Growth
 #### Darya Niknamian: Director, Content
-#### Paris Amory: Marketing Coordinator
 #### Rammeya Jegatheeswaran: Growth Coordinator
 
 ### Team: Internal Dev
 
-#### Alex Roberts: Developer
 #### Anita Chen: Product Designer
 #### Bill Monkman: Chief Architect
 #### David Cheung: Developer
-#### Elina Goldin: Developer
 #### Helen Park: Head of Design
 #### Julie Huang: Developer
 #### Phong Thieu: Director of Engineering
 #### Pritesh Patel: Product Engineer
 #### Ricky Lee: Developer
 #### Simon Ho: Team Lead
-#### Timothy Wan: Developer
 
 ### Team: Startup Partner Experience
 #### Megha Lad: Business Development Associate
