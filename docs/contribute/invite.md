@@ -10,9 +10,7 @@ We want to make it easier and lightweight for EPs to invite/recommend/share Comm
 
 If being part of the Commit community and EP program has benefited you, think about who else in your network it could help. 
 
-Whenever you are ready to invite someone you can take any of the following steps:
-- Send a message to a member of the Engineering Success Team on your EPX Slack channel
-- Email us at success@commit.dev
+Whenever you are ready to invite someone you can fill out [this form](https://4xbxmmanuuz.typeform.com/to/GRKuyGRl) - it should only take 1 minute! 
 
 We will then jump in to figure out how we can best support them. Even if they are not looking for a new job today, we are starting to roll out more products and programs that can help them catalyze a startup engineering career.
 
