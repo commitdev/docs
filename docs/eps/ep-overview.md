@@ -8,7 +8,7 @@ Commit is the remote-first developer community where senior software engineers g
 
 - **One tech interview** instead of 50
 - **A remote first environment**. We prioritize asynchronous communication so you where you live does not limit where you work
-- **Access to 70+ innovative pre-vetted startups**. Find out everything you want to know from what tech stack they're using to how much funding they have received 
+- **Access to innovative pre-vetted startups**. Find out everything you want to know from what tech stack they're using to how much funding they have received 
 - **Community-led support**. Access to liked minded developers who you can turn to and collaborate with to solve problems
 - **Free [coaching](epresources/ep-coaching-guide) and [mentorship](contribute/mentorship)** to help grow your career
 - **An extended health plan** so you and your family are always taken care of
