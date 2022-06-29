@@ -39,7 +39,7 @@ Other expectations after your HOP Demo include:
     
 ---------------------------
 You should have an invite to the following meeting today (Let us know in your unique EPX Slack Channel know if you do not):
- - [ ] Welcome to Commit with Greg
+ - [ ] Welcome to Commit with Beier
 
 -------------------------------------
     
