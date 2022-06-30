@@ -107,10 +107,9 @@ You should have an invite to the following meeting today (Let us know in your un
 
 You'll have the following meetings today: (Let the Engineer Success team know if you do not have the invites)
 
- - [ ] Matchmaking 
+ - [ ] Interviews at Commit 
 
-(The Engineer Success team will be going over the EP journey, how
-matchmaking works, and the matchmaking process. Ask any questions you have about your EP journey in this session!)
+(The Engineer Success team will be going over the interview process with Startup Partners (SPs) at Commit, and will provide some helpful tips to ensure your interviews are successful. Ask any questions you have about your EP journey in this session!)
 
     
 
