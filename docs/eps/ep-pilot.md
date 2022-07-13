@@ -6,28 +6,23 @@ sidebar_position: 7
 
 ## Overview
 
-You’ve matched with a startup you’re excited to work with, congratulations!  Now let’s share with you a quick overview of the next steps.
+You’ve recieved a verbal pilot offer from an SP you’re excited to work with, congratulations!  Now let’s share with you a quick overview of the next steps.
 
-- A member of our Engineer Success team will notify you of your official start date 🥳
-- Keep your eyes peeled for an onboarding/welcome email from your SP! 👀  When you receive the email, please ensure that you respond to them in a timely manner.
-- Buckle up and be ready to learn, contribute, and code away! 💻
-- A member of our Engineer Success team will have periodic check-ins with you at the 1-week, 1-month, and 2-month mark of your pilot. Please be as open and honest with your feedback during these check-ins as it will help us learn how we can better support you as well as helping us refine the matchmaking process for you.
-- We work with Startup Partners who treat our EPs the same way they treat existing full-time employees. They're just as motivated to bring you on full-time as you are to join them full-time! If you ever have concerns or feel like you're having a materially different experience than your non-Commit colleagues, we recommend you talk directly to the SP and share that feedback with Commit through your EPX Slack channel.
+- A member of our Engineer Success team will work with you and the SP to find a start date that aligns with you both.
+- The Engineer Success team will send off paperwork to the SP for them to review and sign. One things are signed, the Engineer Success team will notify you.
+- An onboarding/welcome email should come from your SP within 12-48 hours of official paperwork being signed. When you receive the email, please ensure that you respond to them in a timely manner. Didn't receive an email? Reach out to the SP directly, and let us know so we can work with them on communication expectations.
 
-## I’m starting my pilot! What can I expect?
+## EP Expectations While on a Pilot
 
 ### Check-ins
-
 
 At the 1-week, 1-month, and 2-month marks of your pilot, the Engineer Success team will be checking in with you in your EPX Slack channel to see how you are doing. Particularly, we will be asking you what’s been going well and what has not been working well. Please be as honest with us as possible in these check-in conversations so we can help you.
 
 ### Communication
 
-
 Please keep in touch with us during your pilot! We would greatly appreciate it if you respond to our communication with you within 48 hours to ensure we are best supporting you and prioritizing your success. Don't worry, we won't bombard you with messages!
  
 ### Your Best Effort and Ours too
-
 
 Sometimes a pilot doesn’t go as you expected and there are issues that need resolving. Our commitment to you is that we will work with you and the SP to resolve any issues so that the pilot can continue. In general, EPs only leave a pilot under rare circumstances.
  
@@ -37,7 +32,7 @@ When you join a pilot, it is expected that you stay for the full 3 months.
  
 ### Decide
 
-At the 2-month mark, you should book a 1:1 meeting with your manager to discuss next steps with your pilot. *Please coordinate with your manager to confirm next steps by the 2.5-month mark (2 weeks before your pilot end date) so we can best support you.* 
+At the 2-month mark, we'll check in with you about whether you wish to stay with the SP after your pilot, or return to matchmaking. This check in should prompt you to  book a 1:1 meeting with your manager to discuss next steps with your pilot. *Please coordinate with your manager to confirm next steps by the 2.5-month mark (2 weeks before your pilot end date) so we can best support you.* 
 
 Topics to discuss in your 1:1 meeting will vary depending on your decision, but include:
 
@@ -56,13 +51,13 @@ It feels simple, but asking yourself “what decision am I most likely to regret
 
 ### Accomplishment:
 
-Have I done anything noteworthy these last three months? 
+What noteworthy project(s) have I worked on in these last three months? 
 
 ### Impact:
 
 Would I write a line in my resume about the work I have done over these three months? Would I value this specific work experience if I was hiring for my own company?
 
-### Growth/Future alignment:
+### Growth/Future Alignment:
 
 Have I acquired valuable insights or skills? Are these skills aligned with my future goals?
 
@@ -74,7 +69,7 @@ Have there been days when I was thinking about a work problem in the shower so p
 
 Am I excited and happy to go to work every morning and see my teammates? Do I believe in the mission, vision, and leadership of this team or company? 
 
-## Returning to Commit after my pilot
+## Returning to Commit after a Pilot
 
 As a pilot comes to a close, you may not continue on with that SP full-time. We are here to support you with that choice and next steps!
 
@@ -84,20 +79,19 @@ Here is a general guide on how to offboard at your SP.
  
 #### Things to think about 
 
-
 While you finish your pilot, this is a great time to think about the hard and soft skills that you want to take away from your time at this organization, write LinkedIn recommendations for your colleagues, and try and leave the onboarding experience for engineers better than you found it. Often we learn best through identifying what we don’t like about a product, a culture, a technology, etc. Take some time to articulate those, as they can be helpful directional guides for you.
  
 #### Offboarding Tasks 
  
 Before you last day at your pilot, we would recommend you consider and complete the following action-items as you off-board at your SP in the next few weeks:
-- Schedule or attend an exit interview
+- Schedule an exit interview
 - In the interview, create a handoff plan for a smooth transition
 - Document everything that you do
 - Break down your daily/weekly tasks into step-by-step instructions
+- Transfer ownership of any login information that might be important
 - Take note of any recurring tasks, meetings or reminders you played a key role in (daily, monthly, weekly, quarterly)
-- Is there any login information that might be important to transfer ownership of?
 - Take note of any priorities for the upcoming sprint(s) that you didn’t get to
-- Designate a key point of contact with whom your OOO will point people towards, and can field internal questions to. Ensure that they have context on the questions they might receive.
+- Designate a key point of contact with whom your "Out of Office" email will point people towards, and can field internal questions to. Ensure that they have context on the questions they might receive.
 - Provide them your information to contact you in a true emergency
 - If there’s anyone you’d like to stay in touch with, get their contact information
 - Ask for and offer references and recommendations on LinkedIn
@@ -115,8 +109,6 @@ Before you last day at your pilot, we would recommend you consider and complete 
 - Work on a blog post about your pilot or other topic of choice
 - Work on an open source project of your choosing
 - Work on a MOOC (massive open online course) of your choosing (Udemy, Coursera, etc)
-- Work on an internal project
-
 
 3. Keep us in the loop
 
