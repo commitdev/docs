@@ -12,19 +12,12 @@ When joining the community, you will by default be added to these channels (list
 
 | Slack Channel Name | Topic | Description  |
 | ---------------- | --------------- | ------ |
-| #commit-mentors | A channel for mentorship conversations, resources,and  connections! | A channel to connect and communicate with mentors in our mentorship program. You can expect mentorship updates and news in this channel. Feel free to share any resources related to mentorship! |
 | #commit-news | Company-wide announcements from the Support Team. See: https://docs.commit.dev/ for internal Commit resources | This channel is for company updates, communications and announcements. All community members are included in this channel. Only Support Team (ST) members can post. |
-| #community-discussions | A place for general questions to the community. | All community discussions, and advice can be shared here. |
-| #community-help | All things community support. | Non-technical support from the Commit Community Management team, for technical support on the platform, use #platform-help |
+| #community-operations | All things community support. | Non-technical support from the Commit Community Management team, for technical support on the platform, use #platform-help |
 | #community-intros | A channel for all new members to introduce themselves to the community!    | Tell us where you’re from, what you’re masterful at, what you want to learn and why you’re most excited about joining the Commit Community! |
-| #community-suggestions | A channel to suggest ideas for new community events, workshops and other learning and development initiatives. | All community members are encouraged to contribute and continuously collaborate to improve to grow our community impact. |
+| #dev | A channel for all things development | Share resources, articles, and information related to software development. Have a development question? Post it on our platform: app.commit.dev |
 | #diversity-and-inclusion | A psychologically safe place to share resources and questions about all things DEI. | A channel to learn and unlearn together as a community. |
-| #events | Learning and development initiatives, meetups and other events. | A channel to promote, discuss and share updates regarding past and upcoming events. |
-| #platform-help | All things platform support. | Questions, bugs or feedback on your platform experience! For non-technical questions, use #community-help. |
 | #random | Non-work banter and water cooler conversation. | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels. |
-| #resources | A channel to share resources to support learning, development, newsworth announcements and more! | We want to promote a community of learning together and faster to spark connections of other developers learning the same things. |
-| #shoutouts | A way to recognize your peers in the community. | A great place to shout out specific community members and help them know how much they are appreciated! |
-| #wins | A place to call out wins in your day and share learnings with the community. | Where we celebrate wins of all shapes & sizes. |
 
 
 These channels will get you on your way to understand our community discussions more. However, you are not restricted to just these channels! We encourage our community to create sub channels to dive deeper into specific topics, languages and learnings.
