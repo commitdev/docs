@@ -53,6 +53,9 @@ Reaching out to the Commit community in the #dev Slack channel with questions an
 
 ## EP Expectations in Onboarding
 
+### Onboarding Checklist
+You're expected to complete the items in your [onboarding checklist](https://docs.commit.dev/eps/ep-first-2-weeks) by the end of your seventh day at Commit. If you cannot complete the items by that time, please notify the Engineer Success. 
+
 ### Technical Contribution: HOP
 
 You’re expected to complete your HOP by your sixth day at Commit and you will present it at the HOP Demos Meeting the following Thursday after your start date. Your Onboarding Partner will check in on your HOP progress regularly to support you. 
