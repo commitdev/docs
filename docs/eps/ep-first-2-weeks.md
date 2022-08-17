@@ -28,14 +28,8 @@ You'll present your HOP Demo next Thursday (Day 7 of your Onboarding) to other E
 We've got a few of the most recent ones [recorded](https://www.youtube.com/playlist?list=PLQRTWrxEpL0SpjyzuIcvePs1LKyTP7pI3) for you to get an idea of what to expect when presenting your demo, and hopefully get you excited!
 
 Other expectations after your HOP Demo include:
-
- -   Internal contributions
-	- We will help you get started with those after your HOP Demo!
-    
- -   Work on a blog post
-	- The Engineer Success and Content teams will help you with this!
-    
- -   Sharpen your development skills by taking a MOOC (massive open online course). If you choose this route, it's expected you'll work out loud and share your learning through blog and/or LinkedIn posts
+- Continue working on your original HOP or start a new one!  
+- Sharpen your development skills by taking a MOOC (massive open online course). If you choose this route, it's expected you'll work out loud and share your learning through blog and/or LinkedIn posts
     
 ---------------------------
 You should have an invite to the following meeting today (Let us know in your unique EPX Slack Channel know if you do not):
@@ -129,16 +123,12 @@ Complete your edits and send a message in your EPX Slack Channel once complete. 
 
 Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with something to work on.
      
- Your onboarding buddy will provide support here too :)
+ Your Onboarding Partner will provide support here too :)
  - [ ] Write your onboarding project pitch to support you while creating your HOP! 
  -   Look over the [template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing)
      
  -   Save it to the Google [drive](https://drive.google.com/drive/folders/1xPY1nQUeTTlN_lfIDQwrYVde4zQx8_vf)
- -   Share with the #dev channel
-    
-
-    
-
+     
  - [ ] Set up a [Calendly](https://calendly.com/) account
 
 You'll use this link when you are setting up interviews with Startups.
@@ -209,7 +199,7 @@ Any technical question about your HOP? We want to familiarize you with asking qu
 
  - [ ] Finalize any details about your HOP!
 
-You might consider doing a dry-run of your HOP Demo by getting in touch with the Engineer Success team and/or your Onboarding Buddy!
+You might consider doing a dry-run of your HOP Demo by getting in touch with the Engineer Success team and/or your Onboarding Partner!
 
 **Things to consider:**
 
