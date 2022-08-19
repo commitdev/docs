@@ -125,7 +125,8 @@ Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with some
      
  Your Onboarding Partner will provide support here too :)
  - [ ] Draft your Project Pitch in the [Projects section](https://app.commit.dev/projects) of the app 
- - You can use our [Project Pitch Template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing) for inspiration around details to include 
+ 
+ - You can use our [Project Pitch Template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing) for inspiration around details to include. 
      
  - [ ] Set up a [Calendly](https://calendly.com/) account
 
