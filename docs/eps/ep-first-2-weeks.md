@@ -124,10 +124,8 @@ Complete your edits and send a message in your EPX Slack Channel once complete. 
 Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with something to work on.
      
  Your Onboarding Partner will provide support here too :)
- - [ ] Write your onboarding project pitch to support you while creating your HOP! 
- -   Look over the [template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing)
-     
- -   Save it to the Google [drive](https://drive.google.com/drive/folders/1xPY1nQUeTTlN_lfIDQwrYVde4zQx8_vf)
+ - [ ] Draft your Project Pitch in the [Projects section](https://app.commit.dev/projects) of the app 
+ - You can use our [Project Pitch Template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing) for inspiration around details to include 
      
  - [ ] Set up a [Calendly](https://calendly.com/) account
 
