@@ -136,19 +136,15 @@ You'll use this link when you are setting up interviews with Startups.
 
 ## Day 3
 
-On Day 3, you'll have the following meeting (Let the Engineer Success team know if you didn't receive an invite):
+- [ ] Check out our partnership with [Sphere Coaching](https://docs.commit.dev/epresources/ep-coaching-guide). 
 
- - [ ] What is [Sphere Coaching](https://sphere.guide/)? 
-
- Margo from Sphere Coaching will share more about the "why" of
- coaching and how to use the platform.
+On the first Tuesday of the month during your Onboarding, Margo from [Sphere Coaching](https://sphere.guide/) will share more about the "why" of coaching and how to use the platform. You'll receive an invite to this Onboarding Session, unless you are on a pilot.
  
   Please register ahead of the session using your mobile phone and your personal email! It should only take 10 minutes! 
   
   **Please note that everything discussed with a coach is Private & Confidential.** Feel free to just try it out, no obligation to stick to it if it is not for you.
  
- Be sure to read the testimonials linked in Resources. Some internal
- testimonials from other folks that went through the EP program:
+ Be sure to read the testimonials linked in Resources. Some internal testimonials from other folks that went through the EP program:
      
  
  - [Prit](https://blog.commit.dev/articles/personal-coaching-at-commit-part-v-taking-a-career-break-might-be-the-best-thing-you-can-do-for-yourself-and-your-career)
