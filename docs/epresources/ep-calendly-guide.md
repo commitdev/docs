@@ -44,7 +44,7 @@ Click the gear icon and select ‘Delete’. The 60 minute meeting is what you�
 - Edit Description/Instructions to this text (make sure the link doesn’t get dropped while you’re copying/pasting!
 > I'm excited to learn more about you as a tech leader and what you're building, and share why I'm excited about the opportunity to join your team.
 > 
-> Here's Commit's Guide to Interviewing Engineers ([click here](https://www.notion.so/commitdev/Commit-s-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454)) that we put together after hundreds of engineer interviews with more than 60 startups (10 minute read)
+> Here's Commit's Guide to Interviewing Engineers ([click here](https://docs.google.com/document/d/1fegrJzlKRkgAImWQXOlTHbaxX7UVgc_RIs3MS0nVqI0/edit#heading=h.6mqo6w843tp4)) that we put together after hundreds of engineer interviews with more than 60 startups (10 minute read)
 
 - Change the event link to make it more descriptive (e.g., calendly.com/yourname/commit-interview)
 - Save & Close that section!
