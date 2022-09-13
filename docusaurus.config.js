@@ -35,7 +35,7 @@ const algolia = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        googleAnalytics: {
+        gtag: {
           trackingID: 'G-R241YEH02F',
           anonymizeIP: false,
         },
