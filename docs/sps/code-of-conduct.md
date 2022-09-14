@@ -1,3 +1,9 @@
+---
+title: SP Code of Conduct
+sidebar_label: SP Code of Conduct
+sidebar_position: 4
+---
+
 Here are some critical things for you to know as a Commit Startup Partner (SP):
 
 ### Our Commitment to the Program
