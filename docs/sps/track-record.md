@@ -1,3 +1,10 @@
+---
+title: Our Track Record
+sidebar_label: Our Track Record
+sidebar_position: 2
+---
+
+
 ### How many Commit developers usually end up being hired after a pilot?  
 
 Our pilot to graduation rate is 87%.  
