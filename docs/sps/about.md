@@ -1,3 +1,9 @@
+---
+title: Overview
+sidebar_label: Overview
+sidebar_position: 1
+---
+
 ### At a glance
 
 Hey 👋 we’re Commit, the network for the most collaborative remote startup developers.
