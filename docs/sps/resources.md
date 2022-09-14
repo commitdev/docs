@@ -1,3 +1,9 @@
+---
+title: Resources
+sidebar_label: Resources
+sidebar_position: 3
+---
+
 ### How to Interview a Commit developer
 
 As previously mentioned, our own technical assessors conduct a thorough technical assessment. You’ll be able to see the results and a full overview of their technical abilities prior to your interview with them. 
