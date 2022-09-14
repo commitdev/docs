@@ -1,3 +1,9 @@
+---
+title: SP FAQs
+sidebar_label: SP FAQs
+sidebar_position: 5
+---
+
 ### What is the difference between a Recruiter and Commit?
 
 |  |Recruiter| Commit |
