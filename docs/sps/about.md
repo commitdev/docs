@@ -55,3 +55,5 @@ Note: To gain full oversight of the process to hire a Commit developer, look at 
 We’ve got your back, no question is too big or small for our team. Reach out to us via your dedicated Slack channel.
 
 Within the Slack channel you’ll have access to our entire team from Success to Legal to Accounting. All you have to do is ask your questions and the right team member will respond within 24 business hours.
+
+![SPSupportTeam](./SPSupportTeam.png)
