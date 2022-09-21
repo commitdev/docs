@@ -40,8 +40,8 @@ To learn even more about what developers think of Commit, read a few of our test
 
 [Testimonial from Eliana, Senior Software Engineer at WonderFi](https://commit.dev/2022/04/14/committed-to-success-eliana-lopez/)
 
-[Testimonial from Darren, Backend Engineer at Dapper Labs  
-](https://commit.dev/2022/07/07/committed-to-success-darren-bangsund/)
+[Testimonial from Darren, Backend Engineer at Dapper Labs](https://commit.dev/2022/07/07/committed-to-success-darren-bangsund/)
+
 [Testimonial from Xavier, Senior Software Engineer at Side](https://commit.dev/2022/05/18/committed-to-success-xavier-del-castillo/)
 
 ### How does Commit find and vet developers?
@@ -165,7 +165,6 @@ This would be something that we are happy to discuss on a case by case basis. We
 We have also had pilots extended in the rare cases when the Startup Partner and/or the Commit developer need more time to determine if there is a long-term fit. We have regular check-ins at the 1- and 2-month mark where this would need to be communicated and agreed upon between the Startup, Commit, and the developer.
 
 ### What if I want to hire a Commit developer before the 3-month pilot ends?
-
 We want to acknowledge (and share) your excitement and confidence around bringing on a Commit developer full-time before a pilot has ended. It is our ultimate goal to find a great long term fit for our Startup Partners and developers!
 
 The 3-month pilot timeline is designed to give enough time for the developer to get a good understanding of the culture, company, and technology of the startup and have all the information to make an informed decision on their career. This is why we don’t offer the option to end a pilot early.
