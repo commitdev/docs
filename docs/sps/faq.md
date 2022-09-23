@@ -102,7 +102,7 @@ No. All of Commit's developers are looking to join a startup full-time after the
 
 ### How does vacation work during the pilot?
 
-We want to help our developers balance between (1) maximizing their time working with and getting to know you and (2) ensuring that they take time to rest and recharge even while on pilot. For this reason, our developers can take 3 days off during their pilot, without affecting the amount invoiced by Commit. Any days above the 3-day limit will be deducted accordingly from your invoice covering the period when the excess days off are taken. 
+We want to help our developers balance between (1) maximizing their time working with and getting to know you and (2) ensuring that they take time to rest and recharge even while on pilot. For this reason, our developers can take 3 days off during their pilot (including statutory holidays), without affecting the amount invoiced by Commit. Any days above the 3-day limit will be deducted accordingly from your invoice covering the period when the excess days off are taken. 
 
 Our developers are advised to provide as much notice as possible to you about their time-off plans, and communicate these plans to the Engineer Success team as well.
 
