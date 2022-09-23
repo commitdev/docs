@@ -62,7 +62,7 @@ ___
 |**Placement Fee**|Annual payment of 10% of the Commit developers starting base salary* capped at 3 years or one-time 25% fee. All Comit developer placement fees are tied to tenure at your company.|
 |**Payment Terms**|Invoiced in advance on an annual basis (due within 15 days from invoice).|
 
-*At Commit, we encourage the use of global salary bands, not tied to location, in order to remain competitive in this growing remote work environment. Commit develops their compensation packages for all developers based on seniority, work experience, and relevant skills. After the 3 month Pilot period, if an engineer is to graduate (join you full time) - it would be between you and the engineer to negotiate a compensation package. All of our startups have different compensation packages that include equity. Other "sweeteners" our Startup Partners choose to offer include health benefits, unlimited PTO, Learning & Growth fund, etc.*
+*At Commit, we encourage the use of global salary bands, not tied to location, in order to remain competitive in this growing remote work environment. Commit develops their compensation packages for all developers based on seniority, work experience, and relevant skills. With today's current exchange rate (0.78) you would be looking at $89,222 - $108,618 USD for a Senior Fullstack Engineer. After the 3 month Pilot period, if an engineer is to graduate (join you full time) - it would be between you and the engineer to negotiate a compensation package. All of our startups have different compensation packages that include equity. Other "sweeteners" our Startup Partners choose to offer include health benefits, unlimited PTO, Learning & Growth fund, etc.*
 
 
 
