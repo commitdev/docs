@@ -102,7 +102,11 @@ No. All of Commit's developers are looking to join a startup full-time after the
 
 ### How does vacation work during the pilot?
 
-Allowing reasonable vacation time is part of a startup treating a Commit developer as your employee during the pilot. If the vacation time is disproportionate to the length of the pilot period (more than 2.5 days over the 3-month period), we would adjust the monthly charge for the applicable invoice.
+We want to help our developers balance between (1) maximizing their time working with and getting to know you and (2) ensuring that they take time to rest and recharge even while on pilot. For this reason, our developers can take 3 days off during their pilot, without affecting the amount invoiced by Commit. Any days above the 3-day limit will be deducted accordingly from your invoice covering the period when the excess days off are taken. 
+
+Our developers are advised to provide as much notice as possible to you about their time-off plans, and communicate these plans to the Engineer Success team as well.
+
+Ideally, Commit, the SP, and the EP will all try to align on a time-off plan that is acceptable to all parties. 
 
 ### What tax benefits can I take advantage of while working with Commit?
 
