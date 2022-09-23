@@ -44,7 +44,7 @@ Topics to discuss in your 1:1 meeting will vary depending on your decision, but 
 We can support you with your decision making process! Reach out to the Engineer Success team in your EPX Slack channel. 
 
 ## How does vacation work on a pilot?
-We want to help you balance between (1) maximizing your time working with and getting to know your pilot SP and (2) ensuring that you take time to rest and recharge even while on pilot. For this reason, SPs are advised that EPs can take 3 days off during their pilot. We advise you to provide as much notice as possible to the SP about your time-off plans and communicate these plans to the Engineer Success team as well. Please log your time off in our HRIS, [Humi](https://www.humi.ca/), as well as your SPs HRIS (if they have one). 
+We want to help you balance between (1) maximizing your time working with and getting to know your pilot SP and (2) ensuring that you take time to rest and recharge even while on pilot. For this reason, SPs are advised that EPs can take 3 days off during their pilot (including statutory holidays). We advise you to provide as much notice as possible to the SP about your time-off plans and communicate these plans to the Engineer Success team as well. Please log your time off in our HRIS, [Humi](https://www.humi.ca/), as well as your SPs HRIS (if they have one). 
 
 Ideally, Commit, the SP, and the EP will all try to align on a time-off plan that is acceptable to all parties. If you have vacation planned that is longer than 3 days, let the Engineer Success team know so we can help you navigate this request!
 
