@@ -4,7 +4,7 @@ sidebar_label: Additional Resources
 sidebar_position: 8
 ---
 
-# A Comprehensive Reflection Guide on Determining When it’s Time to Quit
+# A Reflection Guide on Determining When it’s Time to Quit
 
 At Commit, we work and converse with software developers from different walks of life. A common theme among these developers is that they don’t get many opportunities to work on impactful projects. Most developers know when they’re not entirely happy in their jobs, but certain factors and circumstances keep them going. We want to shatter this pattern by breaking down red flags that indicate it’s time for developers to quit and find a better opportunity. Take a moment to review each warning sign and the reflective questions to determine if you’re happy or unhappy in your current role. When you reflect on these questions, put yourself in the present moment to identify how you feel right now, in the present.
 
@@ -55,18 +55,18 @@ These questions can help you determine whether your job is at stake and if you�
 ## No Work-Life Balance ⚖️
 
 -   How do you feel when you start your day and when you end your day?
---   Are there differences between how you feel during the start vs the end of your day?   
---   Based on your answer, why do you think you feel this way?
+    - Are there differences between how you feel during the start vs the end of your day?    
+    - Based on your answer, why do you think you feel this way?
 -   Do you have a work-life balance?
 -   Do you have boundaries in place?
--- If yes, how did you communicate your boundaries to your team and manager? Do they respect your boundaries? 
---If not, why? What or who is preventing you from setting boundaries?
+    - If yes, how did you communicate your boundaries to your team and manager? Do they respect your boundaries? 
+    - If not, why? What or who is preventing you from setting boundaries?
     
 -   Are you working extra hours? 
--- If yes, why? Is this a recurring pattern?
+    - If yes, why? Is this a recurring pattern?
  
 -   Do you have enough time for yourself during the work week?
---  If not, why and what is the reason?  
+    - If not, why and what is the reason?  
 
 Developers are often tasked with so much time-sensitive work that they forget about their own lives. They strive to complete the tasks at hand but end up skipping breaks and burning the midnight oil to do so. In the short term, it may not seem like an issue, but it could lead to detrimental health problems in the long run. The only way to take care of your health and be productive in your job is to maintain a healthy work-life balance. You can start creating this balance by prioritizing your tasks, setting strict boundaries, taking breaks, and, importantly, saying no to additional work when you’re already overwhelmed. It is crucial to ensure your code works but not at the risk of your health.
 
@@ -75,13 +75,13 @@ Developers are often tasked with so much time-sensitive work that they forget ab
 ## Burnout 😰
 
 -   What is your work schedule like?
--   Do you allocate time for breaks?
--   Do you have flexible working hours?
--   Are you under pressure?
--   How are deadlines set for the tasks you’re assigned?
+    - Do you allocate time for breaks?
+    - Do you have flexible working hours?
+    - Are you under pressure?
+    - How are deadlines set for the tasks you’re assigned?
 -   How is your workload?
--   Is it manageable?
--   How are the deadlines set for your tasks or projects, and are they reasonable?
+    - Is it manageable?
+    - How are the deadlines set for your tasks or projects, and are they reasonable?
 -   How have you been performing in your role lately?
 -   How do you feel about your job?
 -   How are you feeling physically and mentally?
@@ -93,11 +93,11 @@ As mentioned previously, failing to take care of yourself and ignoring early sig
 ## Poor Team Collaboration 👩‍💻🧑‍💻👨‍💻
 
   -   What is it like to work with your team?
--   What works well?
--   What needs improvement?
+      - What works well? 
+      - What needs improvement?
 -   How do you feel working with your team?
--   What do you like the most?
--   What do you like the least?
+    - What do you like the most?
+    - What do you like the least?
     
 Many developers have to work in teams as a natural part of their day-to-day job. If it’s challenging to collaborate with fellow team members, it will be more difficult to collaborate on building projects. Like the good old saying, two heads are better than one; that’s why when developers work in teams, they’re able to boost productivity, improve code quality, foster new ideas and inventions, and learn from one another to develop their skills further.
 
@@ -107,7 +107,7 @@ Many developers have to work in teams as a natural part of their day-to-day job.
 
 -   Are you working on a lot of legacy code?
 -   What blockers do you face in completing your work or project?
---   If you mentioned blockers, are these blockers within or outside your control?
+    - If you mentioned blockers, are these blockers within or outside your control?
 -   Are you working with outdated technology?
     
 In some companies, developers spend most of their time repairing poorly written code and working on legacy projects with outdated tools and tech. This usually happens due to technical debt, prohibiting developers from doing productive work such as impact-driven brainstorming and building exciting products. If legacy work persists, developers eventually lose interest in their work. A few [stats](https://netgen.io/blog/how-to-cope-with-legacy-code-and-technical-debt) indicate that 52.9% of developers would rather not work on legacy code, while 29.4% only do it because it’s part of their job. The leading reasons for their frustration are the fear of breaking something, spaghetti code, deprecated tech, dependency, and missing documentation. Do you know what developers said would be a potential solution for this? They proposed these top two solutions: burning the legacy code down with a flamethrower and quitting their jobs.
@@ -119,9 +119,9 @@ In some companies, developers spend most of their time repairing poorly written 
 -   Do you feel valued and appreciated by your manager and team?
     
 -   Do you get the recognition and credit you deserve for the work you do?
---   If yes, how often? 
---   If no, do you know why this is the case?
---   If you don’t know why, have you tried to find out why, and what steps have you taken to get clarity?
+    - If yes, how often? 
+    - If no, do you know why this is the case?
+      - If you don’t know why, have you tried to find out why, and what steps have you taken to get clarity?
 -   How are you treated by your team and manager when you accomplish something?
 -   How are you treated by your team and manager when you make a mistake?
 -   Are there differences between the two treatments?
@@ -135,8 +135,8 @@ Though developers are expected to code, maintain, and ensure smooth systems oper
 -   How do you feel about the company’s future and the direction it’s headed?
     
 -   Do you see yourself working at this company one year from now?
---   If yes, why? 
---   If no, why not?
+    - If yes, why? 
+    - If no, why not?
    
 Not all companies are successful, and not all are failures. It all depends on the strategic decisions made to move in the direction that makes the most sense for the business. Since developers are often included in core projects, they may have a rough idea of whether the business is headed in the right or wrong direction. If they can’t see a future in how the company decides to move forward, they would be hesitant to stick around. In some cases, all the other red flags we discussed could be influential factors that lead developers to sense an unpredictable future. They may no longer want to tolerate the work environment and may want to start their own business or find a different opportunity that better meets their needs.
 
