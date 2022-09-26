@@ -57,7 +57,9 @@ These questions can help you determine whether your job is at stake and if you�
 -   How do you feel when you start your day and when you end your day?
     - Are there differences between how you feel during the start vs the end of your day?    
     - Based on your answer, why do you think you feel this way?
+
 -   Do you have a work-life balance?
+
 -   Do you have boundaries in place?
     - If yes, how did you communicate your boundaries to your team and manager? Do they respect your boundaries? 
     - If not, why? What or who is preventing you from setting boundaries?
@@ -79,11 +81,15 @@ Developers are often tasked with so much time-sensitive work that they forget ab
     - Do you have flexible working hours?
     - Are you under pressure?
     - How are deadlines set for the tasks you’re assigned?
+
 -   How is your workload?
     - Is it manageable?
     - How are the deadlines set for your tasks or projects, and are they reasonable?
+
 -   How have you been performing in your role lately?
+
 -   How do you feel about your job?
+
 -   How are you feeling physically and mentally?
     
 As mentioned previously, failing to take care of yourself and ignoring early signs of burnout can harm your health. [The World Health Organization](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) describes burnout as a syndrome that stems from chronic workplace stress that has not been appropriately addressed or managed. Pulling data relevant to developers, [a study conducted by Haystack](https://haystack-books.s3.amazonaws.com/Study+to+understand+the+impact+of+COVID-19+on+Software+Engineers+-+Full+Report.pdf) revealed that 83% of developers felt burnt out during the pandemic.
@@ -95,6 +101,7 @@ As mentioned previously, failing to take care of yourself and ignoring early sig
   -   What is it like to work with your team?
       - What works well? 
       - What needs improvement?
+
 -   How do you feel working with your team?
     - What do you like the most?
     - What do you like the least?
@@ -106,8 +113,10 @@ Many developers have to work in teams as a natural part of their day-to-day job.
 ## Too Many Blockers 🚧
 
 -   Are you working on a lot of legacy code?
+
 -   What blockers do you face in completing your work or project?
     - If you mentioned blockers, are these blockers within or outside your control?
+
 -   Are you working with outdated technology?
     
 In some companies, developers spend most of their time repairing poorly written code and working on legacy projects with outdated tools and tech. This usually happens due to technical debt, prohibiting developers from doing productive work such as impact-driven brainstorming and building exciting products. If legacy work persists, developers eventually lose interest in their work. A few [stats](https://netgen.io/blog/how-to-cope-with-legacy-code-and-technical-debt) indicate that 52.9% of developers would rather not work on legacy code, while 29.4% only do it because it’s part of their job. The leading reasons for their frustration are the fear of breaking something, spaghetti code, deprecated tech, dependency, and missing documentation. Do you know what developers said would be a potential solution for this? They proposed these top two solutions: burning the legacy code down with a flamethrower and quitting their jobs.
@@ -122,8 +131,11 @@ In some companies, developers spend most of their time repairing poorly written 
     - If yes, how often? 
     - If no, do you know why this is the case?
       - If you don’t know why, have you tried to find out why, and what steps have you taken to get clarity?
+
 -   How are you treated by your team and manager when you accomplish something?
+
 -   How are you treated by your team and manager when you make a mistake?
+
 -   Are there differences between the two treatments?
   
 Though developers are expected to code, maintain, and ensure smooth systems operations, they also deserve timely praise, recognition, and appreciation from their managers and co-workers. If managers can spend time assigning new projects and responsibilities, they can also allocate time for regular one-on-one meetings with their direct reports to ensure they’re doing and feeling well. Going the extra mile for a company mission to not even receive a few words of appreciation can be highly demotivating.
