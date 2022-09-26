@@ -1,6 +1,6 @@
 ---
-title: Interview Guide for EPs
-sidebar_label: Interview Guide for EPs
+title: Interview Guide
+sidebar_label: Interview Guide
 sidebar_position: 2
 ---
 
