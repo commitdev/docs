@@ -4,9 +4,6 @@ sidebar_label: Pricing
 sidebar_position: 6
 ---
 
-
-## Pricing
-
 ### Pilot Fees
 |  |  |
 |--|--|
