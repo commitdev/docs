@@ -56,4 +56,5 @@ We’ve got your back, no question is too big or small for our team. Reach out t
 
 Within the Slack channel you’ll have access to our entire team from Success to Legal to Accounting. All you have to do is ask your questions and the right team member will respond within 24 business hours.
 
-![SPSupportTeam](./SPSupportTeam.png)
+![YourSupportTeam](./YourSupportTeam2.png)
+
