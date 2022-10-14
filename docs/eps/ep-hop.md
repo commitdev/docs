@@ -42,4 +42,4 @@ You can also view [a video playlist of some recent HOP Demos!](https://youtube.c
 ## Sharing
 
 HOP Demos are recorded and may be shared by our Content team on various social platforms, such as LinkedIn.
-If you'd prefer for your HOP Demo to not be recorded and shared, please let us know!
+If you'd prefer for your HOP Demo to not be recorded and shared, please let the Engineer Success team know!
