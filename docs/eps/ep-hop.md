@@ -39,3 +39,7 @@ We have [a comprehensive list of past project pitches](https://drive.google.com/
 You can also view [a video playlist of some recent HOP Demos!](https://youtube.com/playlist?list=PLQRTWrxEpL0RJ281ZujVtGCEkDR7NLkmu)
 
 
+## Sharing
+
+HOP Demos are recorded and may be shared by our Content team on various social platforms, such as LinkedIn.
+If you'd prefer for your HOP Demo to not be recorded and shared, please let us know!
