@@ -57,7 +57,7 @@ Commit finds developers via three routes:
 
 Out of the total applicants we receive, we hire approximately 1 out of every 200 or 0.5% of applicants.
 
-### To gain a better understanding of how we vet developers, please review our [interview process documentation](https://docs.google.com/document/d/1vpUrPyYLrRB3bmWwPNZcDrdkAH7sVGBCHpAbXnCo-qY/edit?usp=sharing).  
+To gain a better understanding of how we vet developers, please review our [interview process documentation](https://docs.commit.dev/sps/commit-interviews#commits-interview-process).  
   
 
 ### What type of developers does Commit have?
@@ -94,7 +94,7 @@ And we have a few nice to haves on top of that:
 
 Commit has put our developers through a technical vetting process to save you time and effort. We facilitate 60-minute Zoom conversations with the candidates you want to meet. The focus is to get to know the developer's skill set and experiences, and ensure a good fit for your team. Our developers do not expect a technical component in their interview with you and are not actively going through technical interviews at other organizations.
 
-You can see a full summary of the rules of interviewing Commit developers [here](https://www.notion.so/Commit-s-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454).
+You can see a full summary of the rules of interviewing Commit developers [here](https://docs.commit.dev/sps/commit-interviews#guide-to-interviewing-commit-developers).
 
 ### Can my startup leverage Commit for part-time or contract work?
 
