@@ -20,7 +20,8 @@ sidebar_position: 5
 |Dedicated support team to help you throughout the process|✅unknown response time|✅ 24-hour response time
 |Access to a private community of remote developers at any time|❌|✅ 350+ devs in our community
 
-# Pricing and Taxes
+
+## Pricing and Taxes
 
 ### How does Commit set their salary bands?
 
@@ -56,7 +57,7 @@ Commit does not currently charge taxes on fees charged to US entities.
 
 Canadian startups are eligible to claim SRED for the work that a Commit developer does for your company. During the pilot, you can access SRED at the contractor rate, and once they join you full-time, you can claim SRED with them as an employee.
 
-# Developers we work with
+## Developers we work with
 
 ### Why do developers join Commit?
 
@@ -122,7 +123,7 @@ And we have a few nice to haves on top of that:
 
 Please see our [Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) which explains how we classify our developers and their seniority.
 
-# Ways of Working
+## Ways of Working
     
 ### How does a Commit developer fit into my existing interview process?
 
@@ -199,7 +200,7 @@ After a Commit developer is placed at your organization (graduated) they would h
 
 If during the 3-month pilot, you decide for any reason you would like to wind down, the 2 week notification would apply.
 
-# Additional Questions
+## Additional Questions
 
 ### How do I stay up to date on changes within the Commit ecosystem?
 
