@@ -39,7 +39,7 @@ Here are some critical things for you to know as a Commit Startup Partner (SP):
 
 ### Expectations During Interviews
 
--   No technical Interviews - We encourage you to check out the candidates’ Record of Work (RoW). With the information available from candidates' profiles on the Commit app along with the [pre-vetting process](https://docs.google.com/document/d/1vpUrPyYLrRB3bmWwPNZcDrdkAH7sVGBCHpAbXnCo-qY/edit?usp=sharing) by the Commit technical community, you'll be able to skip technical rounds and instead focus on value alignment and company fit.
+-   No technical Interviews - We encourage you to check out the candidates’ Record of Work (RoW). With the information available from candidates' profiles on the Commit app along with the [pre-vetting process](https://docs.commit.dev/sps/commit-interviews#commits-interview-process) by the Commit technical community, you'll be able to skip technical rounds and instead focus on value alignment and company fit.
     
 -   Rapid Feedback - After every interview, we ask for a brief retrospective (stop/start/continue) to ensure we can give feedback to the developers to help them continue to grow.
     
