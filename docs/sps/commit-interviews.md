@@ -21,7 +21,7 @@ This technical conversation is led by a member of our staff engineering team who
 *At Commit, we believe the best way to gauge an developer’s level of understanding about a language or framework is having them explain it. The bonus factor is that this approach helps nervous or introverted candidates to open up by talking proudly about the codes they’ve written, projects they’ve contributed to, and problems they’ve solved.*
 
 
-*Our assessment process focuses on the engineers ability to describe their most complex projects in detailed technical terms.  We learn far more about the breadth and depth of their technical maturity through inquiry-based assessments of their work history than we do from detailed coding exams performed in a contrived interview/assessment environment.  In terms of coding skills, we use the Hackathon Onboarding Project (HOP) as the more realistic assessment of their coding skills, since it far more accurately simulates the startup working environment than any technical exam possibly could, with significantly more code produced than would otherwise be possible in an exam/test situation.  It has been our experience that the accuracy of the inquiry-based approach justifies hiring the engineer and moving to the HOP stage for additional vetting.*
+*Our assessment process focuses on the engineers ability to describe their most complex projects in detailed technical terms.  We learn far more about the breadth and depth of their technical maturity through inquiry-based assessments of their work history than we do from detailed coding exams performed in a contrived interview/assessment environment.  In terms of coding skills, we use the [Hackathon Onboarding Project (HOP)](https://docs.commit.dev/sps/commit-interviews#hackathon-onboarding-project) as the more realistic assessment of their coding skills, since it far more accurately simulates the startup working environment than any technical exam possibly could, with significantly more code produced than would otherwise be possible in an exam/test situation.  It has been our experience that the accuracy of the inquiry-based approach justifies hiring the engineer and moving to the HOP stage for additional vetting.*
 
 
 ### Step 3: Meeting our CTO
@@ -75,7 +75,7 @@ If there is mutual interest in an interview, the developer will reach out to sch
 
 A resume for the developer is available upon request. We can also provide a technical interview summary, which captures our assessment of a developer's essential skills, technical abilities, career goals and interests.
 
-We have a [quick video]((https://www.loom.com/share/e320276733094797b2d520cff55d0a28) that provides an example of a profile you might recieve. 
+We have a [quick video](https://www.loom.com/share/e320276733094797b2d520cff55d0a28) that provides an example of a profile you might recieve. 
 
 #### 2. How to structure interviews with Commit developers
 
