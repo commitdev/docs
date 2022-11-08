@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sidebar_label: Pricing
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 ### Pilot Fees
