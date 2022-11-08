@@ -20,15 +20,13 @@ This technical conversation is led by a member of our staff engineering team who
 
 *At Commit, we believe the best way to gauge an developer’s level of understanding about a language or framework is having them explain it. The bonus factor is that this approach helps nervous or introverted candidates to open up by talking proudly about the codes they’ve written, projects they’ve contributed to, and problems they’ve solved.*
 
+
+*Our assessment process focuses on the engineers ability to describe their most complex projects in detailed technical terms.  We learn far more about the breadth and depth of their technical maturity through inquiry-based assessments of their work history than we do from detailed coding exams performed in a contrived interview/assessment environment.  In terms of coding skills, we use the Hackathon Onboarding Project (HOP) as the more realistic assessment of their coding skills, since it far more accurately simulates the startup working environment than any technical exam possibly could, with significantly more code produced than would otherwise be possible in an exam/test situation.  It has been our experience that the accuracy of the inquiry-based approach justifies hiring the engineer and moving to the HOP stage for additional vetting.*
+
+
 ### Step 3: Meeting our CTO
 
 Developers who pass the technical assessment are invited to the final step which is to meet our CTO for a 30-minute conversation where we assess their fit for the role and startup work culture. This also gives developers the opportunity to ask any questions they may have about joining Commit and working with our startup partners.
-
-## Hackathon Onboarding Project
-
-If a developer is extended an offer to join the Engineering Partner Program and they choose to accept it, they will spend the first week of their start date onboarding with Commit. During the second day of this onboarding week, the developers will start working on their Hackathon Onboarding Project (HOP) and will have to present it on the seventh day. For this project, they will identify an engineering challenge, come up with a potential solution, produce a working product, and present the problem and their approach to a panel of Commit interviewers and community members.
-
-The benefit of this Hackathon Onboarding Project is that Commit developers get an opportunity to further practice their presentation and communication skills in a safe, supportive environment.
 
 ## Why Commit Doesn’t Conduct Traditional Tech Interviews
 
@@ -44,6 +42,11 @@ Collectively, our staff engineering team has several years of startup and softwa
 
 ![](https://lh3.googleusercontent.com/5YrTj6NwecVV8p5SbfRO7va6o48Z8b1mU-pl5MnEpq30t9acwxAINn9ruesrnvCDthN8YAjtR3zDOHrpz5D2xUl1ecEKcbx1lK3G2YW2n-jcKILJe11vyaVc6d8sJUTbAtatsm9l0DTmkEXDMH3aYpAZ1asiDanCcwJ4wyKD245KNNns1E2GDbBikg)
  
+## Hackathon Onboarding Project
+
+If a developer is extended an offer to join the Engineering Partner Program and they choose to accept it, they will spend the first week of their start date onboarding with Commit. During the second day of this onboarding week, the developers will start working on their Hackathon Onboarding Project (HOP) and will have to present it on the seventh day. For this project, they will identify an engineering challenge, come up with a potential solution, produce a working product, and present the problem and their approach to a panel of Commit interviewers and community members.
+
+The benefit of this Hackathon Onboarding Project is that Commit developers get an opportunity to further practice their presentation and communication skills in a safe, supportive environment.
 
 ## Guide to Interviewing Commit Developers
 
@@ -71,6 +74,8 @@ Note: We share anonymous briefs to be inclusive and help minimize the potential 
 If there is mutual interest in an interview, the developer will reach out to schedule a time to meet.
 
 A resume for the developer is available upon request. We can also provide a technical interview summary, which captures our assessment of a developer's essential skills, technical abilities, career goals and interests.
+
+We have a [quick video]((https://www.loom.com/share/e320276733094797b2d520cff55d0a28) that provides an example of a profile you might recieve. 
 
 #### 2. How to structure interviews with Commit developers
 
