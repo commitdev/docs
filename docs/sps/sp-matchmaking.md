@@ -70,7 +70,7 @@ This article provides an overview of what a Startup Partner can expect in the on
     
 ### Option 3: Proceed with Offering a Pilot
 
--   If you would like to move forward with offering a pilot, the Engineer Success team will work with you and the candidate to determine a start date. From there, the scope of work will be sent.
+-   If you would like to move forward with offering a pilot, the Engineer Success team will work with you and the candidate to determine a start date. Our developers can start as soon as 2 business days from the time you express interest in bringing them onboard. From there, the scope of work will be sent.
     
-
+ 
 
