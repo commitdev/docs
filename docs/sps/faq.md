@@ -47,6 +47,11 @@ The costs are as follows:
     
 -   **Placement fees** - annual 10% capped at 3 years or one-time 25%
     
+### What happens if the employee resigns or is terminated after graduation before the 3 years is up?
+
+The annual placement fee of 10% for 3 years is paid in advance each year. If the employee leaves the company before the end of one of those years, we will refund a pro rata amount of the 10% for that year.
+If you choose the 25% one-time placement fee option, then you would get a full refund if the employee leaves within 3 months of signing their employment agreement.
+
 ### What taxes are applicable to me as a US entity?
 
 Commit does not currently charge taxes on fees charged to US entities.
