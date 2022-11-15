@@ -73,6 +73,8 @@ Now, click to expand ‘Additional rules for your availability’ and **change s
   - 1) Who will be on the call (name, role, how we would interact if hired)?
   - 2) What will be the structure of this interview (ie. behavioural, technical, cultural, etc)?
   - 3) Do I need any software installed and/or open during the conversation?
+  - 4) Is there anything I should prepare for ahead of this call?
+  - 5) How long will our call be scheduled for?
 - Save & Close that section!
 
 ![Step 8: Open up “Invitee Questions” in “Additional Options” and edit accordingly](./Calendly8.png)
