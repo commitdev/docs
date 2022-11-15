@@ -108,3 +108,20 @@ Frans told us, “...you sort of get to ‘date’ before you get ‘married.’
  “It’s early stage, so the company is very fresh. There’s a lot to sort out. It was a big learning process, technically and not technically, from time management to figuring out what to do, how to do it best, what needs to be prioritized. There are a lot of things that need to happen, so it’s been stressful at times, but it’s also exciting when things come together. And the team is excellent. They’re all amazing, everyone is very supportive. I have nothing but good things to say about them.” - **Andrew Lukonin, Senior Software Developer**
 
 “With 7Gen I had to make some risky decisions during my pilot. Having this kind of safety network helped me to make good decisions so 7Gen is happy to be with me. Talking with Beier and Greg, having access to the select channels, seeing questions that people posted there that applied to me, I learn every day. Commit made it possible, and it was the most important experience in my career.” - **Fabio Mirando, CTO**
+
+### Additional Testimonials
+To read additional case studies from our partners please review the stories below.
+
+ -   [‘We had hit a stage of hyper growth and were looking to expand our dev team really quickly’](https://commit.dev/2021/10/07/committed-to-success-curtis-smith-of-certn/). - Curtis, [Certn](https://certn.co/)
+    
+ -   [‘Commit was able to fill three different but technically specific roles…’](https://commit.dev/2020/11/03/committed-to-success-eric-lin-director-of-engineering-at-dapper-labs/) - Erin, [Dapper Labs](https://www.dapperlabs.com/)
+    
+ -   [‘I 100 percent plan on working with Commit again.’](https://medium.com/commit-engineering/committed-to-success-simon-stanlake-svp-procurify-8878c0ae3b9b) - Simon, [Procurify](https://www.procurify.com/)
+    
+ -   [‘I really saw the opportunity to get access to senior developers who want to find the right match…’](https://www.commit.dev/2022/03/01/committed-to-success-alex-gogan-of-sherpa/) - Alex, [Sherpa](https://apply.joinsherpa.com/)
+    
+ -   [‘It was really about moving as quickly as possible.’](https://blog.commit.dev/articles/committed-to-success-brennan-spellacy-of-patch) - Brennan, [Patch](https://www.patch.io/)  
+ 
+ -   [‘We came to Commit looking for top flight engineering talent…’](https://commit.dev/2021/11/09/committed-to-success-alex-ince-cushman/) - Alex, [Branch Energy](https://branchenergy.com/)
+    
+ - [‘It didn’t take very long at all.’](https://commit.dev/2021/03/30/committed-to-success-vahed-qazvinian-and-ken-klein-of-praisidio/) - Vahed & Ken, [Praisidio](https://www.praisidio.com/)
