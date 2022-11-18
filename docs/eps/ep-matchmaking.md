@@ -39,7 +39,9 @@ A message will be sent to your EPX Slack channel. You'll have the opportunity to
  
 ## Step 3: Connect
 
-In Helix, once you click “Accept”, you’ll get two notifications: 
+You can either choose to accept or reject the opportunity.
+
+### If you click “Accept”, you’ll get two notifications: 
 
 1. A Slack message in your EPX channel: includes the pros and cons you will have been prompted to share when clicking “Accept” 
 
@@ -54,7 +56,12 @@ Sample Response:
 > Take care,
 > 
 > [Your name]
- 
+
+Note: If an SP doesn't book within 24 hours, send a follow-up email prompting them to book with you. SPs are busy and sometimes need extra prompting! If no response after 48 hours, let the Engineer Success team know so we can follow up.
+
+### If you don't want to move forward with an opportunity, you can click "Reject".
+
+You'll be prompted to provide a reason for not moving forward, which will be shared with the SP. If you need help crafting that message, let the Engineer Success team know. 
 
 ## Step 4: Interview
 
@@ -62,7 +69,7 @@ We encourage you to take a look at the [SP Guide to Interviewing Commit Candidat
 
 Need additional help preparing for your interview? 
 
-Check out [our Interview Guide for EPs](/epresources/ep-interview-guide) or [book a 20-minute session with Louisa](https://calendly.com/louisasmith) who is not only part of the Engineer Success Team but also a Career Coach. She’d love to do a mock interview with you to shake out all your nerves. 
+Check out [our Interview Guide for EPs](/epresources/ep-interview-guide) or book a 20-minute session with Janelle who is not only part of the Engineer Success Team but also a Career Coach. She’d love to do a mock interview with you to shake out all your nerves. 
  
 ## Step 5: Match
 
