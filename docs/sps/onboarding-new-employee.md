@@ -1,3 +1,8 @@
+---
+title: Guide to Onboarding New Employees
+sidebar_label: Guide to Onboarding New Employees
+sidebar_position: 8
+---
 
 # Commit's Guide to Onboarding New Employees
 
