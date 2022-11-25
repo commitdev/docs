@@ -205,7 +205,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
 
  - [ ] It's HOP Demo Day! Demo your HOP amongst a group of supportive
        engineers.
- - [ ] Add your HOP Demo to your [Project section](http://app.commit.dev/projects) on the platform!
+ - [ ] Add your HOP Demo to your [Project section](http://app.commit.dev/projects) on the platform! Our Startup Partners often review HOP Demos so it's important to make sure this is updated!
  - [ ] Revisit [Together](https://docs.commit.dev/contribute/mentorship), our mentorship platform, and get started with being a
        mentor/mentee!
 -   Set up a meeting with a mentor/mentee in the next 3 weeks.
