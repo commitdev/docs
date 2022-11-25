@@ -69,7 +69,7 @@ We encourage you to take a look at the [SP Guide to Interviewing Commit Candidat
 
 Need additional help preparing for your interview? 
 
-Check out [our Interview Guide for EPs](/epresources/ep-interview-guide) or book a 20-minute session with Janelle who is not only part of the Engineer Success Team but also a Career Coach. She’d love to do a mock interview with you to shake out all your nerves. 
+Check out [our Interview Guide for EPs](/epresources/ep-interview-guide) or book a 20-minute session with Janelle who is not only part of the Engineer Success Team but also a Career Coach. She’d love to do a mock interview with you to shake out all your nerves. Mock interviews are also available through our partnership with [Sphere Coaching.](https://docs.commit.dev/epresources/ep-coaching-guide)
  
 ## Step 5: Match
 
