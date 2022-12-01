@@ -7,7 +7,7 @@ sidebar_position: 4
 This article provides an overview of what a Startup Partner can expect in the onboarding and matchmaking process.
 
 ## Step 1: Review Relevant Paperwork
--   You'll receive paperwork for the relevant program(s) of interest from [Megha](https://docs.commit.dev/sps/about#engage-with-the-team-answering-your-questions). Depending on the program, signatures may be required before we can send you candidates. If any questions arise, you can respond via email and [Tiff](https://docs.commit.dev/sps/about#engage-with-the-team-answering-your-questions) will respond within 48 hours. Once all is set, you will join Commit as a Startup Partner (SP).
+-   We'll share paperwork for the relevant program(s) of interest. Depending on the program, signatures may be required before we can send you candidates. If any questions arise, you can respond via email and [Tiff](https://docs.commit.dev/sps/about#engage-with-the-team-answering-your-questions) will respond within 48 hours. Once all is set, you will join Commit as a Startup Partner (SP).
     
 ## Step 2: Join Commit on Slack
 
