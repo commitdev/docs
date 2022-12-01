@@ -44,15 +44,12 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 
 ### Team: Growth and Marketing
 
-#### Befii Dennis: Business Development Representative 
 #### Canberk Bal: Growth Coordinator
 #### Colin O'Hearn: VP, Growth
-#### Darya Niknamian: Director, Content
 #### Rammeya Jegatheeswaran: Growth Coordinator
 
 ### Team: Internal Dev
 
-#### Anita Chen: Product Designer
 #### Bill Monkman: Chief Architect
 #### David Cheung: Developer
 #### Helen Park: Head of Design
@@ -61,6 +58,3 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Pritesh Patel: Product Engineer
 #### Ricky Lee: Developer
 #### Simon Ho: Team Lead
-
-### Team: Startup Partner Experience
-#### Megha Lad: Business Development Associate
