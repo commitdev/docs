@@ -4,6 +4,8 @@ sidebar_label: Overview
 sidebar_position: 1
 ---
 
+import ReactPlayer from 'react-player'
+
 Commit is the remote-first developer community where senior software engineers get paid to find their next career opportunity, all while skipping the traditional tech interview. We do what’s right for the engineer. What does that look like?
 
 - **One tech interview** instead of 50
@@ -16,10 +18,7 @@ Commit is the remote-first developer community where senior software engineers g
 
 Learn more about why our Engineers love Commit by watching this video:
 
-```
-video to be embedded
-https://www.youtube.com/watch?v=pIbkW6wMqrw 
-```
+<ReactPlayer controls url='https://www.youtube.com/watch?v=pIbkW6wMqrw' />
 
 Or reading a few articles:
 - [Andrew Lukonin](https://commit.dev/2021/10/14/committed-to-success-andrew-lukonin/) - Commit Engineer who joined 7 Generation Capital as Software Lead

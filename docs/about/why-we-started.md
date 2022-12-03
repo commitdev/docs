@@ -3,6 +3,7 @@ title: Why We Started
 sidebar_label: Why We Started
 sidebar_position: 1
 ---
+import ReactPlayer from 'react-player'
 
 :::note
 This page needs to be updated! 
@@ -26,7 +27,4 @@ I built Commit to fix the career gap that I faced as a Startup Engineer.
 
 Our founders explain why they started Commit and how to know if you are a good fit for our Engineering Partner Program.
 
-```
-video to be embedded
-https://youtu.be/IfR-fmLaA2o
-``` 
+<ReactPlayer controls url='https://youtu.be/IfR-fmLaA2o' />
