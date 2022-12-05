@@ -6,7 +6,7 @@ sidebar_position: 3
 
 At Commit, we call our permanent staff the “Support Team”, as in we're the team that supports our Engineering Partners. 
 
-We are small but mighty, with over 30 individuals located throughout Canada and USA, supporting Engineering Partners living in North America and Brazil. 
+We are small but mighty, with over 20 individuals located throughout Canada and USA, supporting Engineering Partners living in North America and Brazil. 
 
 Every employee of Commit has a passion for learning, helping, and definitely likes to have fun – our company ethos. We love collaborating to support software engineers! 
 
@@ -55,6 +55,4 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Helen Park: Head of Design
 #### Julie Huang: Developer
 #### Phong Thieu: Director of Engineering
-#### Pritesh Patel: Product Engineer
-#### Ricky Lee: Developer
 #### Simon Ho: Team Lead
