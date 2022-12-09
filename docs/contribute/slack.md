@@ -13,10 +13,7 @@ When joining the community, you will by default be added to these channels (list
 | Slack Channel Name | Topic | Description  |
 | ---------------- | --------------- | ------ |
 | #commit-news | Company-wide announcements from the Support Team. See: https://docs.commit.dev/ for internal Commit resources | This channel is for company updates, communications and announcements. All community members are included in this channel. Only Support Team (ST) members can post. |
-| #community-operations | All things community support. | Non-technical support from the Commit Community Management team, for technical support on the platform, use #platform-help |
-| #community-intros | A channel for all new members to introduce themselves to the community!    | Tell us where you’re from, what you’re masterful at, what you want to learn and why you’re most excited about joining the Commit Community! |
 | #dev | A channel for all things development | Share resources, articles, and information related to software development. Have a development question? Post it on our platform: app.commit.dev |
-| #diversity-and-inclusion | A psychologically safe place to share resources and questions about all things DEI. | A channel to learn and unlearn together as a community. |
 | #random | Non-work banter and water cooler conversation. | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels. |
 
 
