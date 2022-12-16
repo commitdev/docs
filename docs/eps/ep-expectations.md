@@ -8,7 +8,7 @@ Welcome to Commit!
 
 Here are some critical things for you to know as an Engineering Partner (EP):
 
-- You’re expected to respond within 24 hours to any communication directed at you over Slack or email during onboarding, matchmaking, in between pilots, and when on a pilot.
+- You’re expected to respond within 24 hours during weekdays to any communication directed at you over Slack or email during onboarding, matchmaking, in between pilots, and when on a pilot.
 - It’s mandatory that you make meaningful contributions in your Hackathon Onboarding Project (HOP), HOP blog, and other technical and community contributions while you’re with Commit (except when you’re on a pilot). 
 - Your attendance and participation at all onboarding meetings is mandatory. When you are not on a pilot, attending and participating in all All-Hands meetings and learning sessions is also mandatory; if you are on a pilot, attendance is highly encouraged. 
 - Our goal is to match you with an SP within 14 days of your start date and the Engineer Success team will support you in making the best possible SP matches. It’s also up to you to actively participate in the matching process. We’ll be in touch often, but if the process is taking longer than expected, we’ll meet with you at the 30- and 60-day marks to gain a better understanding of any challenges or shifting interests/goals. 
@@ -104,7 +104,11 @@ Should the Engineer Success team exhaust their resources, they’ll be in touch 
 
 - Within 15 days unmatched, the Engineer Success team will book a call to chat, offer support, and let you know about the challenges in finding potential SPs for your next pilot.
 - Within 30 days unmatched, the Engineer Success team will book a call to evaluate if the EP program is still a good fit for you.
-- Within 45 days unmatched, the Engineer Success team and you will have a better understanding of if the EP program is a fit for you based on your interest, goals, and needs. In some cases, you could face dismissal from the EP program. 
+- Within 45 days unmatched, the Engineer Success team and you will have a better understanding of if the EP program is a fit for you based on your interest, goals, and needs. In some cases, you could face dismissal from the EP program.
+
+:::note
+The above timelines refer to business days, not calendar days.
+:::
 
 ### Playing an Active Role in Matchmaking
 
