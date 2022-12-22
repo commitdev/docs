@@ -20,15 +20,13 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [3000],
-	"portsAttributes": {
-		"3000": {
-			"label": "Application",
-			"onAutoForward": "openPreview"
-		}
-	},
+	"mounts": [
+		"source=try-node-node_modules,target=${containerWorkspaceFolder}/node_modules,type=volume"
+	],
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "yarn install",
+	"postCreateCommand": "yarn install",
 	"postStartCommand": "npm start",
+
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "node"
 }
