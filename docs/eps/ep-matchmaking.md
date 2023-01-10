@@ -65,7 +65,7 @@ You'll be prompted to provide a reason for not moving forward, which will be sha
 
 ## Step 4: Interview
 
-We encourage you to take a look at the [SP Guide to Interviewing Commit Candidates](https://www.notion.so/commitdev/Commit-s-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454). This guide provides additional insights into how our SPs will approach the interview with you. 
+We encourage you to take a look at the [SP Guide to Interviewing Commit Candidates](https://docs.commit.dev/sps/commit-interviews#guide-to-interviewing-commit-developers). This guide provides additional insights into how our SPs will approach the interview with you. 
 
 Need additional help preparing for your interview? 
 
