@@ -39,19 +39,7 @@ You should have an invite to the following meeting today (Let us know in your un
     
  - [ ] Familiarize yourself with [EP Expectations](https://docs.commit.dev/eps/ep-expectations)  
 
- - [ ] Introduce yourself in the [#community-intros](https://commitdev.slack.com/archives/C03FEARKZ3L) Slack channel
-
-  Include a few bullets about yourself & your interests by answering these  questions:
- 
- -   Where are you from?
      
- -   What are you masterful at/what can you teach others?
-     
- -   What do you want to learn?
-     
- -   Why are you excited about joining the Commit Community?
-
-    
  - [ ] Update your LinkedIn Profile
 
  Update your LinkedIn using [this guide](https://docs.google.com/document/d/1Fa9-vQwBXfgj19l5ftXQihua7f8zg-dIPzl12J7g2Xs/edit?usp=sharing)! Your LinkedIn profile will be shared with SPs when introductions are made during the matchmaking process.
