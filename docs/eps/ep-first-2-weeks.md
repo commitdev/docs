@@ -92,7 +92,7 @@ You'll have the following meetings today: (Let the Engineer Success team know if
  - [ ] Matchmaking at Commit 
 
 (The Engineer Success team will be going over the matchmaking process with Startup Partners (SPs) at Commit. Ask any questions you have about your EP journey in this session!)
-
+You can learn more about the matchmaking process [here](https://docs.commit.dev/eps/ep-matchmaking). 
     
 
  - [ ] Payroll, Benefits, etc.
@@ -141,18 +141,11 @@ On the first Tuesday of the month during your Onboarding, Margo from [Sphere Coa
  
  - [King](https://blog.commit.dev/articles/personal-coaching-at-commit-part-ii-a-conversation-with-engineering-partner-king-choi)
 
- - [ ] Check out our partnership with [Together](https://docs.commit.dev/contribute/mentorship), your one stop shop for mentorship!
-You can sign up as a mentor, or as a mentee. Part of how we do what's right for the engineer is providing you with opportunities to learn and grow!
-   [Sign up using your personal email here!](https://my.togetherplatform.com/signup?organizationId=eeJyrw40aXitpSZrR0Os)
 
  - [ ] Review our [Interview Guide](https://docs.commit.dev/epresources/ep-interview-guide)
 
  You will likely have interviews in the next few days! Take some time to review our Interview Guide so feel confident and comfortable going into interviews.
 
- - [ ] Learn about P2P (Peer 2 Peer)
-P2P is a place where you can get support from other engineers about technical and career related questions!
-     
-Follow the [onboarding instructions](https://docs.google.com/document/d/1QEfLiuPz7CF35WnVCxF7oBunCkT9mAy_83EdTVbCuhU/edit) to join the community!
 
 ## Day 4
 
@@ -194,10 +187,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
  - [ ] It's HOP Demo Day! Demo your HOP amongst a group of supportive
        engineers.
  - [ ] Add your HOP Demo to your [Project section](http://app.commit.dev/projects) on the platform! Our Startup Partners often review HOP Demos so it's important to make sure this is updated!
- - [ ] Revisit [Together](https://docs.commit.dev/contribute/mentorship), our mentorship platform, and get started with being a
-       mentor/mentee!
--   Set up a meeting with a mentor/mentee in the next 3 weeks.
-    
+- [ ] If you haven't yet, update your LinkedIn using [this guide](https://docs.google.com/document/d/1Fa9-vQwBXfgj19l5ftXQihua7f8zg-dIPzl12J7g2Xs/edit?usp=sharing). You might even consider sharing your HOP Demo recording once it's uploaded to YouTube - just ask the Engineer Success team!
 
 **Not placed with an SP yet?**
 
