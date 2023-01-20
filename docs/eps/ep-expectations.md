@@ -9,7 +9,7 @@ Welcome to Commit!
 Here are some critical things for you to know as an Engineering Partner (EP):
 
 - You’re expected to respond within 24 hours during weekdays to any communication directed at you over Slack or email during onboarding, matchmaking, in between pilots, and when on a pilot.
-- It’s mandatory that you make meaningful contributions in your Hackathon Onboarding Project (HOP), HOP blog, and other technical and community contributions while you’re with Commit (except when you’re on a pilot). 
+- It’s mandatory that you make meaningful contributions in your Hackathon Onboarding Project (HOP), community discussions, project updates,, and other technical and community contributions while you’re with Commit (except when you’re on a pilot). 
 - Your attendance and participation at all onboarding meetings is mandatory. When you are not on a pilot, attending and participating in all All-Hands meetings and learning sessions is also mandatory; if you are on a pilot, attendance is highly encouraged. 
 - Our goal is to match you with an SP within 14 days of your start date and the Engineer Success team will support you in making the best possible SP matches. It’s also up to you to actively participate in the matching process. We’ll be in touch often, but if the process is taking longer than expected, we’ll meet with you at the 30- and 60-day marks to gain a better understanding of any challenges or shifting interests/goals. 
 - If you’re having trouble following these guidelines or finding a Startup Partner that is interesting or exciting to you, we may have a conversation about whether Commit is the right fit for you at this moment.  
@@ -62,9 +62,19 @@ You’re expected to complete your HOP by your sixth day at Commit and you will 
 
 ### Community Contributions 
 
-It’s important that you contribute to your own learning and the Commit community throughout your journey here. 
+It’s important that you contribute to your own learning and the Commit community throughout your journey here.
 
-The following are examples of community contributions:
+During matchmaking, it’s expected that you upload at least 2 projects to the [Commit platform](https://app.commit.dev/projects) in your first week:
+- Your HOP project
+- 1 past project - can be work related or personal
+
+We’d also like for you to select at least one of the following:
+- Start at least 2 discussions weekly
+- Reply to at least 2 questions weekly
+
+This may change from week to week - we recognize that you may have some weeks where replies come easier than conversation generation. 
+
+We encourage you to contribute to the Commit community beyond the platform.The following are examples of additional community contributions:
 
 - **Blog post** - creating a blog post about your HOP experience with support from our Content team. 
 - **LinkedIn** - posting on LinkedIn once per week or creating a longer blog post every two weeks about how you’re spending your time and what you’re learning.
@@ -134,6 +144,9 @@ You and the Engineer Success team will work together to find you a great match t
 We want to make sure you’re getting the full experience of what full-time work with your SP is like during your 3-month pilot. 
 
 As a Commit employee, you’re expected to respond to any communication from the Engineer Success team within 24 hours during your pilot.
+
+Community collaboration can help you get the most out of your pilot and help you ramp up quicker. For this reason, we ask you to start at least 2 discussions monthly during your pilot, or at least 6 discussions overall over the 3-month period. 
+You’re also expected to share 1 new project on our platform within the first 3 weeks of your start date as a way for our community to learn from each other and live into our value of [Working Out Loud](https://docs.commit.dev/about/how-we-work). Weekly or bi-weekly updates are encouraged!
 
 Attendance of SP meetings, collaboration with the SP team, and meaningful contributions during your pilot are all essential for your long-term success. Building a strong professional relationship with the SP will help you, whether you continue on full-time after the pilot or not. 
 
