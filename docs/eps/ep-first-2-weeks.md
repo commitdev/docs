@@ -37,7 +37,7 @@ You should have an invite to the following meeting today (Let us know in your un
 
 -------------------------------------
     
- - [ ] Familiarize yourself with [EP Expectations](https://docs.commit.dev/eps/ep-expectations)  
+ - [ ] Familiarize yourself with [EP Expectations](https://docs.commit.dev/eps/ep-expectations), specifically focusing on [Community Contribution expectations](https://docs.commit.dev/eps/ep-expectations#community-contributions)  
 
      
  - [ ] Update your LinkedIn Profile
@@ -188,6 +188,7 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
        engineers.
  - [ ] Add your HOP Demo to your [Project section](http://app.commit.dev/projects) on the platform! Our Startup Partners often review HOP Demos so it's important to make sure this is updated!
 - [ ] If you haven't yet, update your LinkedIn using [this guide](https://docs.google.com/document/d/1Fa9-vQwBXfgj19l5ftXQihua7f8zg-dIPzl12J7g2Xs/edit?usp=sharing). You might even consider sharing your HOP Demo recording once it's uploaded to YouTube - just ask the Engineer Success team!
+- [ ] Review the [Community Contribution expectations](https://docs.commit.dev/eps/ep-expectations#community-contributions) in our EP Expectations article so you can grow your skills and better our community!
 
 **Not placed with an SP yet?**
 
@@ -197,3 +198,4 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
 -   Know an awesome startup you want to join our community? [Invite them!](https://docs.commit.dev/contribute/sp-invite) 
 
 We're looking forward to continuing to celebrate your accomplishments!! :)
+
