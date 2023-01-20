@@ -49,7 +49,15 @@ As an EP, you’re expected to make meaningful technical and community contribut
 
 ### Collaboration within the Commit Community
 
-Reaching out to the Commit community in the #dev Slack channel with questions and offering to help others is expected. Collaborating on a mutual project with another EP is a great way to learn, teach, and hone your skills.
+Reaching out to the Commit community on the Commit platform with questions and offering to help others is expected. Collaborating on a mutual project with another EP is a great way to learn, teach, and hone your skills.
+
+You'll have varying expectations for commmunity collaboration based on where you are in the EP journey. The following is a breakdown of expectations for collaboration:
+
+ Onboarding Phase (Days 1 - 7) | Matchmaking Phase  | Pilot Phase 
+|--|--|--|
+| Upload at least 2 projects to your profile (HOP and 1 past project) | Start at least 2 discussions weekly  | Upload 1 project within your first 3 weeks  |
+| Upload daily HOP updates | Reply to at least 2 questions weekly | Provide at least 1 project update weekly until pilot ends
+| | | Start at least 2 discussions monthly until pilot ends|
 
 ## EP Expectations in Onboarding
 
