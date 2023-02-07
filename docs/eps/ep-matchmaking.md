@@ -27,7 +27,11 @@ We send your profiles to SPs and they can choose to extend an offer for an inter
 
 ## Step 2: Review
 
-A message will be sent to your EPX Slack channel. You'll have the opportunity to review the SPs full profile to better understand:
+A message will be sent to your EPX Slack channel:
+
+![Review](./SampleRequest.png)
+
+You'll have the opportunity to review the SPs full profile to better understand:
 - Their product
 - How the product fits into the current market
 - What problem(s) is their product trying to solve
@@ -61,7 +65,15 @@ Note: If an SP doesn't book within 24 hours, send a follow-up email prompting th
 
 ### If you don't want to move forward with an opportunity, you can click "Reject".
 
-You'll be prompted to provide a reason for not moving forward, which will be shared with the SP. If you need help crafting that message, let the Engineer Success team know. 
+You'll be prompted to provide a reason for not moving forward, which will be shared with the SP. 
+Including a reason helps the Engineer Success team to understand what roles you're looking for, and helps provide closure for the SP.
+
+Examples of what you may share in this message include:
+- Thank you for the opportunity, but this role doesn't align with my long term career interests
+- Thank you for considering me, but I am looking to join a company with a more established developer team
+- I appreciate your interest in my profile, but I am looking for a role/company that is Golang focused 
+
+![Reject](./ReviewRequest.png)
 
 ## Step 4: Interview
 
