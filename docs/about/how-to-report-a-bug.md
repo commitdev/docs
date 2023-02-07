@@ -8,11 +8,7 @@ At Commit we encourage engineers to report any bugs or issues that they find wit
 
 ## How to report an issue or bug on the Commit platform
 
-These bugs are celebrated in our [#dev](https://commitdev.slack.com/archives/CG1FYLKFD) channel to encourage others to do the same! There are two ways to do so:
-
-1. Report the issue in the Slack channel [#platform-help](https://commitdev.slack.com/archives/CL62LV6JH)
-
-2. Email our platform team at [platform@commit.dev](mailto:platform@commit.dev)
+Report a bug directly in our platform by using the 'Give Feedback' button in the upper-right hand corner of your screen or by using [this form](https://4xbxmmanuuz.typeform.com/to/zRepfzF6).
 
 The goal of reaching out is to inform our platform team to be able to take immediate action and resolve the issue as quickly as possible!
 
