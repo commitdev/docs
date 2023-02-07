@@ -180,7 +180,7 @@ Not all companies are successful, and not all are failures. It all depends on th
 
   
 
-![](https://lh3.googleusercontent.com/TCkG8ULnoGQpNKQO63_aLZa1fZuDmrDPZRjYPtTlriFdwoxDe6i4M09YIX33ie-FfkPvNw_1VR2kF9MjwrTJgc0rB3YLraQ4JrP1QIQk-oQCHIaZpSAGP-XB0Kryo6Gr2k5JKtZYEMHiTCaVmM7DbZgHW2OshXB8KwsNBb-81GdIrvDgWqTOsepmYA)
+![Needs Hierarchy](./NeedsHierarchy.png)
 
 Source: [Medium](https://medium.com/buildempire/why-do-developers-leave-835051600f41)
 
@@ -210,7 +210,7 @@ A company’s culture may not always be consistent with how it’s portrayed pub
     
 -   Positive, healthy work relationships.
    
-![](https://lh4.googleusercontent.com/S6Yykq0ewSmMBIVtDvEr_T0O4J2a6qRMz5Rg890852Vn7l-wCHyDFURqj1V5rpJWPmGXMUywjgpt4_qud4mC8dj9ur4CYV_oyRco6lkB4G2-mKIf_zzIa5h9X95Cz9IrUB6bihc-YmOkx6vnw6FXdPuBUGAAfy34XhYoEVZfP6Sl6H6fVkBRBzow8g)
+![Developer Happiness](./DeveloperHappiness.png)
 
 Source: [Stack Overflow](https://stackoverflow.blog/2022/03/17/new-data-what-makes-developers-happy-at-work/)
 
