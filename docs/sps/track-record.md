@@ -46,8 +46,7 @@ We’ve included 3 short success stories for you to gain a better picture of the
 
 You’re planning an expansion and need to hire top developer talent. What would you do?
 
-![](https://lh3.googleusercontent.com/ZUzAzj9Q_ZrsXmxV3Sqg-zaaNKdRUaSWF8kezJHVKN96o1Z9JQq3zheR495lZqTVzMRV-S_ZErfPe1dw-Ml1Zj8I2F5y5zose3oFlWlriB84vTRhWv5SkgEuMVf_wFnN6Rz9ptPbtBlN5gxliYhBoHHE1qrdw8lAqBLgowtWGpJXXEljjKpSlhDgiw)
-
+![Eric Normant - Plastiq](./Eric-Plastiq.png)
 
 [Plastiq’s](https://www.plastiq.com/) VP of Engineering Eric was expanding and needed to hire talented developers that could onboard quickly and contribute to the team. Eric said, “We have an extremely high bar for the engineers we hire, and all of the Commit engineers have met that bar.”
 
@@ -66,8 +65,7 @@ Eric said, “Instead of us spending most of a day interviewing a candidate thro
 ----------
 You’re looking for a trusted and experienced Tech Lead to build a scalable platform. How can you determine if they have the right skills?  
 
-
-![](https://lh4.googleusercontent.com/Su1PBIYjJuSoDtUgB6mX0UClSGXXssVw5B7Kn7q5YrhdvqUEftLtkGZr7XfvSZFj2V89KLUq6qhStppLVD6eIETLENUUsslC49gBp9ADMgSH0G79N-UUPjy5r2K5Z20fn4mXkF64J4cgZrQcGgIkXP8K_80Qa8PMDXn2U5wfhzrVvOgKKq5PubONHw)
+![Tarsem Basraon - Planworth](./Tarsem-Planworth.jpeg)
   
 Non-technical founders Tarsem and James of [Planworth](https://www.planworth.co/) didn’t know how to look for or determine if a tech candidate really knew what they were talking about.  
   
@@ -89,9 +87,7 @@ Tarsem said that “what made things all the more frustrating was there were a l
 
 You need to hire your first developer. Where do you start?
 
-
-![](https://lh5.googleusercontent.com/OBDPxuqW-2esADHw7qM_xC8DFO-SW8zbhn9del3Q8-B4LUyQpTz7njzSECb80mbugdKlBPylxDBw0HYWmp7ggVaB6l-yyrvSysTxiHPdQIm-gGN46tnOgXNajrCqbvysDZYozLD4KDzBKncCjldq8RFLIz8G-RJP3ScHpyE5LxwaiCCajTEmxAYGjQ)
-
+![Frans Tjallingii - 7Gen](./Frans-7Gen.png)
 
 [7 Generation Capital](https://www.7gen.com/)  CEO Frans was building his business and was at a point where he needed to hire his first developer whose contributions would shape the software development of 7 Generation Capital for years to come. Not an easy feat.  
  
