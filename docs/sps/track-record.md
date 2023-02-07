@@ -46,8 +46,6 @@ We’ve included 3 short success stories for you to gain a better picture of the
 
 You’re planning an expansion and need to hire top developer talent. What would you do?
 
-![Eric Normant - Plastiq](./Eric-Plastiq.png)
-
 [Plastiq’s](https://www.plastiq.com/) VP of Engineering Eric was expanding and needed to hire talented developers that could onboard quickly and contribute to the team. Eric said, “We have an extremely high bar for the engineers we hire, and all of the Commit engineers have met that bar.”
 
 🔧 Commit addresses this urgency by reducing the total time spent on the typical hiring process from an industry average of [38 days](https://whattobecome.com/blog/interview-statistics/) to 2 days, a 95% improvement.
@@ -65,7 +63,6 @@ Eric said, “Instead of us spending most of a day interviewing a candidate thro
 ----------
 You’re looking for a trusted and experienced Tech Lead to build a scalable platform. How can you determine if they have the right skills?  
 
-![Tarsem Basraon - Planworth](./Tarsem-Planworth.jpeg)
   
 Non-technical founders Tarsem and James of [Planworth](https://www.planworth.co/) didn’t know how to look for or determine if a tech candidate really knew what they were talking about.  
   
@@ -87,7 +84,6 @@ Tarsem said that “what made things all the more frustrating was there were a l
 
 You need to hire your first developer. Where do you start?
 
-![Frans Tjallingii - 7Gen](./Frans-7Gen.png)
 
 [7 Generation Capital](https://www.7gen.com/)  CEO Frans was building his business and was at a point where he needed to hire his first developer whose contributions would shape the software development of 7 Generation Capital for years to come. Not an easy feat.  
  
