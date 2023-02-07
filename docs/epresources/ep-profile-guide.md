@@ -13,7 +13,9 @@ sidebar_position: 5
 
 -   Fill out all sections of Community Profile and Matchmaking Profile
     
- -   Note: Matchmaking Profile is only viewable to Startup Partners, and Community Profile is viewable to all users.
+:::note
+Matchmaking Profile is only viewable to Startup Partners, and Community Profile is viewable to all users.
+:::
     
 
 ## Sections of Your Commit Platform Profile
@@ -36,17 +38,17 @@ sidebar_position: 5
 
 **Sample Introduction**
 
-![](https://lh4.googleusercontent.com/6PRDNemx6Nikwqv2VNXCf4KZARnSrmiDYp4PvHJdba4mZx0vpVBxa1aczrFj5JamyrccKuJJ1Z4cIcMmjo0wr2EFgGlquuzUvRahVYj7tj4MlY7axCeVt8h9OwbQBQDOKZBuEXu2hOkUzr857OQjL6SFyl1mjZXqXAw6x6pn7Nuwb-y0QDbyTDYDK6qgUQ)
+![Sample Introduction](./SampleIntroduction.png)
 
 ### User Metrics
 
-### ![](https://lh4.googleusercontent.com/Hw9aemXtg7jK3HrJdYQpFhDyXZI86ASoLABCm6dksYxtjZh1Waisr2djTTRLN2M24otFCIF6QBQDbvvi0UXnZwNBhCCCmsfMXX2TGSK37hlbksXP_f94OOp1vCq8VDcrAOIsAit6xRMSWkYF3pronlRnkX3QRAFaC6iirFHDmB5DnjsQKpuSrYD6TM-8oQ)
+![User Metrics](./UserMetrics.png)
 
 These will automatically update as you contribute to our community! Stats are fun!
 
 ### Skills and Specializations
 
-### ![](https://lh3.googleusercontent.com/YcuhkZec5aVOzy9Sw7zAuxiQzNoJBu2RnSk6-XVN8rNT4mib4Rp-trd7W67aR78GLdU-ox3n5COtZrdbQAOxs2f9Sg5UWqN2tJZ3durXA5jTib31nFD8vdmp791_XxfuMaZyVhoRO5FT8kF0GB23MqSuxC7LndbjCwOCqCCJiavbrhckCf0y0DxCwgoUbw)
+![Skills and Specializations](./SkillSpecializations.png)
 
 #### Technical Skills & Specializations
 
@@ -61,11 +63,12 @@ These will automatically update as you contribute to our community! Stats are fu
 
 #### How to access Matchmaking Profile
 
-#### ![](https://lh6.googleusercontent.com/6SbP3WJYBAJXR7HTKdf7K-qSdCOPmflRMkbgYwqhg5L2DyGze4ClJ6_KgGdjxIY_OLb5o9HaFuel-ocaFlHLw_rcNTRPMYftuDDtml4o8_1ZmIMEa2H8W8rFc1BqHyFWMHIJq3eC7WmNOjd3ul09gWbpH-Wk8cJMbVND184Fiuo0MwGx799ZNr5xkSjVKQ)
+![Matchmaking Profile](./MatchmakingProfile.png)
 
 - Select the ellipses to the right of your profile to select “View matchmaking”.
-
-	- Note: This profile section is only available to members of one of our career transitions programs.
+:::note
+This profile section is only available to members of one of our career transitions programs.
+:::
 
 #### Matchmaking Bio
 
@@ -82,7 +85,7 @@ Consider this your 'first impression' for our SPs! Some prompts to include in th
 
 ***Example Bio***
 
-![](https://lh5.googleusercontent.com/-43DZUseBY_QiWBVW7m2Zg0emBLxPmX4Ay-3VPCIWYF8rYg8DjVbQul_qBH3oIW7BQKgZmAN1azKnrkjLARPLFLNQlp05bGTfuylxzUQ6ByZBvdZLu-nYQ3mlZf3zUW6697UX8DZSsm_ApFIUoMWYlWwR8CfIwVaHsUsZU10sDAmPoJ3yk_HVNckNyj_Qg)
+![Matchmaking Bio](./MatchmakingBio.png)
 
 ### Technical Skills
 
@@ -124,7 +127,9 @@ Consider this your 'first impression' for our SPs! Some prompts to include in th
     
 -   What areas do you want to hone in more or specialize in?
     
- -   Note: SPs do analyze this section, as they often look for developers who are focused on growth!
+ :::note
+ SPs do analyze this section, as they often look for developers who are focused on growth!
+ :::
     
 
 #### Key Values & Interests
