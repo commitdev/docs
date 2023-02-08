@@ -118,7 +118,13 @@ Consider this your 'first impression' for our SPs! Some prompts to include in th
     
 -   Suggestion: pick no more than 2-3 roles to describe here.
     
--   It may be helpful to pick 3 key traits/values that best describe you as an engineer and tie it in with past experiences; these can be from your values assessment or other traits that you feel describe you the best
+-   It may be helpful to pick 3 key traits/values that best describe you as an engineer and tie it in with past experiences.
+
+- Be sure to include tech stack and how you used it!
+
+Example:
+![Work Experience](./WorkExperienceExample.png)
+
     
 
 #### Goals
@@ -131,9 +137,12 @@ Consider this your 'first impression' for our SPs! Some prompts to include in th
  SPs do analyze this section, as they often look for developers who are focused on growth!
  :::
     
+![Goals](./CareerGoals.png)
 
 #### Key Values & Interests
 
 -   What values do you possess?
     
 -   How do you integrate those values into your work?
+
+![Values](./ValuesExample.png)
