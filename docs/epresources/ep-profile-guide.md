@@ -14,7 +14,7 @@ sidebar_position: 5
 -   Fill out all sections of Community Profile and Matchmaking Profile
     
 :::note
-Matchmaking Profile is only viewable to Startup Partners, and Community Profile is viewable to all users.
+Matchmaking Profile is only viewable to Startup Partners (SPs), and Community Profile is viewable to all users.
 :::
     
 
@@ -45,6 +45,10 @@ Matchmaking Profile is only viewable to Startup Partners, and Community Profile 
 ![User Metrics](./UserMetrics.png)
 
 These will automatically update as you contribute to our community! Stats are fun!
+
+:::note
+When starting a project, be sure to include a link to your Github (or any other relevant link) so SPs can review!
+:::
 
 ### Skills and Specializations
 
