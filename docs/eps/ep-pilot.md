@@ -22,10 +22,11 @@ At the 1-week, 1-month, and 2-month marks of your pilot, the Engineer Success te
 
 It's expected you'll engage with our community as part of our principle of Working Out Loud - sharing your knowledge helps our community grow, and you can use our platform to help get your questions answered too. Everyone wins when you collaborate 👏
 
-| Pilot Phase 
+
+| Pilot Phase |  
 |--|
-|   Upload 1 project within your first 3 weeks  |
-|  Provide at least 1 project update weekly until pilot ends |
+| Upload 1 project within your first 3 weeks  |
+| Provide at least 1 project update weekly until pilot ends |
 | Start at least 2 discussions monthly until pilot ends |
 
 ### Communication
