@@ -27,9 +27,9 @@ During your first week at Commit, your focus is on your [HOP Demo](https://docs.
 You'll present your HOP Demo next Thursday (Day 7 of your Onboarding) to other Engineering Partners (EPs), graduates (GPs) and interested community members! 
 We've got a few of the most recent ones [recorded](https://www.youtube.com/playlist?list=PLQRTWrxEpL0SpjyzuIcvePs1LKyTP7pI3) for you to get an idea of what to expect when presenting your demo, and hopefully get you excited!
 
-Other expectations after your HOP Demo include:
-- Continue working on your original HOP or start a new one!  
-- Sharpen your development skills by taking a MOOC (massive open online course). If you choose this route, it's expected you'll work out loud and share your learning through blog and/or LinkedIn posts
+After your HOP demo, it's expected you'll continue making iterations and project updates to your original HOP.
+Want to start a new one instead, or collaborate with another developer on a project? You can absolutely do that too!
+The goal is for you to continue to build your skills and contribute to our community.
     
 ---------------------------
 You should have an invite to the following meeting today (Let us know in your unique EPX Slack Channel know if you do not):
@@ -115,6 +115,10 @@ Look at the HOP [guide](https://docs.commit.dev/eps/ep-hop) to come up with some
  - [ ] Draft your Project Pitch in the [Projects section](https://app.commit.dev/projects) of the platform. 
  
  - You can use our [Project Pitch Template](https://docs.google.com/document/d/1QIDBjmpAmjmvJGnvPh2cvB4yaxgHweAFdXQ9kXLb3bQ/edit?usp=sharing) for inspiration around details to include. 
+
+:::note
+Projects will be sent to SPs as part of your profile, so please be sure to include a github repo (or other shareable link) in your project.
+:::
      
      
  - [ ] Set up a [Calendly](https://calendly.com/) account.
@@ -151,7 +155,7 @@ On the first Tuesday of the month during your Onboarding, Margo from [Sphere Coa
 
  - [ ] Work on your HOP
 
-Any technical question about your HOP? We want to familiarize you with asking questions in the #dev channel and P2P. These channels will be your main channels to ask questions during your time at Commit!
+Any technical question about your HOP? We want to familiarize you with [asking questions on our platform](https://app.commit.dev/p2p). Our platform will be your primary community to ask questions during your time at Commit!
 
  - [ ] Review any SP opportunities sent to you.
  
@@ -163,7 +167,7 @@ You may have received some SP opportunities from the Engineer Success team in yo
   
  - [ ] Work on your HOP
 
-Any technical question about your HOP? We want to familiarize you with asking questions in the #dev channel and P2P. These channels will be your main channels to ask questions during your time at Commit!
+Any technical question about your HOP? We want to familiarize you with asking questions [on our platform](https://app.commit.dev/p2p). 
 
 ## Day 6
 
@@ -189,13 +193,17 @@ You might consider doing a dry-run of your HOP Demo by getting in touch with the
  - [ ] Add your HOP Demo to your [Project section](http://app.commit.dev/projects) on the platform! Our Startup Partners often review HOP Demos so it's important to make sure this is updated!
 - [ ] If you haven't yet, update your LinkedIn using [this guide](https://docs.google.com/document/d/1Fa9-vQwBXfgj19l5ftXQihua7f8zg-dIPzl12J7g2Xs/edit?usp=sharing). You might even consider sharing your HOP Demo recording once it's uploaded to YouTube - just ask the Engineer Success team!
 - [ ] Review the [Community Contribution expectations](https://docs.commit.dev/eps/ep-expectations#community-contributions) in our EP Expectations article so you can grow your skills and better our community!
+:::note
+Until your pilot, it's expected you'll continue to contribute to our community by starting at least 2 discussions weekly, and replying to at least 2 discussions weekly. 
+:::
 
 **Not placed with an SP yet?**
 
 -   Continue working on your HOP or start a new HOP. While it's not mandatory, you are encouraged to present at future demos to share your progress and gain support and insights from our community! 
--   Sharpen your development skills by taking a MOOC (massive open online course). If you choose this route, it's expected you'll work out loud and share your learning through blog and/or LinkedIn posts
         
 -   Know an awesome startup you want to join our community? [Invite them!](https://docs.commit.dev/contribute/sp-invite) 
+
+
 
 We're looking forward to continuing to celebrate your accomplishments!! :)
 
