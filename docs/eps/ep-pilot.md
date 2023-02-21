@@ -59,6 +59,10 @@ We want to help you balance between (1) maximizing your time working with and ge
 
 Ideally, Commit, the SP, and the EP will all try to align on a time-off plan that is acceptable to all parties. If you have vacation planned that is longer than 3 days, let the Engineer Success team know so we can help you navigate this request!
 
+:::note
+Taking vacation is important! You will have likely accrued time off between your first day at Commit and your pilot start date. You're entitled to this time off, and we strongly encourage you to work with your SP to schedule vacation early on in your pilot. The Engineer Success team is happy to help you with any questions around this.
+:::
+
 ## How do I decide if I want to join a start-up full-time after my pilot?
 
 There are 5 key factors you might consider when deciding to join an SP full-time after your pilot. You might not say yes to all of these things! What’s most important is that you feel confidence that spending the next chapter of your professional career at this company will bring you enjoyment and/or purpose.
