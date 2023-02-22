@@ -59,4 +59,6 @@ Generally, here is what to expect during the offboarding process:
 
 You will still be a part of the Commit community, have access to our Slack groups, our past and upcoming events, and invited to attend our bi-weekly HOP Demos and monthly All Hands (and we hope you do!).
 
-We want to support you as a member of the Commit community even when you have graduated, including helping you continue growing your career and skills. So we encourage you to stay involved, keep asking (or answering) questions, and getting advice from others in the community. We truly believe that collaboration is the key to success and this is a very open and inclusive community of senior software engineers!
+We want to support you as a member of the Commit community even when you have graduated, including helping you continue growing your career and skills. As a graduate, it's expected that you'll stay involved, keep asking (or answering) questions, and receive advice from others in the community. We expect at least 1 contribution for projects, discussion posts, and replies each month. This will hep you deepen your connections with others and build credibility as a trusted community member. 
+
+We truly believe that collaboration is the key to success and this is a very open and inclusive community of senior software engineers!
