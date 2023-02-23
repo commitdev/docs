@@ -9,13 +9,14 @@ In this article, you will find a general overview of SP interviews, what you can
 
 ## What You Can Expect
 
-Generally, we encourage SPs to conduct a single 1 hour interview with Commit EPs. The focus is to get to know the engineer's skillset and experiences and ensure a good fit for the startup. We share that Commit EPs do not expect a technical component in their interviews and are not actively going through technical interviews at other organizations. You can see a complete summary of what we communicate with SPs [in Commit's Guide to Interviewing Commit Engineers](https://www.notion.so/A-Guide-to-Interviewing-Commit-Engineers-8d8e9f4441e74137b082d0b140bcb454).
+For all of our Career Transitions programs, we encourage SPs to conduct 1-2 interviews total. The focus is to get to know the developer's skillset and experiences and ensure a good fit for the startup.  
 
-### Times Your Interview Process May Deviate From The Standard
+You can see a complete summary of what we communicate with SPs [in Commit's Guide to Interviewing Commit Engineers](https://docs.commit.dev/sps/commit-interviews).
 
-Some SPs may conduct more than one interview, ask you to complete a take-home coding assignment or do a technical interview. We understand this is not a standard process. When this arises, **it is up to you whether you would like to proceed or not**. The Engineer Success team will support you in your decision as we understand that this deviates from the norm. However, please understand that choosing to push back on this may result in losing your candidacy.
+:::note
+For developers in Commit's EP Program only, we share that Commit EPs do not expect a technical component in their interviews and are not actively going through technical interviews at other organizations. If you are in the EP program and are asked to complete a take-home coding assignment or do a technical interview, **it is up to you whether you would like to proceed or not**.
+:::
 
-Commit accepts SPs with these requirements because we feel that choice is a good thing. These SPs would not work with Commit if we did not deviate from our standard interview process. 
 
 ## Before The Interview
 
@@ -60,7 +61,7 @@ Commit accepts SPs with these requirements because we feel that choice is a good
 
 **Reframe Your Knowledge and Experience Gaps**
 
-- Always make sure to talk about your gaps (weaknesses) in a positive light. Discuss what you are doing to improve your skills, and what resources you can leverage within the Commit community such as [mentorship](https://docs.commit.dev/contribute/mentorship) and [Peer to Peer (P2P)](https://app.commit.dev/p2p). 
+- Always make sure to talk about your gaps (weaknesses) in a positive light. Discuss what you are doing to improve your skills, and what resources you can leverage within the Commit community such as our [Discussions](https://app.commit.dev/discussions) and [Projects](https://app.commit.dev/projects) platforms. 
 
 **Ensure You Provide a Comprehensive Answer**
 
@@ -89,7 +90,7 @@ Want more practice? Here’s a [list of behavioural interview questions to pract
 ## During the Interview
 
 - Arrive at your Zoom interview on time but not too early. We recommend entering your Zoom interview 2-3 minutes before your scheduled interview time. 
-  - What happens if the interviewer doesn’t show up? If it’s been 5-10 minutess past the interview time and no one from the SP team has showed up, please email the SP about this matter.  
+  - What happens if the interviewer doesn’t show up? If it’s been 5-10 minutes past the interview time and no one from the SP team has showed up, please email the SP about this matter.  
 - Go in with a positive attitude, warmth, and smile. This may seem obvious, but in a virtual interview, [body language can be harder to read](https://recruitingdaily.com/how-employers-can-read-virtual-body-language-while-hiring/).  
   - SPs are not only looking for someone who can code, but a core team member who can also lead, build team culture and are excited with what they are working on. 
 
@@ -109,6 +110,6 @@ Want more practice? Here’s a [list of behavioural interview questions to pract
   - The goal is to reiterate why you’d be a good fit, and also share about why you’re excited about the opportunity
 - Make some notes - what questions really threw you off? What questions do you feel you answered exceptionally well?
   - Reflecting on an interview is a key part of improvement. Interviewing is a skill and takes practice to really hone your craft. 
-- After reflecting on what went well and what didn’t go as expected, feel free to share these in your EPX channel - we are here to help support you and help you improve your interview skills! 
+- After reflecting on what went well and what didn’t go as expected, feel free to share these with the Engineer Success team - we are here to help support you and help you improve your interview skills! 
 
-If you have any questions about anything related to SP interviews, drop them in your EPX channel or ask for a one-on-one coaching session with a member of the Engineer Success team!
+If you have any questions about anything related to SP interviews, drop them in your private Slack channel or ask for a one-on-one coaching session with a member of the Engineer Success team!
