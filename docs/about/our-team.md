@@ -44,9 +44,9 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 
 ### Team: Growth and Marketing
 
-#### Canberk Bal: Growth Coordinator
 #### Colin O'Hearn: VP, Growth
 #### Rammeya Jegatheeswaran: Growth Coordinator
+#### Jericha Yammer: Technical Recruiter
 
 ### Team: Internal Dev
 
