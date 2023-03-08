@@ -30,11 +30,11 @@ pics of all ST members with titles and fun facts to be added! The suspense...
 #### Beier Cai: CTO
 #### Tiff Jung: COO
 
-### Team: Engineer Success
+### Team: Customer Success
 
 #### Lauren Harcott: VP, Customer Success
-#### Janelle Stiehl: Account Manager
-#### Louisa Smith: Senior Engineer Success Coordinator
+#### Janelle Stiehl: Developer Experience Lead
+#### Louisa Smith: Success Manager
 
 ### Team: Finance and Operations
 
