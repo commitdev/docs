@@ -10,20 +10,20 @@ Commit is currently in closed beta and we are learning a lot each day! As we ope
 
 ### Principles that make the Commit community a special place
 
-The Commit community was designed to provide the software development community a safe place to build long term relationships (to both ask questions and celebrate the small wins) throughout their career transitions.
+The Commit community was designed to provide the software development community a safe place to build long term relationships (to both ask questions and celebrate the small wins) throughout your career.
 
 - **Be yourself**: Authenticity is the backbone of Commit, from our go to market strategy to our community, and that starts with you!
-- **Work Out Loud**: This is one of the core operating principles that prop up the community here at Commit. We operate in an open culture of asking for help and helping others in return. If you have questions about the work you are doing, even on a pilot or after graduating, post it in the relevant Slack channels! It is likely others have the same questions or can help with yours.
+- **Work Out Loud**: This is one of the core operating principles that prop up the community here at Commit. We operate in an open culture of asking for help and helping others in return. If you have questions, it is likely others have the same questions or can help with yours.
 - **Be Respectful**: This applies to every person, at all times, regardless of what stage of the EP journey you are at.
 - **Be Inclusive**: At Commit we believe there is tremendous value in diversity. We all come from different backgrounds that only add value when we come together as a community.
 
 ### Maintaining Commit Authenticity
 
-Commit is a community of talented startup engineers committed to collaborating in order to accelerate personal growth.
+Commit is a community of talented startup developers committed to collaborating in order to accelerate personal growth.
 
 By design, this is a place to go when you need to "get unstuck" on one of the many tricky problems you will encounter as an early stage tech lead.
 
-To help keep this an effective place for peer-to-peer collaboration, we ask that you refrain from posting job opportunities. If there is an opportunity that you think your fellow Commit EPs could benefit from, please reach out to startups@commit.dev!
+To help keep this an effective place for peer-to-peer collaboration, we ask that you refrain from posting job opportunities. If there is an opportunity that you think your fellow community members could benefit from, please reach out to startups@commit.dev!
 
 ## Social Media Policy
 
@@ -44,7 +44,7 @@ Be careful about what personal information you share online. Do not publish, pos
 ## Harassment and Zero Tolerance
 
 Commit does not allow harassment of any kind to or by our community members. Even though we are a remote company there are still many forms of harassment that can happen in the workplace. If you are being harassed (or even feel like you might be) you should bring it up with HR at hr@commit.dev.
-
+<!--
 This applies to us working with our startup partners too. If you are experiencing anything with startup partners that are making you feel uneasy, we will do our best to either resolve the issue or move you to another pilot.
 
-If you don’t feel comfortable bringing it up with them, find another member of the Engineer Success Team that you can talk to about the issue.
+If you don’t feel comfortable bringing it up with them, find another member of the Engineer Success Team that you can talk to about the issue.-->
