@@ -23,36 +23,3 @@ We know we must stay committed to equality in these numbers, including and espec
 ```
 pics of all ST members with titles and fun facts to be added! The suspense... 
 ```
-
-### Team: Executives
-
-#### Greg Gunn: CEO
-#### Beier Cai: CTO
-#### Tiff Jung: COO
-
-### Team: Customer Success
-
-#### Lauren Harcott: VP, Customer Success
-#### Janelle Stiehl: Developer Experience Lead
-#### Louisa Smith: Success Manager
-
-### Team: Finance and Operations
-
-#### Jaime Yulo: Senior Manager
-#### Renee Tung: Director
-#### Rolton Edwards: Manager
-
-### Team: Growth and Marketing
-
-#### Colin O'Hearn: VP, Growth
-#### Rammeya Jegatheeswaran: Growth Coordinator
-#### Jericha Yammer: Technical Recruiter
-
-### Team: Internal Dev
-
-#### Bill Monkman: Chief Architect
-#### David Cheung: Developer
-#### Helen Park: Head of Design
-#### Julie Huang: Developer
-#### Phong Thieu: Director of Engineering
-#### Simon Ho: Team Lead
