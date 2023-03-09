@@ -4,9 +4,7 @@ sidebar_label: How We Work
 sidebar_position: 4
 ---
 
-We are an employee-centric company and we believe that the future of work is asynchronous. In order to achieve an efficient asynchronous working culture, it's important to us that all our engineers stay connected and are efficient and productive with their work. 
- 
-We place an emphasis on Working Out Loud (WOL) and being open in your communication through our current async and synchronous communication channels: [Slack](https://commitdev.slack.com), email, [the Commit platform](https://app.commit.dev), and Zoom. 
+We are an employee-centric company and we believe that the future of work is asynchronous. In order to achieve an efficient asynchronous working culture, it's important to us that all our people stay connected and are efficient and productive with their work. We place an emphasis on Working Out Loud (WOL) and being open in async and synchronous communication channels. 
  
 The following 7 guidelines help us stick to the WOL, employee-centric mandate. 
 
