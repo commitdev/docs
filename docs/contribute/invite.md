@@ -1,17 +1,19 @@
 ---
-title: Invite an Engineer
-sidebar_label: Invite an Engineer
+title: Recommend an Engineer
+sidebar_label: Recommend an Engineer
 sidebar_position: 4
 ---
 
-Invitations are the life-blood of Commit. They ensure that we can continue to grow our community while keeping the talent-level high.
+Commit is officially an Invite-only network of software developers! 
 
-We want to make it easier and lightweight for EPs to invite/recommend/share Commit with another software engineer in a natural way.
+This is important for us to maintain the validity of our pre-vetted network and to ensure our community members 
 
-If being part of the Commit community and EP program has benefited you, think about who else in your network it could help. 
+are the ones who get to do the inviting. 
 
-Whenever you are ready to invite someone you can fill out [this form](https://4xbxmmanuuz.typeform.com/to/GRKuyGRl) - it should only take 1 minute! 
+Recommendations are the life-blood of Commit. They ensure that we can continue to grow our community while keeping the talent-level high.
 
-We will then jump in to figure out how we can best support them. Even if they are not looking for a new job today, we are starting to roll out more products and programs that can help them catalyze a startup engineering career.
+If being part of the Commit community has benefited you, think about who else in your network it could help. 
+
+Whenever you are ready to invite someone you can log into out app, and fill out the Recommend button in the top nav bar.
 
 Thank you for your support! 
