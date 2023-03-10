@@ -65,11 +65,11 @@ const algolia = {
         // Top navigation bar's shortcut to places OR External Links
         items: [
           // Example of shortcut to doc
-          {
-            href: '/eps/ep-expectations',
-            position: 'right',
-            label: 'EP Expectations',
-          },
+//           {
+//             href: '/eps/ep-expectations',
+//             position: 'right',
+//             label: 'EP Expectations',
+//           },
           // Example of external link
           {
             href: 'https://github.com/commitdev/docs',
