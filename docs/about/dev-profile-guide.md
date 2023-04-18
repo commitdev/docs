@@ -1,7 +1,7 @@
 ---
 title: Creating and Editing Your Commit Platform Profile
 sidebar_label: Platform Profile Guide
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 ## Creating an Account[​](https://docs.commit.dev/epresources/ep-profile-guide#creating-an-account)
