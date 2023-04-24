@@ -1,7 +1,7 @@
 ---
 title: How to Report an Issue or Bug
 sidebar_label: How to Report a Bug
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 At Commit we encourage engineers to report any bugs or issues that they find with our Platform, these Commit Docs, or really anything else. We recognize the value of having a community of engineers that are able to report these bugs to help better both our product and the work our team is doing. 
