@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 sidebar_label: Code of Conduct
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 ## Community Guidelines
