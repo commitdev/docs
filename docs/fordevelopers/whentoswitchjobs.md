@@ -1,14 +1,16 @@
 ---
-title: Additional Resources
-sidebar_label: Additional Resources
-sidebar_position: 8
+title: When to Switch Jobs
+sidebar_label: When to Switch Jobs
+sidebar_position: 2
 ---
 
-# A Reflection Guide on Determining When it’s Time to Quit
+# When to Switch Jobs
 
-At Commit, we work and converse with software developers from different walks of life. A common theme among these developers is that they don’t get many opportunities to work on impactful projects. Most developers know when they’re not entirely happy in their jobs, but certain factors and circumstances keep them going. We want to shatter this pattern by breaking down red flags that indicate it’s time for developers to quit and find a better opportunity. Take a moment to review each warning sign and the reflective questions to determine if you’re happy or unhappy in your current role. When you reflect on these questions, put yourself in the present moment to identify how you feel right now, in the present.
+At Commit, we interact with software developers from all different walks of life. A common theme among these developers is that they don’t get many opportunities to work on impactful projects. Most developers know when they’re not entirely happy in their jobs, but certain factors and circumstances keep them going. We want to shatter this pattern by breaking down red flags that indicate it’s time for developers to look for the next opportunity. 
 
-## Lack of Career Growth and Development 📈
+Take a moment to review each warning sign and the reflective questions to determine if you’re happy or unhappy in your current role. When you reflect on these questions, put yourself in the present moment to identify how you feel right now, in the present.
+
+## Lack of career growth and development 📈
 
 -   Are you working on projects that excite you and challenge you?
     
@@ -24,7 +26,7 @@ If you answered yes to these questions, that’s great! If you answered no, it m
 
 ***When you wake up in the morning, how do you feel about going to work?***
 
-## Poor Compensation and Benefits 💰
+## Poor compensation and benefits 💰
 
 -   Are you being fairly compensated?
     
@@ -34,7 +36,7 @@ These two questions are vital because many developers are overworked and underpa
 
 ***How satisfied are you with your current salary and benefits?***
 
-## No Job Security 🔒
+## No job security 🔒
 
 -   Are you being given fewer projects to work on?
     
@@ -52,7 +54,7 @@ These questions can help you determine whether your job is at stake and if you�
 
 ***How secure is your current job?***
 
-## No Work-Life Balance ⚖️
+## No work-life balance ⚖️
 
 -   How do you feel when you start your day and when you end your day?
     - Are there differences between how you feel during the start vs the end of your day?    
@@ -96,7 +98,7 @@ As mentioned previously, failing to take care of yourself and ignoring early sig
 
 ***How is your company supporting your health needs?***
 
-## Poor Team Collaboration 👩‍💻🧑‍💻👨‍💻
+## Poor team collaboration 👩‍💻🧑‍💻👨‍💻
 
   -   What is it like to work with your team?
       - What works well? 
@@ -110,7 +112,7 @@ Many developers have to work in teams as a natural part of their day-to-day job.
 
 ***Does your team lift you higher or leave you stranded?***
 
-## Too Many Blockers 🚧
+## Too many blockers 🚧
 
 -   Are you working on a lot of legacy code?
 
@@ -123,14 +125,14 @@ In some companies, developers spend most of their time repairing poorly written 
 
 ***Are you working on meaningful projects or burning cycles with technical debt?***
 
-## No Recognition 🏆
+## No recognition or appreciation 🏆
 
 -   Do you feel valued and appreciated by your manager and team?
     
 -   Do you get the recognition and credit you deserve for the work you do?
     - If yes, how often? 
     - If no, do you know why this is the case?
-      - If you don’t know why, have you tried to find out why, and what steps have you taken to get clarity?
+    - If you don’t know why, have you tried to find out why, and what steps have you taken to get clarity?
 
 -   How are you treated by your team and manager when you accomplish something?
 
@@ -142,7 +144,7 @@ Though developers are expected to code, maintain, and ensure smooth systems oper
 
 ***Would you want to stay at a company that doesn’t recognize or value your input?***
 
-## Unpredictable Future 📉
+## Unpredictable future 📉
 
 -   How do you feel about the company’s future and the direction it’s headed?
     
@@ -154,7 +156,7 @@ Not all companies are successful, and not all are failures. It all depends on th
 
 ***How do you see your company evolving?***
 
-## Toxic Company Culture 🏢
+## Toxic company culture 🏢
 -   Are the company’s core values reflected in its actions?
     
 -   Do you have a healthy work-life balance?
