@@ -4,8 +4,6 @@ sidebar_label: Agency Program Expectations
 sidebar_position: 1
 ---
 
-## Agency Program Expectations
-
 ## Welcome to Commit!
 
 Here are some critical things for you to know as as a developer in Commit’s Agency Program: 
