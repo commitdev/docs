@@ -10,7 +10,7 @@ At Commit, we interact with software developers from all different walks of life
 
 Take a moment to review each warning sign and the reflective questions to determine if you’re happy or unhappy in your current role. When you reflect on these questions, put yourself in the present moment to identify how you feel right now, in the present.
 
-## Lack of career growth and development 📈
+## Lack of Career Growth and Development 📈
 
 -   Are you working on projects that excite you and challenge you?
     
@@ -26,7 +26,7 @@ If you answered yes to these questions, that’s great! If you answered no, it m
 
 ***When you wake up in the morning, how do you feel about going to work?***
 
-## Poor compensation and benefits 💰
+## Poor Compensation and Benefits 💰
 
 -   Are you being fairly compensated?
     
@@ -36,7 +36,7 @@ These two questions are vital because many developers are overworked and underpa
 
 ***How satisfied are you with your current salary and benefits?***
 
-## No job security 🔒
+## No Job Security 🔒
 
 -   Are you being given fewer projects to work on?
     
@@ -54,7 +54,7 @@ These questions can help you determine whether your job is at stake and if you�
 
 ***How secure is your current job?***
 
-## No work-life balance ⚖️
+## No Work-Life Balance ⚖️
 
 -   How do you feel when you start your day and when you end your day?
     - Are there differences between how you feel during the start vs the end of your day?    
@@ -98,7 +98,7 @@ As mentioned previously, failing to take care of yourself and ignoring early sig
 
 ***How is your company supporting your health needs?***
 
-## Poor team collaboration 👩‍💻🧑‍💻👨‍💻
+## Poor Team Collaboration 👩‍💻🧑‍💻👨‍💻
 
   -   What is it like to work with your team?
       - What works well? 
@@ -112,7 +112,7 @@ Many developers have to work in teams as a natural part of their day-to-day job.
 
 ***Does your team lift you higher or leave you stranded?***
 
-## Too many blockers 🚧
+## Too Many Blockers 🚧
 
 -   Are you working on a lot of legacy code?
 
@@ -125,7 +125,7 @@ In some companies, developers spend most of their time repairing poorly written 
 
 ***Are you working on meaningful projects or burning cycles with technical debt?***
 
-## No recognition or appreciation 🏆
+## No Recognition or Appreciation 🏆
 
 -   Do you feel valued and appreciated by your manager and team?
     
@@ -144,7 +144,7 @@ Though developers are expected to code, maintain, and ensure smooth systems oper
 
 ***Would you want to stay at a company that doesn’t recognize or value your input?***
 
-## Unpredictable future 📉
+## Unpredictable Future 📉
 
 -   How do you feel about the company’s future and the direction it’s headed?
     
@@ -156,7 +156,7 @@ Not all companies are successful, and not all are failures. It all depends on th
 
 ***How do you see your company evolving?***
 
-## Toxic company culture 🏢
+## Toxic Company Culture 🏢
 -   Are the company’s core values reflected in its actions?
     
 -   Do you have a healthy work-life balance?
